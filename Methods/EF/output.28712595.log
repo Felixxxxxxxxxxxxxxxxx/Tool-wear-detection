@@ -1,0 +1,2159 @@
+/home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Turning/Train_aug/images/
+Begin to read images from /home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Turning/Train_aug/images/
+  0%|          | 0/200 [00:00<?, ?it/s]  9%|▉         | 18/200 [00:00<00:01, 172.95it/s] 18%|█▊        | 37/200 [00:00<00:00, 182.00it/s] 28%|██▊       | 56/200 [00:00<00:00, 183.25it/s] 38%|███▊      | 75/200 [00:00<00:00, 183.66it/s] 47%|████▋     | 94/200 [00:00<00:00, 185.12it/s] 56%|█████▋    | 113/200 [00:00<00:00, 186.24it/s] 66%|██████▋   | 133/200 [00:00<00:00, 187.61it/s] 76%|███████▌  | 152/200 [00:00<00:00, 186.90it/s] 86%|████████▌ | 172/200 [00:00<00:00, 188.06it/s] 96%|█████████▌| 191/200 [00:01<00:00, 188.04it/s]100%|██████████| 200/200 [00:01<00:00, 186.24it/s]
+Begin to read masks from /home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Turning/Train_aug/masks/
+  0%|          | 0/200 [00:00<?, ?it/s] 31%|███       | 62/200 [00:00<00:00, 615.71it/s] 62%|██████▏   | 124/200 [00:00<00:00, 613.51it/s] 94%|█████████▎| 187/200 [00:00<00:00, 619.16it/s]100%|██████████| 200/200 [00:00<00:00, 618.98it/s]
+/home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Turning/Inference_aug/images/
+Begin to read images from /home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Turning/Inference_aug/images/
+  0%|          | 0/200 [00:00<?, ?it/s] 11%|█         | 22/200 [00:00<00:00, 213.88it/s] 22%|██▏       | 44/200 [00:00<00:00, 215.25it/s] 33%|███▎      | 66/200 [00:00<00:00, 214.42it/s] 44%|████▍     | 88/200 [00:00<00:00, 210.29it/s] 55%|█████▌    | 110/200 [00:00<00:00, 206.51it/s] 66%|██████▌   | 131/200 [00:00<00:00, 207.05it/s] 76%|███████▌  | 152/200 [00:00<00:00, 206.31it/s] 86%|████████▋ | 173/200 [00:00<00:00, 207.17it/s] 98%|█████████▊| 195/200 [00:00<00:00, 208.39it/s]100%|██████████| 200/200 [00:00<00:00, 208.68it/s]
+Begin to read masks from /home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Turning/Inference_aug/masks/
+  0%|          | 0/200 [00:00<?, ?it/s] 30%|██▉       | 59/200 [00:00<00:00, 582.51it/s] 59%|█████▉    | 118/200 [00:00<00:00, 576.28it/s] 88%|████████▊ | 177/200 [00:00<00:00, 578.57it/s]100%|██████████| 200/200 [00:00<00:00, 577.50it/s]
+/home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Milling/Train_aug/images/
+Begin to read images from /home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Milling/Train_aug/images/
+  0%|          | 0/200 [00:00<?, ?it/s] 10%|▉         | 19/200 [00:00<00:00, 189.59it/s] 19%|█▉        | 38/200 [00:00<00:00, 189.42it/s] 29%|██▉       | 58/200 [00:00<00:00, 191.32it/s] 39%|███▉      | 78/200 [00:00<00:00, 192.56it/s] 49%|████▉     | 98/200 [00:00<00:00, 194.04it/s] 59%|█████▉    | 118/200 [00:00<00:00, 192.27it/s] 69%|██████▉   | 138/200 [00:00<00:00, 191.71it/s] 79%|███████▉  | 158/200 [00:00<00:00, 191.48it/s] 89%|████████▉ | 178/200 [00:00<00:00, 191.22it/s] 99%|█████████▉| 198/200 [00:01<00:00, 190.83it/s]100%|██████████| 200/200 [00:01<00:00, 191.39it/s]
+Begin to read masks from /home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Milling/Train_aug/masks/
+  0%|          | 0/200 [00:00<?, ?it/s] 28%|██▊       | 56/200 [00:00<00:00, 558.65it/s] 56%|█████▋    | 113/200 [00:00<00:00, 564.84it/s] 86%|████████▌ | 171/200 [00:00<00:00, 567.98it/s]100%|██████████| 200/200 [00:00<00:00, 566.86it/s]
+/home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Milling/Inference_aug/images/
+Begin to read images from /home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Milling/Inference_aug/images/
+  0%|          | 0/200 [00:00<?, ?it/s]  5%|▌         | 10/200 [00:00<00:01, 99.43it/s] 10%|█         | 20/200 [00:00<00:01, 99.53it/s] 16%|█▌        | 31/200 [00:00<00:01, 100.86it/s] 21%|██        | 42/200 [00:00<00:01, 101.12it/s] 26%|██▋       | 53/200 [00:00<00:01, 101.33it/s] 32%|███▏      | 64/200 [00:00<00:01, 101.30it/s] 38%|███▊      | 75/200 [00:00<00:01, 102.74it/s] 43%|████▎     | 86/200 [00:00<00:01, 103.27it/s] 48%|████▊     | 97/200 [00:00<00:00, 103.90it/s] 54%|█████▍    | 108/200 [00:01<00:00, 104.50it/s] 60%|█████▉    | 119/200 [00:01<00:00, 103.55it/s] 65%|██████▌   | 130/200 [00:01<00:00, 103.39it/s] 70%|███████   | 141/200 [00:01<00:00, 103.35it/s] 76%|███████▌  | 152/200 [00:01<00:00, 102.77it/s] 82%|████████▏ | 163/200 [00:01<00:00, 102.99it/s] 87%|████████▋ | 174/200 [00:01<00:00, 102.30it/s] 92%|█████████▎| 185/200 [00:01<00:00, 102.76it/s] 98%|█████████▊| 196/200 [00:01<00:00, 103.09it/s]100%|██████████| 200/200 [00:01<00:00, 102.65it/s]
+Begin to read masks from /home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Milling/Inference_aug/masks/
+  0%|          | 0/200 [00:00<?, ?it/s] 15%|█▌        | 30/200 [00:00<00:00, 299.87it/s] 30%|███       | 61/200 [00:00<00:00, 302.21it/s] 46%|████▌     | 92/200 [00:00<00:00, 301.29it/s] 62%|██████▏   | 124/200 [00:00<00:00, 306.27it/s] 78%|███████▊  | 155/200 [00:00<00:00, 304.08it/s] 93%|█████████▎| 186/200 [00:00<00:00, 304.80it/s]100%|██████████| 200/200 [00:00<00:00, 304.07it/s]
+2022-07-14 17:35:42.987527: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-07-14 17:35:43.499085: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 14640 MB memory:  -> device: 0, name: Tesla V100-SXM2-16GB, pci bus id: 0000:61:00.0, compute capability: 7.0
+X_train   (160, 512, 512, 1)
+Y_train   (160, 512, 512, 2)
+Model: "model"
+__________________________________________________________________________________________________
+ Layer (type)                   Output Shape         Param #     Connected to                     
+==================================================================================================
+ input_1 (InputLayer)           [(None, 512, 512, 1  0           []                               
+                                )]                                                                
+                                                                                                  
+ conv2d (Conv2D)                (None, 512, 512, 4)  40          ['input_1[0][0]']                
+                                                                                                  
+ dropout (Dropout)              (None, 512, 512, 4)  0           ['conv2d[0][0]']                 
+                                                                                                  
+ conv2d_1 (Conv2D)              (None, 512, 512, 4)  148         ['dropout[0][0]']                
+                                                                                                  
+ max_pooling2d (MaxPooling2D)   (None, 256, 256, 4)  0           ['conv2d_1[0][0]']               
+                                                                                                  
+ conv2d_2 (Conv2D)              (None, 256, 256, 8)  296         ['max_pooling2d[0][0]']          
+                                                                                                  
+ dropout_1 (Dropout)            (None, 256, 256, 8)  0           ['conv2d_2[0][0]']               
+                                                                                                  
+ conv2d_3 (Conv2D)              (None, 256, 256, 8)  584         ['dropout_1[0][0]']              
+                                                                                                  
+ max_pooling2d_1 (MaxPooling2D)  (None, 128, 128, 8)  0          ['conv2d_3[0][0]']               
+                                                                                                  
+ conv2d_4 (Conv2D)              (None, 128, 128, 16  1168        ['max_pooling2d_1[0][0]']        
+                                )                                                                 
+                                                                                                  
+ dropout_2 (Dropout)            (None, 128, 128, 16  0           ['conv2d_4[0][0]']               
+                                )                                                                 
+                                                                                                  
+ conv2d_5 (Conv2D)              (None, 128, 128, 16  2320        ['dropout_2[0][0]']              
+                                )                                                                 
+                                                                                                  
+ max_pooling2d_2 (MaxPooling2D)  (None, 64, 64, 16)  0           ['conv2d_5[0][0]']               
+                                                                                                  
+ conv2d_6 (Conv2D)              (None, 64, 64, 32)   4640        ['max_pooling2d_2[0][0]']        
+                                                                                                  
+ dropout_3 (Dropout)            (None, 64, 64, 32)   0           ['conv2d_6[0][0]']               
+                                                                                                  
+ conv2d_7 (Conv2D)              (None, 64, 64, 32)   9248        ['dropout_3[0][0]']              
+                                                                                                  
+ max_pooling2d_3 (MaxPooling2D)  (None, 32, 32, 32)  0           ['conv2d_7[0][0]']               
+                                                                                                  
+ conv2d_8 (Conv2D)              (None, 32, 32, 64)   18496       ['max_pooling2d_3[0][0]']        
+                                                                                                  
+ dropout_4 (Dropout)            (None, 32, 32, 64)   0           ['conv2d_8[0][0]']               
+                                                                                                  
+ conv2d_9 (Conv2D)              (None, 32, 32, 64)   36928       ['dropout_4[0][0]']              
+                                                                                                  
+ conv2d_transpose (Conv2DTransp  (None, 64, 64, 32)  8224        ['conv2d_9[0][0]']               
+ ose)                                                                                             
+                                                                                                  
+ concatenate (Concatenate)      (None, 64, 64, 64)   0           ['conv2d_transpose[0][0]',       
+                                                                  'conv2d_7[0][0]']               
+                                                                                                  
+ conv2d_10 (Conv2D)             (None, 64, 64, 32)   18464       ['concatenate[0][0]']            
+                                                                                                  
+ dropout_5 (Dropout)            (None, 64, 64, 32)   0           ['conv2d_10[0][0]']              
+                                                                                                  
+ conv2d_11 (Conv2D)             (None, 64, 64, 32)   9248        ['dropout_5[0][0]']              
+                                                                                                  
+ conv2d_transpose_1 (Conv2DTran  (None, 128, 128, 16  2064       ['conv2d_11[0][0]']              
+ spose)                         )                                                                 
+                                                                                                  
+ concatenate_1 (Concatenate)    (None, 128, 128, 32  0           ['conv2d_transpose_1[0][0]',     
+                                )                                 'conv2d_5[0][0]']               
+                                                                                                  
+ conv2d_12 (Conv2D)             (None, 128, 128, 16  4624        ['concatenate_1[0][0]']          
+                                )                                                                 
+                                                                                                  
+ dropout_6 (Dropout)            (None, 128, 128, 16  0           ['conv2d_12[0][0]']              
+                                )                                                                 
+                                                                                                  
+ conv2d_13 (Conv2D)             (None, 128, 128, 16  2320        ['dropout_6[0][0]']              
+                                )                                                                 
+                                                                                                  
+ conv2d_transpose_2 (Conv2DTran  (None, 256, 256, 8)  520        ['conv2d_13[0][0]']              
+ spose)                                                                                           
+                                                                                                  
+ concatenate_2 (Concatenate)    (None, 256, 256, 16  0           ['conv2d_transpose_2[0][0]',     
+                                )                                 'conv2d_3[0][0]']               
+                                                                                                  
+ conv2d_14 (Conv2D)             (None, 256, 256, 8)  1160        ['concatenate_2[0][0]']          
+                                                                                                  
+ dropout_7 (Dropout)            (None, 256, 256, 8)  0           ['conv2d_14[0][0]']              
+                                                                                                  
+ conv2d_15 (Conv2D)             (None, 256, 256, 8)  584         ['dropout_7[0][0]']              
+                                                                                                  
+ conv2d_transpose_3 (Conv2DTran  (None, 512, 512, 4)  132        ['conv2d_15[0][0]']              
+ spose)                                                                                           
+                                                                                                  
+ concatenate_3 (Concatenate)    (None, 512, 512, 8)  0           ['conv2d_transpose_3[0][0]',     
+                                                                  'conv2d_1[0][0]']               
+                                                                                                  
+ conv2d_16 (Conv2D)             (None, 512, 512, 4)  292         ['concatenate_3[0][0]']          
+                                                                                                  
+ dropout_8 (Dropout)            (None, 512, 512, 4)  0           ['conv2d_16[0][0]']              
+                                                                                                  
+ conv2d_17 (Conv2D)             (None, 512, 512, 4)  148         ['dropout_8[0][0]']              
+                                                                                                  
+ conv2d_18 (Conv2D)             (None, 512, 512, 2)  10          ['conv2d_17[0][0]']              
+                                                                                                  
+==================================================================================================
+Total params: 121,658
+Trainable params: 103,214
+Non-trainable params: 18,444
+__________________________________________________________________________________________________
+2022-07-14 17:35:46.635811: I tensorflow/stream_executor/cuda/cuda_dnn.cc:368] Loaded cuDNN version 8400
+train begins.
+Epoch 1/200
+epoch ends.
+20/20 - 4s - loss: 0.3193 - iou_binarized: 0.3995 - iou: 0.3619 - recall: 0.5310 - precision: 0.5198 - F1_score: 0.5116 - 4s/epoch - 195ms/step
+Epoch 2/200
+epoch ends.
+20/20 - 2s - loss: 0.0921 - iou_binarized: 0.5838 - iou: 0.4722 - recall: 0.6408 - precision: 0.6507 - F1_score: 0.6402 - 2s/epoch - 125ms/step
+Epoch 3/200
+epoch ends.
+20/20 - 2s - loss: 0.0774 - iou_binarized: 0.6543 - iou: 0.5316 - recall: 0.7043 - precision: 0.6874 - F1_score: 0.6935 - 2s/epoch - 125ms/step
+Epoch 4/200
+epoch ends.
+20/20 - 5s - loss: 0.0700 - iou_binarized: 0.6867 - iou: 0.5636 - recall: 0.7318 - precision: 0.7126 - F1_score: 0.7205 - 5s/epoch - 272ms/step
+Epoch 5/200
+epoch ends.
+20/20 - 3s - loss: 0.0644 - iou_binarized: 0.7110 - iou: 0.5893 - recall: 0.7510 - precision: 0.7340 - F1_score: 0.7412 - 3s/epoch - 132ms/step
+Epoch 6/200
+epoch ends.
+20/20 - 3s - loss: 0.0600 - iou_binarized: 0.7309 - iou: 0.6135 - recall: 0.7688 - precision: 0.7537 - F1_score: 0.7601 - 3s/epoch - 128ms/step
+Epoch 7/200
+epoch ends.
+20/20 - 3s - loss: 0.0563 - iou_binarized: 0.7482 - iou: 0.6348 - recall: 0.7843 - precision: 0.7703 - F1_score: 0.7763 - 3s/epoch - 126ms/step
+Epoch 8/200
+epoch ends.
+20/20 - 2s - loss: 0.0532 - iou_binarized: 0.7627 - iou: 0.6536 - recall: 0.7976 - precision: 0.7845 - F1_score: 0.7903 - 2s/epoch - 125ms/step
+Epoch 9/200
+epoch ends.
+20/20 - 3s - loss: 0.0506 - iou_binarized: 0.7748 - iou: 0.6698 - recall: 0.8088 - precision: 0.7967 - F1_score: 0.8020 - 3s/epoch - 125ms/step
+Epoch 10/200
+epoch ends.
+20/20 - 2s - loss: 0.0484 - iou_binarized: 0.7849 - iou: 0.6839 - recall: 0.8182 - precision: 0.8071 - F1_score: 0.8120 - 2s/epoch - 125ms/step
+Epoch 11/200
+epoch ends.
+20/20 - 2s - loss: 0.0465 - iou_binarized: 0.7934 - iou: 0.6961 - recall: 0.8263 - precision: 0.8161 - F1_score: 0.8206 - 2s/epoch - 125ms/step
+Epoch 12/200
+epoch ends.
+20/20 - 2s - loss: 0.0448 - iou_binarized: 0.8008 - iou: 0.7067 - recall: 0.8334 - precision: 0.8238 - F1_score: 0.8280 - 2s/epoch - 125ms/step
+Epoch 13/200
+epoch ends.
+20/20 - 2s - loss: 0.0433 - iou_binarized: 0.8073 - iou: 0.7161 - recall: 0.8395 - precision: 0.8304 - F1_score: 0.8344 - 2s/epoch - 125ms/step
+Epoch 14/200
+epoch ends.
+20/20 - 2s - loss: 0.0420 - iou_binarized: 0.8132 - iou: 0.7244 - recall: 0.8449 - precision: 0.8363 - F1_score: 0.8401 - 2s/epoch - 125ms/step
+Epoch 15/200
+epoch ends.
+20/20 - 2s - loss: 0.0408 - iou_binarized: 0.8184 - iou: 0.7320 - recall: 0.8497 - precision: 0.8415 - F1_score: 0.8451 - 2s/epoch - 124ms/step
+Epoch 16/200
+epoch ends.
+20/20 - 2s - loss: 0.0397 - iou_binarized: 0.8232 - iou: 0.7388 - recall: 0.8541 - precision: 0.8462 - F1_score: 0.8497 - 2s/epoch - 125ms/step
+Epoch 17/200
+epoch ends.
+20/20 - 3s - loss: 0.0386 - iou_binarized: 0.8275 - iou: 0.7451 - recall: 0.8580 - precision: 0.8505 - F1_score: 0.8538 - 3s/epoch - 125ms/step
+Epoch 18/200
+epoch ends.
+20/20 - 2s - loss: 0.0377 - iou_binarized: 0.8315 - iou: 0.7509 - recall: 0.8617 - precision: 0.8544 - F1_score: 0.8576 - 2s/epoch - 125ms/step
+Epoch 19/200
+epoch ends.
+20/20 - 2s - loss: 0.0368 - iou_binarized: 0.8352 - iou: 0.7563 - recall: 0.8650 - precision: 0.8581 - F1_score: 0.8611 - 2s/epoch - 125ms/step
+Epoch 20/200
+epoch ends.
+20/20 - 3s - loss: 0.0359 - iou_binarized: 0.8386 - iou: 0.7613 - recall: 0.8681 - precision: 0.8615 - F1_score: 0.8644 - 3s/epoch - 126ms/step
+Epoch 21/200
+epoch ends.
+20/20 - 2s - loss: 0.0352 - iou_binarized: 0.8417 - iou: 0.7660 - recall: 0.8710 - precision: 0.8646 - F1_score: 0.8674 - 2s/epoch - 125ms/step
+Epoch 22/200
+epoch ends.
+20/20 - 2s - loss: 0.0344 - iou_binarized: 0.8448 - iou: 0.7705 - recall: 0.8737 - precision: 0.8676 - F1_score: 0.8702 - 2s/epoch - 125ms/step
+Epoch 23/200
+epoch ends.
+20/20 - 3s - loss: 0.0338 - iou_binarized: 0.8476 - iou: 0.7746 - recall: 0.8761 - precision: 0.8704 - F1_score: 0.8729 - 3s/epoch - 125ms/step
+Epoch 24/200
+epoch ends.
+20/20 - 2s - loss: 0.0331 - iou_binarized: 0.8503 - iou: 0.7785 - recall: 0.8785 - precision: 0.8730 - F1_score: 0.8754 - 2s/epoch - 125ms/step
+Epoch 25/200
+epoch ends.
+20/20 - 2s - loss: 0.0325 - iou_binarized: 0.8528 - iou: 0.7822 - recall: 0.8807 - precision: 0.8754 - F1_score: 0.8777 - 2s/epoch - 124ms/step
+Epoch 26/200
+epoch ends.
+20/20 - 3s - loss: 0.0319 - iou_binarized: 0.8552 - iou: 0.7858 - recall: 0.8828 - precision: 0.8778 - F1_score: 0.8799 - 3s/epoch - 125ms/step
+Epoch 27/200
+epoch ends.
+20/20 - 6s - loss: 0.0313 - iou_binarized: 0.8576 - iou: 0.7891 - recall: 0.8847 - precision: 0.8799 - F1_score: 0.8820 - 6s/epoch - 290ms/step
+Epoch 28/200
+epoch ends.
+20/20 - 3s - loss: 0.0308 - iou_binarized: 0.8597 - iou: 0.7923 - recall: 0.8866 - precision: 0.8820 - F1_score: 0.8840 - 3s/epoch - 129ms/step
+Epoch 29/200
+epoch ends.
+20/20 - 3s - loss: 0.0303 - iou_binarized: 0.8618 - iou: 0.7953 - recall: 0.8884 - precision: 0.8840 - F1_score: 0.8859 - 3s/epoch - 126ms/step
+Epoch 30/200
+epoch ends.
+20/20 - 3s - loss: 0.0298 - iou_binarized: 0.8638 - iou: 0.7983 - recall: 0.8901 - precision: 0.8859 - F1_score: 0.8877 - 3s/epoch - 126ms/step
+Epoch 31/200
+epoch ends.
+20/20 - 3s - loss: 0.0294 - iou_binarized: 0.8658 - iou: 0.8011 - recall: 0.8917 - precision: 0.8877 - F1_score: 0.8895 - 3s/epoch - 125ms/step
+Epoch 32/200
+epoch ends.
+20/20 - 2s - loss: 0.0289 - iou_binarized: 0.8675 - iou: 0.8037 - recall: 0.8933 - precision: 0.8894 - F1_score: 0.8911 - 2s/epoch - 125ms/step
+Epoch 33/200
+epoch ends.
+20/20 - 3s - loss: 0.0285 - iou_binarized: 0.8693 - iou: 0.8063 - recall: 0.8948 - precision: 0.8910 - F1_score: 0.8927 - 3s/epoch - 125ms/step
+Epoch 34/200
+epoch ends.
+20/20 - 2s - loss: 0.0281 - iou_binarized: 0.8710 - iou: 0.8088 - recall: 0.8962 - precision: 0.8926 - F1_score: 0.8942 - 2s/epoch - 125ms/step
+Epoch 35/200
+epoch ends.
+20/20 - 3s - loss: 0.0278 - iou_binarized: 0.8725 - iou: 0.8111 - recall: 0.8976 - precision: 0.8941 - F1_score: 0.8956 - 3s/epoch - 125ms/step
+Epoch 36/200
+epoch ends.
+20/20 - 2s - loss: 0.0274 - iou_binarized: 0.8741 - iou: 0.8134 - recall: 0.8990 - precision: 0.8955 - F1_score: 0.8970 - 2s/epoch - 125ms/step
+Epoch 37/200
+epoch ends.
+20/20 - 2s - loss: 0.0270 - iou_binarized: 0.8755 - iou: 0.8156 - recall: 0.9002 - precision: 0.8969 - F1_score: 0.8984 - 2s/epoch - 124ms/step
+Epoch 38/200
+epoch ends.
+20/20 - 2s - loss: 0.0267 - iou_binarized: 0.8769 - iou: 0.8177 - recall: 0.9015 - precision: 0.8982 - F1_score: 0.8997 - 2s/epoch - 125ms/step
+Epoch 39/200
+epoch ends.
+20/20 - 3s - loss: 0.0264 - iou_binarized: 0.8782 - iou: 0.8198 - recall: 0.9027 - precision: 0.8995 - F1_score: 0.9009 - 3s/epoch - 126ms/step
+Epoch 40/200
+epoch ends.
+20/20 - 3s - loss: 0.0261 - iou_binarized: 0.8795 - iou: 0.8217 - recall: 0.9038 - precision: 0.9008 - F1_score: 0.9021 - 3s/epoch - 125ms/step
+Epoch 41/200
+epoch ends.
+20/20 - 2s - loss: 0.0258 - iou_binarized: 0.8807 - iou: 0.8237 - recall: 0.9049 - precision: 0.9019 - F1_score: 0.9032 - 2s/epoch - 123ms/step
+Epoch 42/200
+epoch ends.
+20/20 - 2s - loss: 0.0255 - iou_binarized: 0.8819 - iou: 0.8255 - recall: 0.9060 - precision: 0.9031 - F1_score: 0.9044 - 2s/epoch - 125ms/step
+Epoch 43/200
+epoch ends.
+20/20 - 2s - loss: 0.0252 - iou_binarized: 0.8831 - iou: 0.8273 - recall: 0.9070 - precision: 0.9042 - F1_score: 0.9054 - 2s/epoch - 124ms/step
+Epoch 44/200
+epoch ends.
+20/20 - 2s - loss: 0.0249 - iou_binarized: 0.8842 - iou: 0.8291 - recall: 0.9081 - precision: 0.9053 - F1_score: 0.9065 - 2s/epoch - 125ms/step
+Epoch 45/200
+epoch ends.
+20/20 - 2s - loss: 0.0246 - iou_binarized: 0.8854 - iou: 0.8308 - recall: 0.9090 - precision: 0.9063 - F1_score: 0.9075 - 2s/epoch - 124ms/step
+Epoch 46/200
+epoch ends.
+20/20 - 3s - loss: 0.0244 - iou_binarized: 0.8864 - iou: 0.8324 - recall: 0.9100 - precision: 0.9073 - F1_score: 0.9085 - 3s/epoch - 125ms/step
+Epoch 47/200
+epoch ends.
+20/20 - 2s - loss: 0.0241 - iou_binarized: 0.8875 - iou: 0.8340 - recall: 0.9109 - precision: 0.9083 - F1_score: 0.9095 - 2s/epoch - 124ms/step
+Epoch 48/200
+epoch ends.
+20/20 - 2s - loss: 0.0238 - iou_binarized: 0.8885 - iou: 0.8356 - recall: 0.9118 - precision: 0.9093 - F1_score: 0.9104 - 2s/epoch - 125ms/step
+Epoch 49/200
+epoch ends.
+20/20 - 2s - loss: 0.0236 - iou_binarized: 0.8895 - iou: 0.8372 - recall: 0.9127 - precision: 0.9102 - F1_score: 0.9113 - 2s/epoch - 125ms/step
+Epoch 50/200
+epoch ends.
+20/20 - 5s - loss: 0.0234 - iou_binarized: 0.8905 - iou: 0.8386 - recall: 0.9136 - precision: 0.9111 - F1_score: 0.9122 - 5s/epoch - 252ms/step
+Epoch 51/200
+epoch ends.
+20/20 - 3s - loss: 0.0231 - iou_binarized: 0.8914 - iou: 0.8401 - recall: 0.9144 - precision: 0.9120 - F1_score: 0.9131 - 3s/epoch - 129ms/step
+Epoch 52/200
+epoch ends.
+20/20 - 3s - loss: 0.0229 - iou_binarized: 0.8924 - iou: 0.8415 - recall: 0.9152 - precision: 0.9129 - F1_score: 0.9139 - 3s/epoch - 127ms/step
+Epoch 53/200
+epoch ends.
+20/20 - 3s - loss: 0.0227 - iou_binarized: 0.8933 - iou: 0.8429 - recall: 0.9160 - precision: 0.9137 - F1_score: 0.9147 - 3s/epoch - 125ms/step
+Epoch 54/200
+epoch ends.
+20/20 - 2s - loss: 0.0225 - iou_binarized: 0.8942 - iou: 0.8443 - recall: 0.9168 - precision: 0.9146 - F1_score: 0.9155 - 2s/epoch - 124ms/step
+Epoch 55/200
+epoch ends.
+20/20 - 2s - loss: 0.0223 - iou_binarized: 0.8951 - iou: 0.8456 - recall: 0.9175 - precision: 0.9154 - F1_score: 0.9163 - 2s/epoch - 125ms/step
+Epoch 56/200
+epoch ends.
+20/20 - 2s - loss: 0.0220 - iou_binarized: 0.8959 - iou: 0.8469 - recall: 0.9183 - precision: 0.9161 - F1_score: 0.9171 - 2s/epoch - 125ms/step
+Epoch 57/200
+epoch ends.
+20/20 - 2s - loss: 0.0218 - iou_binarized: 0.8967 - iou: 0.8482 - recall: 0.9190 - precision: 0.9169 - F1_score: 0.9178 - 2s/epoch - 124ms/step
+Epoch 58/200
+epoch ends.
+20/20 - 2s - loss: 0.0216 - iou_binarized: 0.8975 - iou: 0.8495 - recall: 0.9197 - precision: 0.9177 - F1_score: 0.9186 - 2s/epoch - 124ms/step
+Epoch 59/200
+epoch ends.
+20/20 - 3s - loss: 0.0214 - iou_binarized: 0.8983 - iou: 0.8507 - recall: 0.9204 - precision: 0.9184 - F1_score: 0.9193 - 3s/epoch - 125ms/step
+Epoch 60/200
+epoch ends.
+20/20 - 2s - loss: 0.0213 - iou_binarized: 0.8991 - iou: 0.8519 - recall: 0.9211 - precision: 0.9191 - F1_score: 0.9200 - 2s/epoch - 124ms/step
+Epoch 61/200
+epoch ends.
+20/20 - 3s - loss: 0.0211 - iou_binarized: 0.8998 - iou: 0.8531 - recall: 0.9218 - precision: 0.9198 - F1_score: 0.9207 - 3s/epoch - 125ms/step
+Epoch 62/200
+epoch ends.
+20/20 - 3s - loss: 0.0209 - iou_binarized: 0.9006 - iou: 0.8543 - recall: 0.9225 - precision: 0.9205 - F1_score: 0.9214 - 3s/epoch - 126ms/step
+Epoch 63/200
+epoch ends.
+20/20 - 3s - loss: 0.0207 - iou_binarized: 0.9013 - iou: 0.8554 - recall: 0.9231 - precision: 0.9212 - F1_score: 0.9220 - 3s/epoch - 125ms/step
+Epoch 64/200
+epoch ends.
+20/20 - 2s - loss: 0.0205 - iou_binarized: 0.9021 - iou: 0.8566 - recall: 0.9237 - precision: 0.9219 - F1_score: 0.9227 - 2s/epoch - 124ms/step
+Epoch 65/200
+epoch ends.
+20/20 - 3s - loss: 0.0204 - iou_binarized: 0.9028 - iou: 0.8577 - recall: 0.9244 - precision: 0.9225 - F1_score: 0.9233 - 3s/epoch - 125ms/step
+Epoch 66/200
+epoch ends.
+20/20 - 2s - loss: 0.0202 - iou_binarized: 0.9035 - iou: 0.8587 - recall: 0.9250 - precision: 0.9232 - F1_score: 0.9240 - 2s/epoch - 124ms/step
+Epoch 67/200
+epoch ends.
+20/20 - 2s - loss: 0.0200 - iou_binarized: 0.9041 - iou: 0.8598 - recall: 0.9256 - precision: 0.9238 - F1_score: 0.9246 - 2s/epoch - 124ms/step
+Epoch 68/200
+epoch ends.
+20/20 - 3s - loss: 0.0198 - iou_binarized: 0.9048 - iou: 0.8609 - recall: 0.9262 - precision: 0.9244 - F1_score: 0.9252 - 3s/epoch - 125ms/step
+Epoch 69/200
+epoch ends.
+20/20 - 2s - loss: 0.0197 - iou_binarized: 0.9055 - iou: 0.8619 - recall: 0.9267 - precision: 0.9250 - F1_score: 0.9258 - 2s/epoch - 124ms/step
+Epoch 70/200
+epoch ends.
+20/20 - 2s - loss: 0.0195 - iou_binarized: 0.9062 - iou: 0.8629 - recall: 0.9273 - precision: 0.9256 - F1_score: 0.9264 - 2s/epoch - 124ms/step
+Epoch 71/200
+epoch ends.
+20/20 - 2s - loss: 0.0194 - iou_binarized: 0.9068 - iou: 0.8639 - recall: 0.9279 - precision: 0.9262 - F1_score: 0.9269 - 2s/epoch - 125ms/step
+Epoch 72/200
+epoch ends.
+20/20 - 3s - loss: 0.0192 - iou_binarized: 0.9074 - iou: 0.8649 - recall: 0.9284 - precision: 0.9268 - F1_score: 0.9275 - 3s/epoch - 125ms/step
+Epoch 73/200
+epoch ends.
+20/20 - 5s - loss: 0.0191 - iou_binarized: 0.9080 - iou: 0.8658 - recall: 0.9289 - precision: 0.9274 - F1_score: 0.9281 - 5s/epoch - 244ms/step
+Epoch 74/200
+epoch ends.
+20/20 - 3s - loss: 0.0189 - iou_binarized: 0.9086 - iou: 0.8668 - recall: 0.9295 - precision: 0.9279 - F1_score: 0.9286 - 3s/epoch - 129ms/step
+Epoch 75/200
+epoch ends.
+20/20 - 3s - loss: 0.0188 - iou_binarized: 0.9092 - iou: 0.8677 - recall: 0.9300 - precision: 0.9284 - F1_score: 0.9291 - 3s/epoch - 126ms/step
+Epoch 76/200
+epoch ends.
+20/20 - 3s - loss: 0.0186 - iou_binarized: 0.9098 - iou: 0.8686 - recall: 0.9305 - precision: 0.9290 - F1_score: 0.9296 - 3s/epoch - 126ms/step
+Epoch 77/200
+epoch ends.
+20/20 - 2s - loss: 0.0185 - iou_binarized: 0.9104 - iou: 0.8695 - recall: 0.9310 - precision: 0.9295 - F1_score: 0.9301 - 2s/epoch - 125ms/step
+Epoch 78/200
+epoch ends.
+20/20 - 3s - loss: 0.0184 - iou_binarized: 0.9110 - iou: 0.8704 - recall: 0.9315 - precision: 0.9300 - F1_score: 0.9306 - 3s/epoch - 126ms/step
+Epoch 79/200
+epoch ends.
+20/20 - 2s - loss: 0.0182 - iou_binarized: 0.9115 - iou: 0.8712 - recall: 0.9319 - precision: 0.9305 - F1_score: 0.9311 - 2s/epoch - 124ms/step
+Epoch 80/200
+epoch ends.
+20/20 - 3s - loss: 0.0181 - iou_binarized: 0.9120 - iou: 0.8720 - recall: 0.9324 - precision: 0.9310 - F1_score: 0.9316 - 3s/epoch - 135ms/step
+Epoch 81/200
+epoch ends.
+20/20 - 2s - loss: 0.0180 - iou_binarized: 0.9126 - iou: 0.8729 - recall: 0.9329 - precision: 0.9315 - F1_score: 0.9321 - 2s/epoch - 124ms/step
+Epoch 82/200
+epoch ends.
+20/20 - 2s - loss: 0.0179 - iou_binarized: 0.9131 - iou: 0.8737 - recall: 0.9333 - precision: 0.9319 - F1_score: 0.9325 - 2s/epoch - 125ms/step
+Epoch 83/200
+epoch ends.
+20/20 - 3s - loss: 0.0177 - iou_binarized: 0.9136 - iou: 0.8745 - recall: 0.9337 - precision: 0.9324 - F1_score: 0.9330 - 3s/epoch - 125ms/step
+Epoch 84/200
+epoch ends.
+20/20 - 2s - loss: 0.0176 - iou_binarized: 0.9141 - iou: 0.8753 - recall: 0.9342 - precision: 0.9328 - F1_score: 0.9334 - 2s/epoch - 125ms/step
+Epoch 85/200
+epoch ends.
+20/20 - 3s - loss: 0.0175 - iou_binarized: 0.9146 - iou: 0.8760 - recall: 0.9346 - precision: 0.9333 - F1_score: 0.9339 - 3s/epoch - 126ms/step
+Epoch 86/200
+epoch ends.
+20/20 - 3s - loss: 0.0174 - iou_binarized: 0.9151 - iou: 0.8768 - recall: 0.9350 - precision: 0.9337 - F1_score: 0.9343 - 3s/epoch - 125ms/step
+Epoch 87/200
+epoch ends.
+20/20 - 2s - loss: 0.0173 - iou_binarized: 0.9155 - iou: 0.8775 - recall: 0.9354 - precision: 0.9342 - F1_score: 0.9347 - 2s/epoch - 124ms/step
+Epoch 88/200
+epoch ends.
+20/20 - 3s - loss: 0.0171 - iou_binarized: 0.9160 - iou: 0.8783 - recall: 0.9358 - precision: 0.9346 - F1_score: 0.9352 - 3s/epoch - 126ms/step
+Epoch 89/200
+epoch ends.
+20/20 - 3s - loss: 0.0170 - iou_binarized: 0.9164 - iou: 0.8790 - recall: 0.9362 - precision: 0.9350 - F1_score: 0.9356 - 3s/epoch - 125ms/step
+Epoch 90/200
+epoch ends.
+20/20 - 2s - loss: 0.0169 - iou_binarized: 0.9168 - iou: 0.8797 - recall: 0.9366 - precision: 0.9354 - F1_score: 0.9360 - 2s/epoch - 125ms/step
+Epoch 91/200
+epoch ends.
+20/20 - 3s - loss: 0.0168 - iou_binarized: 0.9173 - iou: 0.8804 - recall: 0.9370 - precision: 0.9358 - F1_score: 0.9364 - 3s/epoch - 126ms/step
+Epoch 92/200
+epoch ends.
+20/20 - 2s - loss: 0.0167 - iou_binarized: 0.9177 - iou: 0.8811 - recall: 0.9374 - precision: 0.9362 - F1_score: 0.9367 - 2s/epoch - 125ms/step
+Epoch 93/200
+epoch ends.
+20/20 - 2s - loss: 0.0166 - iou_binarized: 0.9181 - iou: 0.8818 - recall: 0.9378 - precision: 0.9366 - F1_score: 0.9371 - 2s/epoch - 125ms/step
+Epoch 94/200
+epoch ends.
+20/20 - 2s - loss: 0.0165 - iou_binarized: 0.9186 - iou: 0.8824 - recall: 0.9381 - precision: 0.9370 - F1_score: 0.9375 - 2s/epoch - 125ms/step
+Epoch 95/200
+epoch ends.
+20/20 - 6s - loss: 0.0164 - iou_binarized: 0.9190 - iou: 0.8831 - recall: 0.9385 - precision: 0.9373 - F1_score: 0.9379 - 6s/epoch - 299ms/step
+Epoch 96/200
+epoch ends.
+20/20 - 3s - loss: 0.0163 - iou_binarized: 0.9194 - iou: 0.8837 - recall: 0.9389 - precision: 0.9377 - F1_score: 0.9382 - 3s/epoch - 138ms/step
+Epoch 97/200
+epoch ends.
+20/20 - 3s - loss: 0.0162 - iou_binarized: 0.9198 - iou: 0.8843 - recall: 0.9392 - precision: 0.9380 - F1_score: 0.9386 - 3s/epoch - 127ms/step
+Epoch 98/200
+epoch ends.
+20/20 - 3s - loss: 0.0161 - iou_binarized: 0.9202 - iou: 0.8850 - recall: 0.9396 - precision: 0.9384 - F1_score: 0.9389 - 3s/epoch - 126ms/step
+Epoch 99/200
+epoch ends.
+20/20 - 2s - loss: 0.0160 - iou_binarized: 0.9206 - iou: 0.8856 - recall: 0.9399 - precision: 0.9387 - F1_score: 0.9393 - 2s/epoch - 125ms/step
+Epoch 100/200
+epoch ends.
+20/20 - 2s - loss: 0.0159 - iou_binarized: 0.9209 - iou: 0.8862 - recall: 0.9402 - precision: 0.9391 - F1_score: 0.9396 - 2s/epoch - 125ms/step
+Epoch 101/200
+epoch ends.
+20/20 - 3s - loss: 0.0158 - iou_binarized: 0.9213 - iou: 0.8868 - recall: 0.9406 - precision: 0.9394 - F1_score: 0.9399 - 3s/epoch - 125ms/step
+Epoch 102/200
+epoch ends.
+20/20 - 2s - loss: 0.0157 - iou_binarized: 0.9217 - iou: 0.8873 - recall: 0.9409 - precision: 0.9397 - F1_score: 0.9403 - 2s/epoch - 123ms/step
+Epoch 103/200
+epoch ends.
+20/20 - 2s - loss: 0.0156 - iou_binarized: 0.9221 - iou: 0.8879 - recall: 0.9412 - precision: 0.9401 - F1_score: 0.9406 - 2s/epoch - 125ms/step
+Epoch 104/200
+epoch ends.
+20/20 - 3s - loss: 0.0156 - iou_binarized: 0.9225 - iou: 0.8885 - recall: 0.9415 - precision: 0.9404 - F1_score: 0.9409 - 3s/epoch - 125ms/step
+Epoch 105/200
+epoch ends.
+20/20 - 3s - loss: 0.0155 - iou_binarized: 0.9228 - iou: 0.8890 - recall: 0.9418 - precision: 0.9407 - F1_score: 0.9412 - 3s/epoch - 125ms/step
+Epoch 106/200
+epoch ends.
+20/20 - 2s - loss: 0.0154 - iou_binarized: 0.9232 - iou: 0.8896 - recall: 0.9421 - precision: 0.9410 - F1_score: 0.9415 - 2s/epoch - 125ms/step
+Epoch 107/200
+epoch ends.
+20/20 - 2s - loss: 0.0153 - iou_binarized: 0.9235 - iou: 0.8901 - recall: 0.9424 - precision: 0.9413 - F1_score: 0.9418 - 2s/epoch - 125ms/step
+Epoch 108/200
+epoch ends.
+20/20 - 2s - loss: 0.0152 - iou_binarized: 0.9239 - iou: 0.8906 - recall: 0.9427 - precision: 0.9416 - F1_score: 0.9421 - 2s/epoch - 125ms/step
+Epoch 109/200
+epoch ends.
+20/20 - 3s - loss: 0.0151 - iou_binarized: 0.9242 - iou: 0.8912 - recall: 0.9430 - precision: 0.9419 - F1_score: 0.9424 - 3s/epoch - 127ms/step
+Epoch 110/200
+epoch ends.
+20/20 - 2s - loss: 0.0151 - iou_binarized: 0.9245 - iou: 0.8917 - recall: 0.9433 - precision: 0.9422 - F1_score: 0.9427 - 2s/epoch - 125ms/step
+Epoch 111/200
+epoch ends.
+20/20 - 2s - loss: 0.0150 - iou_binarized: 0.9248 - iou: 0.8922 - recall: 0.9436 - precision: 0.9425 - F1_score: 0.9430 - 2s/epoch - 125ms/step
+Epoch 112/200
+epoch ends.
+20/20 - 2s - loss: 0.0149 - iou_binarized: 0.9251 - iou: 0.8927 - recall: 0.9439 - precision: 0.9428 - F1_score: 0.9433 - 2s/epoch - 125ms/step
+Epoch 113/200
+epoch ends.
+20/20 - 2s - loss: 0.0148 - iou_binarized: 0.9255 - iou: 0.8932 - recall: 0.9441 - precision: 0.9430 - F1_score: 0.9436 - 2s/epoch - 125ms/step
+Epoch 114/200
+epoch ends.
+20/20 - 3s - loss: 0.0147 - iou_binarized: 0.9258 - iou: 0.8937 - recall: 0.9444 - precision: 0.9433 - F1_score: 0.9438 - 3s/epoch - 126ms/step
+Epoch 115/200
+epoch ends.
+20/20 - 3s - loss: 0.0147 - iou_binarized: 0.9261 - iou: 0.8942 - recall: 0.9447 - precision: 0.9436 - F1_score: 0.9441 - 3s/epoch - 125ms/step
+Epoch 116/200
+epoch ends.
+20/20 - 2s - loss: 0.0146 - iou_binarized: 0.9264 - iou: 0.8947 - recall: 0.9450 - precision: 0.9439 - F1_score: 0.9444 - 2s/epoch - 124ms/step
+Epoch 117/200
+epoch ends.
+20/20 - 3s - loss: 0.0145 - iou_binarized: 0.9268 - iou: 0.8952 - recall: 0.9452 - precision: 0.9441 - F1_score: 0.9447 - 3s/epoch - 126ms/step
+Epoch 118/200
+epoch ends.
+20/20 - 6s - loss: 0.0145 - iou_binarized: 0.9271 - iou: 0.8956 - recall: 0.9455 - precision: 0.9444 - F1_score: 0.9449 - 6s/epoch - 288ms/step
+Epoch 119/200
+epoch ends.
+20/20 - 3s - loss: 0.0144 - iou_binarized: 0.9274 - iou: 0.8961 - recall: 0.9457 - precision: 0.9447 - F1_score: 0.9452 - 3s/epoch - 131ms/step
+Epoch 120/200
+epoch ends.
+20/20 - 3s - loss: 0.0143 - iou_binarized: 0.9277 - iou: 0.8966 - recall: 0.9460 - precision: 0.9449 - F1_score: 0.9454 - 3s/epoch - 127ms/step
+Epoch 121/200
+epoch ends.
+20/20 - 2s - loss: 0.0142 - iou_binarized: 0.9280 - iou: 0.8970 - recall: 0.9462 - precision: 0.9452 - F1_score: 0.9457 - 2s/epoch - 122ms/step
+Epoch 122/200
+epoch ends.
+20/20 - 2s - loss: 0.0142 - iou_binarized: 0.9283 - iou: 0.8975 - recall: 0.9465 - precision: 0.9454 - F1_score: 0.9459 - 2s/epoch - 122ms/step
+Epoch 123/200
+epoch ends.
+20/20 - 3s - loss: 0.0141 - iou_binarized: 0.9287 - iou: 0.8979 - recall: 0.9467 - precision: 0.9457 - F1_score: 0.9462 - 3s/epoch - 125ms/step
+Epoch 124/200
+epoch ends.
+20/20 - 3s - loss: 0.0140 - iou_binarized: 0.9289 - iou: 0.8984 - recall: 0.9470 - precision: 0.9459 - F1_score: 0.9464 - 3s/epoch - 125ms/step
+Epoch 125/200
+epoch ends.
+20/20 - 3s - loss: 0.0140 - iou_binarized: 0.9292 - iou: 0.8988 - recall: 0.9472 - precision: 0.9462 - F1_score: 0.9467 - 3s/epoch - 125ms/step
+Epoch 126/200
+epoch ends.
+20/20 - 2s - loss: 0.0139 - iou_binarized: 0.9295 - iou: 0.8992 - recall: 0.9475 - precision: 0.9464 - F1_score: 0.9469 - 2s/epoch - 125ms/step
+Epoch 127/200
+epoch ends.
+20/20 - 3s - loss: 0.0138 - iou_binarized: 0.9298 - iou: 0.8997 - recall: 0.9477 - precision: 0.9466 - F1_score: 0.9472 - 3s/epoch - 126ms/step
+Epoch 128/200
+epoch ends.
+20/20 - 2s - loss: 0.0138 - iou_binarized: 0.9301 - iou: 0.9001 - recall: 0.9479 - precision: 0.9469 - F1_score: 0.9474 - 2s/epoch - 125ms/step
+Epoch 129/200
+epoch ends.
+20/20 - 2s - loss: 0.0137 - iou_binarized: 0.9304 - iou: 0.9005 - recall: 0.9482 - precision: 0.9471 - F1_score: 0.9476 - 2s/epoch - 124ms/step
+Epoch 130/200
+epoch ends.
+20/20 - 3s - loss: 0.0136 - iou_binarized: 0.9307 - iou: 0.9009 - recall: 0.9484 - precision: 0.9473 - F1_score: 0.9479 - 3s/epoch - 125ms/step
+Epoch 131/200
+epoch ends.
+20/20 - 2s - loss: 0.0136 - iou_binarized: 0.9309 - iou: 0.9013 - recall: 0.9486 - precision: 0.9476 - F1_score: 0.9481 - 2s/epoch - 125ms/step
+Epoch 132/200
+epoch ends.
+20/20 - 2s - loss: 0.0135 - iou_binarized: 0.9312 - iou: 0.9017 - recall: 0.9488 - precision: 0.9478 - F1_score: 0.9483 - 2s/epoch - 124ms/step
+Epoch 133/200
+epoch ends.
+20/20 - 3s - loss: 0.0135 - iou_binarized: 0.9315 - iou: 0.9021 - recall: 0.9491 - precision: 0.9480 - F1_score: 0.9485 - 3s/epoch - 126ms/step
+Epoch 134/200
+epoch ends.
+20/20 - 2s - loss: 0.0134 - iou_binarized: 0.9318 - iou: 0.9025 - recall: 0.9493 - precision: 0.9483 - F1_score: 0.9487 - 2s/epoch - 124ms/step
+Epoch 135/200
+epoch ends.
+20/20 - 2s - loss: 0.0133 - iou_binarized: 0.9320 - iou: 0.9029 - recall: 0.9495 - precision: 0.9485 - F1_score: 0.9490 - 2s/epoch - 125ms/step
+Epoch 136/200
+epoch ends.
+20/20 - 2s - loss: 0.0133 - iou_binarized: 0.9323 - iou: 0.9033 - recall: 0.9497 - precision: 0.9487 - F1_score: 0.9492 - 2s/epoch - 124ms/step
+Epoch 137/200
+epoch ends.
+20/20 - 3s - loss: 0.0132 - iou_binarized: 0.9325 - iou: 0.9037 - recall: 0.9499 - precision: 0.9489 - F1_score: 0.9494 - 3s/epoch - 125ms/step
+Epoch 138/200
+epoch ends.
+20/20 - 2s - loss: 0.0132 - iou_binarized: 0.9328 - iou: 0.9041 - recall: 0.9501 - precision: 0.9491 - F1_score: 0.9496 - 2s/epoch - 125ms/step
+Epoch 139/200
+epoch ends.
+20/20 - 3s - loss: 0.0131 - iou_binarized: 0.9330 - iou: 0.9045 - recall: 0.9503 - precision: 0.9493 - F1_score: 0.9498 - 3s/epoch - 125ms/step
+Epoch 140/200
+epoch ends.
+20/20 - 3s - loss: 0.0130 - iou_binarized: 0.9333 - iou: 0.9048 - recall: 0.9505 - precision: 0.9495 - F1_score: 0.9500 - 3s/epoch - 125ms/step
+Epoch 141/200
+epoch ends.
+20/20 - 5s - loss: 0.0130 - iou_binarized: 0.9336 - iou: 0.9052 - recall: 0.9507 - precision: 0.9497 - F1_score: 0.9502 - 5s/epoch - 252ms/step
+Epoch 142/200
+epoch ends.
+20/20 - 3s - loss: 0.0129 - iou_binarized: 0.9338 - iou: 0.9056 - recall: 0.9509 - precision: 0.9499 - F1_score: 0.9504 - 3s/epoch - 129ms/step
+Epoch 143/200
+epoch ends.
+20/20 - 3s - loss: 0.0129 - iou_binarized: 0.9341 - iou: 0.9059 - recall: 0.9511 - precision: 0.9501 - F1_score: 0.9506 - 3s/epoch - 128ms/step
+Epoch 144/200
+epoch ends.
+20/20 - 2s - loss: 0.0128 - iou_binarized: 0.9343 - iou: 0.9063 - recall: 0.9513 - precision: 0.9504 - F1_score: 0.9508 - 2s/epoch - 125ms/step
+Epoch 145/200
+epoch ends.
+20/20 - 3s - loss: 0.0128 - iou_binarized: 0.9346 - iou: 0.9066 - recall: 0.9515 - precision: 0.9505 - F1_score: 0.9510 - 3s/epoch - 126ms/step
+Epoch 146/200
+epoch ends.
+20/20 - 2s - loss: 0.0127 - iou_binarized: 0.9348 - iou: 0.9070 - recall: 0.9517 - precision: 0.9507 - F1_score: 0.9512 - 2s/epoch - 125ms/step
+Epoch 147/200
+epoch ends.
+20/20 - 2s - loss: 0.0127 - iou_binarized: 0.9350 - iou: 0.9073 - recall: 0.9519 - precision: 0.9509 - F1_score: 0.9514 - 2s/epoch - 125ms/step
+Epoch 148/200
+epoch ends.
+20/20 - 3s - loss: 0.0126 - iou_binarized: 0.9353 - iou: 0.9077 - recall: 0.9521 - precision: 0.9511 - F1_score: 0.9516 - 3s/epoch - 126ms/step
+Epoch 149/200
+epoch ends.
+20/20 - 2s - loss: 0.0126 - iou_binarized: 0.9355 - iou: 0.9080 - recall: 0.9523 - precision: 0.9513 - F1_score: 0.9518 - 2s/epoch - 125ms/step
+Epoch 150/200
+epoch ends.
+20/20 - 3s - loss: 0.0125 - iou_binarized: 0.9357 - iou: 0.9084 - recall: 0.9524 - precision: 0.9515 - F1_score: 0.9520 - 3s/epoch - 125ms/step
+Epoch 151/200
+epoch ends.
+20/20 - 3s - loss: 0.0125 - iou_binarized: 0.9360 - iou: 0.9087 - recall: 0.9526 - precision: 0.9517 - F1_score: 0.9521 - 3s/epoch - 126ms/step
+Epoch 152/200
+epoch ends.
+20/20 - 3s - loss: 0.0124 - iou_binarized: 0.9362 - iou: 0.9090 - recall: 0.9528 - precision: 0.9519 - F1_score: 0.9523 - 3s/epoch - 125ms/step
+Epoch 153/200
+epoch ends.
+20/20 - 2s - loss: 0.0124 - iou_binarized: 0.9364 - iou: 0.9094 - recall: 0.9530 - precision: 0.9521 - F1_score: 0.9525 - 2s/epoch - 125ms/step
+Epoch 154/200
+epoch ends.
+20/20 - 3s - loss: 0.0123 - iou_binarized: 0.9366 - iou: 0.9097 - recall: 0.9531 - precision: 0.9523 - F1_score: 0.9527 - 3s/epoch - 125ms/step
+Epoch 155/200
+epoch ends.
+20/20 - 3s - loss: 0.0123 - iou_binarized: 0.9368 - iou: 0.9100 - recall: 0.9533 - precision: 0.9524 - F1_score: 0.9529 - 3s/epoch - 125ms/step
+Epoch 156/200
+epoch ends.
+20/20 - 2s - loss: 0.0122 - iou_binarized: 0.9371 - iou: 0.9103 - recall: 0.9535 - precision: 0.9526 - F1_score: 0.9530 - 2s/epoch - 123ms/step
+Epoch 157/200
+epoch ends.
+20/20 - 3s - loss: 0.0122 - iou_binarized: 0.9373 - iou: 0.9106 - recall: 0.9537 - precision: 0.9528 - F1_score: 0.9532 - 3s/epoch - 125ms/step
+Epoch 158/200
+epoch ends.
+20/20 - 3s - loss: 0.0121 - iou_binarized: 0.9375 - iou: 0.9109 - recall: 0.9538 - precision: 0.9530 - F1_score: 0.9534 - 3s/epoch - 126ms/step
+Epoch 159/200
+epoch ends.
+20/20 - 3s - loss: 0.0121 - iou_binarized: 0.9377 - iou: 0.9113 - recall: 0.9540 - precision: 0.9531 - F1_score: 0.9535 - 3s/epoch - 125ms/step
+Epoch 160/200
+epoch ends.
+20/20 - 3s - loss: 0.0120 - iou_binarized: 0.9380 - iou: 0.9116 - recall: 0.9541 - precision: 0.9533 - F1_score: 0.9537 - 3s/epoch - 127ms/step
+Epoch 161/200
+epoch ends.
+20/20 - 3s - loss: 0.0120 - iou_binarized: 0.9382 - iou: 0.9119 - recall: 0.9543 - precision: 0.9535 - F1_score: 0.9539 - 3s/epoch - 126ms/step
+Epoch 162/200
+epoch ends.
+20/20 - 2s - loss: 0.0119 - iou_binarized: 0.9384 - iou: 0.9122 - recall: 0.9545 - precision: 0.9537 - F1_score: 0.9540 - 2s/epoch - 125ms/step
+Epoch 163/200
+epoch ends.
+20/20 - 6s - loss: 0.0119 - iou_binarized: 0.9386 - iou: 0.9125 - recall: 0.9546 - precision: 0.9538 - F1_score: 0.9542 - 6s/epoch - 298ms/step
+Epoch 164/200
+epoch ends.
+20/20 - 3s - loss: 0.0119 - iou_binarized: 0.9388 - iou: 0.9128 - recall: 0.9548 - precision: 0.9540 - F1_score: 0.9544 - 3s/epoch - 139ms/step
+Epoch 165/200
+epoch ends.
+20/20 - 3s - loss: 0.0118 - iou_binarized: 0.9390 - iou: 0.9130 - recall: 0.9549 - precision: 0.9542 - F1_score: 0.9545 - 3s/epoch - 127ms/step
+Epoch 166/200
+epoch ends.
+20/20 - 3s - loss: 0.0118 - iou_binarized: 0.9392 - iou: 0.9133 - recall: 0.9551 - precision: 0.9543 - F1_score: 0.9547 - 3s/epoch - 126ms/step
+Epoch 167/200
+epoch ends.
+20/20 - 3s - loss: 0.0117 - iou_binarized: 0.9394 - iou: 0.9136 - recall: 0.9552 - precision: 0.9545 - F1_score: 0.9548 - 3s/epoch - 125ms/step
+Epoch 168/200
+epoch ends.
+20/20 - 2s - loss: 0.0117 - iou_binarized: 0.9396 - iou: 0.9139 - recall: 0.9554 - precision: 0.9546 - F1_score: 0.9550 - 2s/epoch - 124ms/step
+Epoch 169/200
+epoch ends.
+20/20 - 3s - loss: 0.0116 - iou_binarized: 0.9398 - iou: 0.9142 - recall: 0.9555 - precision: 0.9548 - F1_score: 0.9551 - 3s/epoch - 126ms/step
+Epoch 170/200
+epoch ends.
+20/20 - 2s - loss: 0.0116 - iou_binarized: 0.9400 - iou: 0.9145 - recall: 0.9557 - precision: 0.9550 - F1_score: 0.9553 - 2s/epoch - 125ms/step
+Epoch 171/200
+epoch ends.
+20/20 - 2s - loss: 0.0116 - iou_binarized: 0.9402 - iou: 0.9147 - recall: 0.9558 - precision: 0.9551 - F1_score: 0.9554 - 2s/epoch - 125ms/step
+Epoch 172/200
+epoch ends.
+20/20 - 2s - loss: 0.0115 - iou_binarized: 0.9404 - iou: 0.9150 - recall: 0.9560 - precision: 0.9553 - F1_score: 0.9556 - 2s/epoch - 125ms/step
+Epoch 173/200
+epoch ends.
+20/20 - 3s - loss: 0.0115 - iou_binarized: 0.9406 - iou: 0.9153 - recall: 0.9561 - precision: 0.9554 - F1_score: 0.9557 - 3s/epoch - 125ms/step
+Epoch 174/200
+epoch ends.
+20/20 - 3s - loss: 0.0114 - iou_binarized: 0.9407 - iou: 0.9155 - recall: 0.9562 - precision: 0.9556 - F1_score: 0.9559 - 3s/epoch - 125ms/step
+Epoch 175/200
+epoch ends.
+20/20 - 3s - loss: 0.0114 - iou_binarized: 0.9409 - iou: 0.9158 - recall: 0.9564 - precision: 0.9557 - F1_score: 0.9560 - 3s/epoch - 125ms/step
+Epoch 176/200
+epoch ends.
+20/20 - 3s - loss: 0.0114 - iou_binarized: 0.9411 - iou: 0.9161 - recall: 0.9565 - precision: 0.9559 - F1_score: 0.9562 - 3s/epoch - 126ms/step
+Epoch 177/200
+epoch ends.
+20/20 - 2s - loss: 0.0113 - iou_binarized: 0.9413 - iou: 0.9163 - recall: 0.9567 - precision: 0.9560 - F1_score: 0.9563 - 2s/epoch - 125ms/step
+Epoch 178/200
+epoch ends.
+20/20 - 3s - loss: 0.0113 - iou_binarized: 0.9415 - iou: 0.9166 - recall: 0.9568 - precision: 0.9562 - F1_score: 0.9565 - 3s/epoch - 125ms/step
+Epoch 179/200
+epoch ends.
+20/20 - 3s - loss: 0.0112 - iou_binarized: 0.9417 - iou: 0.9168 - recall: 0.9569 - precision: 0.9563 - F1_score: 0.9566 - 3s/epoch - 126ms/step
+Epoch 180/200
+epoch ends.
+20/20 - 2s - loss: 0.0112 - iou_binarized: 0.9418 - iou: 0.9171 - recall: 0.9571 - precision: 0.9565 - F1_score: 0.9567 - 2s/epoch - 125ms/step
+Epoch 181/200
+epoch ends.
+20/20 - 3s - loss: 0.0112 - iou_binarized: 0.9420 - iou: 0.9173 - recall: 0.9572 - precision: 0.9566 - F1_score: 0.9569 - 3s/epoch - 125ms/step
+Epoch 182/200
+epoch ends.
+20/20 - 2s - loss: 0.0111 - iou_binarized: 0.9422 - iou: 0.9176 - recall: 0.9573 - precision: 0.9567 - F1_score: 0.9570 - 2s/epoch - 124ms/step
+Epoch 183/200
+epoch ends.
+20/20 - 2s - loss: 0.0111 - iou_binarized: 0.9424 - iou: 0.9178 - recall: 0.9575 - precision: 0.9569 - F1_score: 0.9572 - 2s/epoch - 124ms/step
+Epoch 184/200
+epoch ends.
+20/20 - 2s - loss: 0.0111 - iou_binarized: 0.9425 - iou: 0.9181 - recall: 0.9576 - precision: 0.9570 - F1_score: 0.9573 - 2s/epoch - 124ms/step
+Epoch 185/200
+epoch ends.
+20/20 - 2s - loss: 0.0110 - iou_binarized: 0.9427 - iou: 0.9183 - recall: 0.9577 - precision: 0.9572 - F1_score: 0.9574 - 2s/epoch - 125ms/step
+Epoch 186/200
+epoch ends.
+20/20 - 6s - loss: 0.0110 - iou_binarized: 0.9429 - iou: 0.9186 - recall: 0.9578 - precision: 0.9573 - F1_score: 0.9576 - 6s/epoch - 292ms/step
+Epoch 187/200
+epoch ends.
+20/20 - 3s - loss: 0.0109 - iou_binarized: 0.9430 - iou: 0.9188 - recall: 0.9580 - precision: 0.9574 - F1_score: 0.9577 - 3s/epoch - 131ms/step
+Epoch 188/200
+epoch ends.
+20/20 - 3s - loss: 0.0109 - iou_binarized: 0.9432 - iou: 0.9191 - recall: 0.9581 - precision: 0.9576 - F1_score: 0.9578 - 3s/epoch - 127ms/step
+Epoch 189/200
+epoch ends.
+20/20 - 3s - loss: 0.0109 - iou_binarized: 0.9434 - iou: 0.9193 - recall: 0.9582 - precision: 0.9577 - F1_score: 0.9579 - 3s/epoch - 125ms/step
+Epoch 190/200
+epoch ends.
+20/20 - 3s - loss: 0.0108 - iou_binarized: 0.9435 - iou: 0.9195 - recall: 0.9583 - precision: 0.9578 - F1_score: 0.9581 - 3s/epoch - 125ms/step
+Epoch 191/200
+epoch ends.
+20/20 - 2s - loss: 0.0108 - iou_binarized: 0.9437 - iou: 0.9198 - recall: 0.9584 - precision: 0.9580 - F1_score: 0.9582 - 2s/epoch - 125ms/step
+Epoch 192/200
+epoch ends.
+20/20 - 2s - loss: 0.0108 - iou_binarized: 0.9439 - iou: 0.9200 - recall: 0.9586 - precision: 0.9581 - F1_score: 0.9583 - 2s/epoch - 125ms/step
+Epoch 193/200
+epoch ends.
+20/20 - 3s - loss: 0.0107 - iou_binarized: 0.9440 - iou: 0.9202 - recall: 0.9587 - precision: 0.9582 - F1_score: 0.9584 - 3s/epoch - 125ms/step
+Epoch 194/200
+epoch ends.
+20/20 - 2s - loss: 0.0107 - iou_binarized: 0.9442 - iou: 0.9204 - recall: 0.9588 - precision: 0.9584 - F1_score: 0.9586 - 2s/epoch - 125ms/step
+Epoch 195/200
+epoch ends.
+20/20 - 2s - loss: 0.0107 - iou_binarized: 0.9443 - iou: 0.9206 - recall: 0.9589 - precision: 0.9585 - F1_score: 0.9587 - 2s/epoch - 124ms/step
+Epoch 196/200
+epoch ends.
+20/20 - 3s - loss: 0.0106 - iou_binarized: 0.9445 - iou: 0.9209 - recall: 0.9590 - precision: 0.9586 - F1_score: 0.9588 - 3s/epoch - 126ms/step
+Epoch 197/200
+epoch ends.
+20/20 - 3s - loss: 0.0106 - iou_binarized: 0.9446 - iou: 0.9211 - recall: 0.9591 - precision: 0.9587 - F1_score: 0.9589 - 3s/epoch - 125ms/step
+Epoch 198/200
+epoch ends.
+20/20 - 2s - loss: 0.0106 - iou_binarized: 0.9447 - iou: 0.9213 - recall: 0.9592 - precision: 0.9589 - F1_score: 0.9590 - 2s/epoch - 125ms/step
+Epoch 199/200
+epoch ends.
+20/20 - 2s - loss: 0.0106 - iou_binarized: 0.9449 - iou: 0.9215 - recall: 0.9593 - precision: 0.9590 - F1_score: 0.9591 - 2s/epoch - 124ms/step
+Epoch 200/200
+epoch ends.
+20/20 - 3s - loss: 0.0105 - iou_binarized: 0.9450 - iou: 0.9217 - recall: 0.9594 - precision: 0.9591 - F1_score: 0.9592 - 3s/epoch - 125ms/step
+2022-07-14 17:44:51.694954: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-07-14 17:44:52.202623: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 14640 MB memory:  -> device: 0, name: Tesla V100-SXM2-16GB, pci bus id: 0000:61:00.0, compute capability: 7.0
+X_train   (160, 512, 512, 1)
+Y_train   (160, 512, 512, 2)
+Model: "model"
+__________________________________________________________________________________________________
+ Layer (type)                   Output Shape         Param #     Connected to                     
+==================================================================================================
+ input_1 (InputLayer)           [(None, 512, 512, 1  0           []                               
+                                )]                                                                
+                                                                                                  
+ conv2d (Conv2D)                (None, 512, 512, 4)  40          ['input_1[0][0]']                
+                                                                                                  
+ dropout (Dropout)              (None, 512, 512, 4)  0           ['conv2d[0][0]']                 
+                                                                                                  
+ conv2d_1 (Conv2D)              (None, 512, 512, 4)  148         ['dropout[0][0]']                
+                                                                                                  
+ max_pooling2d (MaxPooling2D)   (None, 256, 256, 4)  0           ['conv2d_1[0][0]']               
+                                                                                                  
+ conv2d_2 (Conv2D)              (None, 256, 256, 8)  296         ['max_pooling2d[0][0]']          
+                                                                                                  
+ dropout_1 (Dropout)            (None, 256, 256, 8)  0           ['conv2d_2[0][0]']               
+                                                                                                  
+ conv2d_3 (Conv2D)              (None, 256, 256, 8)  584         ['dropout_1[0][0]']              
+                                                                                                  
+ max_pooling2d_1 (MaxPooling2D)  (None, 128, 128, 8)  0          ['conv2d_3[0][0]']               
+                                                                                                  
+ conv2d_4 (Conv2D)              (None, 128, 128, 16  1168        ['max_pooling2d_1[0][0]']        
+                                )                                                                 
+                                                                                                  
+ dropout_2 (Dropout)            (None, 128, 128, 16  0           ['conv2d_4[0][0]']               
+                                )                                                                 
+                                                                                                  
+ conv2d_5 (Conv2D)              (None, 128, 128, 16  2320        ['dropout_2[0][0]']              
+                                )                                                                 
+                                                                                                  
+ max_pooling2d_2 (MaxPooling2D)  (None, 64, 64, 16)  0           ['conv2d_5[0][0]']               
+                                                                                                  
+ conv2d_6 (Conv2D)              (None, 64, 64, 32)   4640        ['max_pooling2d_2[0][0]']        
+                                                                                                  
+ dropout_3 (Dropout)            (None, 64, 64, 32)   0           ['conv2d_6[0][0]']               
+                                                                                                  
+ conv2d_7 (Conv2D)              (None, 64, 64, 32)   9248        ['dropout_3[0][0]']              
+                                                                                                  
+ max_pooling2d_3 (MaxPooling2D)  (None, 32, 32, 32)  0           ['conv2d_7[0][0]']               
+                                                                                                  
+ conv2d_8 (Conv2D)              (None, 32, 32, 64)   18496       ['max_pooling2d_3[0][0]']        
+                                                                                                  
+ dropout_4 (Dropout)            (None, 32, 32, 64)   0           ['conv2d_8[0][0]']               
+                                                                                                  
+ conv2d_9 (Conv2D)              (None, 32, 32, 64)   36928       ['dropout_4[0][0]']              
+                                                                                                  
+ conv2d_transpose (Conv2DTransp  (None, 64, 64, 32)  8224        ['conv2d_9[0][0]']               
+ ose)                                                                                             
+                                                                                                  
+ concatenate (Concatenate)      (None, 64, 64, 64)   0           ['conv2d_transpose[0][0]',       
+                                                                  'conv2d_7[0][0]']               
+                                                                                                  
+ conv2d_10 (Conv2D)             (None, 64, 64, 32)   18464       ['concatenate[0][0]']            
+                                                                                                  
+ dropout_5 (Dropout)            (None, 64, 64, 32)   0           ['conv2d_10[0][0]']              
+                                                                                                  
+ conv2d_11 (Conv2D)             (None, 64, 64, 32)   9248        ['dropout_5[0][0]']              
+                                                                                                  
+ conv2d_transpose_1 (Conv2DTran  (None, 128, 128, 16  2064       ['conv2d_11[0][0]']              
+ spose)                         )                                                                 
+                                                                                                  
+ concatenate_1 (Concatenate)    (None, 128, 128, 32  0           ['conv2d_transpose_1[0][0]',     
+                                )                                 'conv2d_5[0][0]']               
+                                                                                                  
+ conv2d_12 (Conv2D)             (None, 128, 128, 16  4624        ['concatenate_1[0][0]']          
+                                )                                                                 
+                                                                                                  
+ dropout_6 (Dropout)            (None, 128, 128, 16  0           ['conv2d_12[0][0]']              
+                                )                                                                 
+                                                                                                  
+ conv2d_13 (Conv2D)             (None, 128, 128, 16  2320        ['dropout_6[0][0]']              
+                                )                                                                 
+                                                                                                  
+ conv2d_transpose_2 (Conv2DTran  (None, 256, 256, 8)  520        ['conv2d_13[0][0]']              
+ spose)                                                                                           
+                                                                                                  
+ concatenate_2 (Concatenate)    (None, 256, 256, 16  0           ['conv2d_transpose_2[0][0]',     
+                                )                                 'conv2d_3[0][0]']               
+                                                                                                  
+ conv2d_14 (Conv2D)             (None, 256, 256, 8)  1160        ['concatenate_2[0][0]']          
+                                                                                                  
+ dropout_7 (Dropout)            (None, 256, 256, 8)  0           ['conv2d_14[0][0]']              
+                                                                                                  
+ conv2d_15 (Conv2D)             (None, 256, 256, 8)  584         ['dropout_7[0][0]']              
+                                                                                                  
+ conv2d_transpose_3 (Conv2DTran  (None, 512, 512, 4)  132        ['conv2d_15[0][0]']              
+ spose)                                                                                           
+                                                                                                  
+ concatenate_3 (Concatenate)    (None, 512, 512, 8)  0           ['conv2d_transpose_3[0][0]',     
+                                                                  'conv2d_1[0][0]']               
+                                                                                                  
+ conv2d_16 (Conv2D)             (None, 512, 512, 4)  292         ['concatenate_3[0][0]']          
+                                                                                                  
+ dropout_8 (Dropout)            (None, 512, 512, 4)  0           ['conv2d_16[0][0]']              
+                                                                                                  
+ conv2d_17 (Conv2D)             (None, 512, 512, 4)  148         ['dropout_8[0][0]']              
+                                                                                                  
+ conv2d_18 (Conv2D)             (None, 512, 512, 2)  10          ['conv2d_17[0][0]']              
+                                                                                                  
+==================================================================================================
+Total params: 121,658
+Trainable params: 103,214
+Non-trainable params: 18,444
+__________________________________________________________________________________________________
+2022-07-14 17:44:55.453800: I tensorflow/stream_executor/cuda/cuda_dnn.cc:368] Loaded cuDNN version 8400
+train begins.
+Epoch 1/200
+epoch ends.
+20/20 - 6s - loss: 0.1096 - iou_binarized: 0.0030 - iou: 0.0056 - recall: 0.0169 - precision: 0.0315 - F1_score: 0.0111 - 6s/epoch - 315ms/step
+Epoch 2/200
+epoch ends.
+20/20 - 3s - loss: 0.0376 - iou_binarized: 0.0196 - iou: 0.0224 - recall: 0.0491 - precision: 0.0397 - F1_score: 0.0436 - 3s/epoch - 131ms/step
+Epoch 3/200
+epoch ends.
+20/20 - 3s - loss: 0.0315 - iou_binarized: 0.1187 - iou: 0.0688 - recall: 0.1538 - precision: 0.1112 - F1_score: 0.1282 - 3s/epoch - 130ms/step
+Epoch 4/200
+epoch ends.
+20/20 - 3s - loss: 0.0257 - iou_binarized: 0.1960 - iou: 0.1169 - recall: 0.2488 - precision: 0.1847 - F1_score: 0.2083 - 3s/epoch - 126ms/step
+Epoch 5/200
+epoch ends.
+20/20 - 2s - loss: 0.0222 - iou_binarized: 0.2428 - iou: 0.1579 - recall: 0.3018 - precision: 0.2553 - F1_score: 0.2715 - 2s/epoch - 125ms/step
+Epoch 6/200
+epoch ends.
+20/20 - 3s - loss: 0.0204 - iou_binarized: 0.2772 - iou: 0.1819 - recall: 0.3395 - precision: 0.2900 - F1_score: 0.3067 - 3s/epoch - 127ms/step
+Epoch 7/200
+epoch ends.
+20/20 - 2s - loss: 0.0189 - iou_binarized: 0.3099 - iou: 0.2064 - recall: 0.3707 - precision: 0.3221 - F1_score: 0.3411 - 2s/epoch - 124ms/step
+Epoch 8/200
+epoch ends.
+20/20 - 3s - loss: 0.0179 - iou_binarized: 0.3259 - iou: 0.2230 - recall: 0.3906 - precision: 0.3460 - F1_score: 0.3635 - 3s/epoch - 126ms/step
+Epoch 9/200
+epoch ends.
+20/20 - 3s - loss: 0.0172 - iou_binarized: 0.3391 - iou: 0.2360 - recall: 0.4067 - precision: 0.3644 - F1_score: 0.3806 - 3s/epoch - 126ms/step
+Epoch 10/200
+epoch ends.
+20/20 - 2s - loss: 0.0166 - iou_binarized: 0.3505 - iou: 0.2473 - recall: 0.4201 - precision: 0.3802 - F1_score: 0.3954 - 2s/epoch - 124ms/step
+Epoch 11/200
+epoch ends.
+20/20 - 3s - loss: 0.0162 - iou_binarized: 0.3599 - iou: 0.2567 - recall: 0.4307 - precision: 0.3932 - F1_score: 0.4073 - 3s/epoch - 125ms/step
+Epoch 12/200
+epoch ends.
+20/20 - 2s - loss: 0.0157 - iou_binarized: 0.3681 - iou: 0.2647 - recall: 0.4397 - precision: 0.4043 - F1_score: 0.4174 - 2s/epoch - 124ms/step
+Epoch 13/200
+epoch ends.
+20/20 - 2s - loss: 0.0154 - iou_binarized: 0.3754 - iou: 0.2719 - recall: 0.4477 - precision: 0.4141 - F1_score: 0.4263 - 2s/epoch - 124ms/step
+Epoch 14/200
+epoch ends.
+20/20 - 3s - loss: 0.0151 - iou_binarized: 0.3819 - iou: 0.2782 - recall: 0.4547 - precision: 0.4229 - F1_score: 0.4341 - 3s/epoch - 126ms/step
+Epoch 15/200
+epoch ends.
+20/20 - 3s - loss: 0.0148 - iou_binarized: 0.3881 - iou: 0.2840 - recall: 0.4611 - precision: 0.4308 - F1_score: 0.4412 - 3s/epoch - 126ms/step
+Epoch 16/200
+epoch ends.
+20/20 - 2s - loss: 0.0145 - iou_binarized: 0.3936 - iou: 0.2894 - recall: 0.4669 - precision: 0.4380 - F1_score: 0.4476 - 2s/epoch - 125ms/step
+Epoch 17/200
+epoch ends.
+20/20 - 3s - loss: 0.0143 - iou_binarized: 0.3988 - iou: 0.2943 - recall: 0.4723 - precision: 0.4446 - F1_score: 0.4536 - 3s/epoch - 125ms/step
+Epoch 18/200
+epoch ends.
+20/20 - 2s - loss: 0.0141 - iou_binarized: 0.4034 - iou: 0.2990 - recall: 0.4773 - precision: 0.4508 - F1_score: 0.4591 - 2s/epoch - 125ms/step
+Epoch 19/200
+epoch ends.
+20/20 - 3s - loss: 0.0139 - iou_binarized: 0.4078 - iou: 0.3033 - recall: 0.4819 - precision: 0.4565 - F1_score: 0.4643 - 3s/epoch - 126ms/step
+Epoch 20/200
+epoch ends.
+20/20 - 3s - loss: 0.0137 - iou_binarized: 0.4122 - iou: 0.3074 - recall: 0.4863 - precision: 0.4618 - F1_score: 0.4691 - 3s/epoch - 127ms/step
+Epoch 21/200
+epoch ends.
+20/20 - 3s - loss: 0.0135 - iou_binarized: 0.4161 - iou: 0.3113 - recall: 0.4904 - precision: 0.4668 - F1_score: 0.4736 - 3s/epoch - 125ms/step
+Epoch 22/200
+epoch ends.
+20/20 - 3s - loss: 0.0133 - iou_binarized: 0.4199 - iou: 0.3150 - recall: 0.4943 - precision: 0.4716 - F1_score: 0.4779 - 3s/epoch - 126ms/step
+Epoch 23/200
+epoch ends.
+20/20 - 2s - loss: 0.0132 - iou_binarized: 0.4234 - iou: 0.3186 - recall: 0.4980 - precision: 0.4761 - F1_score: 0.4820 - 2s/epoch - 125ms/step
+Epoch 24/200
+epoch ends.
+20/20 - 5s - loss: 0.0130 - iou_binarized: 0.4267 - iou: 0.3219 - recall: 0.5015 - precision: 0.4803 - F1_score: 0.4859 - 5s/epoch - 245ms/step
+Epoch 25/200
+epoch ends.
+20/20 - 3s - loss: 0.0129 - iou_binarized: 0.4299 - iou: 0.3251 - recall: 0.5049 - precision: 0.4844 - F1_score: 0.4895 - 3s/epoch - 130ms/step
+Epoch 26/200
+epoch ends.
+20/20 - 3s - loss: 0.0128 - iou_binarized: 0.4329 - iou: 0.3282 - recall: 0.5080 - precision: 0.4883 - F1_score: 0.4930 - 3s/epoch - 126ms/step
+Epoch 27/200
+epoch ends.
+20/20 - 3s - loss: 0.0126 - iou_binarized: 0.4357 - iou: 0.3312 - recall: 0.5111 - precision: 0.4921 - F1_score: 0.4964 - 3s/epoch - 126ms/step
+Epoch 28/200
+epoch ends.
+20/20 - 3s - loss: 0.0125 - iou_binarized: 0.4385 - iou: 0.3340 - recall: 0.5140 - precision: 0.4956 - F1_score: 0.4996 - 3s/epoch - 126ms/step
+Epoch 29/200
+epoch ends.
+20/20 - 2s - loss: 0.0124 - iou_binarized: 0.4412 - iou: 0.3367 - recall: 0.5168 - precision: 0.4990 - F1_score: 0.5026 - 2s/epoch - 125ms/step
+Epoch 30/200
+epoch ends.
+20/20 - 2s - loss: 0.0123 - iou_binarized: 0.4437 - iou: 0.3394 - recall: 0.5195 - precision: 0.5023 - F1_score: 0.5056 - 2s/epoch - 125ms/step
+Epoch 31/200
+epoch ends.
+20/20 - 3s - loss: 0.0122 - iou_binarized: 0.4461 - iou: 0.3419 - recall: 0.5221 - precision: 0.5055 - F1_score: 0.5084 - 3s/epoch - 125ms/step
+Epoch 32/200
+epoch ends.
+20/20 - 2s - loss: 0.0121 - iou_binarized: 0.4485 - iou: 0.3444 - recall: 0.5246 - precision: 0.5085 - F1_score: 0.5112 - 2s/epoch - 125ms/step
+Epoch 33/200
+epoch ends.
+20/20 - 3s - loss: 0.0120 - iou_binarized: 0.4510 - iou: 0.3468 - recall: 0.5270 - precision: 0.5114 - F1_score: 0.5138 - 3s/epoch - 125ms/step
+Epoch 34/200
+epoch ends.
+20/20 - 2s - loss: 0.0119 - iou_binarized: 0.4532 - iou: 0.3491 - recall: 0.5294 - precision: 0.5143 - F1_score: 0.5164 - 2s/epoch - 124ms/step
+Epoch 35/200
+epoch ends.
+20/20 - 2s - loss: 0.0118 - iou_binarized: 0.4553 - iou: 0.3514 - recall: 0.5317 - precision: 0.5170 - F1_score: 0.5189 - 2s/epoch - 123ms/step
+Epoch 36/200
+epoch ends.
+20/20 - 3s - loss: 0.0117 - iou_binarized: 0.4575 - iou: 0.3536 - recall: 0.5340 - precision: 0.5197 - F1_score: 0.5213 - 3s/epoch - 126ms/step
+Epoch 37/200
+epoch ends.
+20/20 - 2s - loss: 0.0117 - iou_binarized: 0.4595 - iou: 0.3558 - recall: 0.5361 - precision: 0.5223 - F1_score: 0.5237 - 2s/epoch - 124ms/step
+Epoch 38/200
+epoch ends.
+20/20 - 2s - loss: 0.0116 - iou_binarized: 0.4615 - iou: 0.3579 - recall: 0.5383 - precision: 0.5248 - F1_score: 0.5260 - 2s/epoch - 124ms/step
+Epoch 39/200
+epoch ends.
+20/20 - 3s - loss: 0.0115 - iou_binarized: 0.4636 - iou: 0.3600 - recall: 0.5404 - precision: 0.5273 - F1_score: 0.5283 - 3s/epoch - 125ms/step
+Epoch 40/200
+epoch ends.
+20/20 - 2s - loss: 0.0114 - iou_binarized: 0.4655 - iou: 0.3620 - recall: 0.5424 - precision: 0.5296 - F1_score: 0.5304 - 2s/epoch - 125ms/step
+Epoch 41/200
+epoch ends.
+20/20 - 2s - loss: 0.0114 - iou_binarized: 0.4672 - iou: 0.3640 - recall: 0.5444 - precision: 0.5320 - F1_score: 0.5326 - 2s/epoch - 125ms/step
+Epoch 42/200
+epoch ends.
+20/20 - 3s - loss: 0.0113 - iou_binarized: 0.4691 - iou: 0.3659 - recall: 0.5463 - precision: 0.5342 - F1_score: 0.5347 - 3s/epoch - 125ms/step
+Epoch 43/200
+epoch ends.
+20/20 - 3s - loss: 0.0112 - iou_binarized: 0.4711 - iou: 0.3678 - recall: 0.5483 - precision: 0.5364 - F1_score: 0.5367 - 3s/epoch - 125ms/step
+Epoch 44/200
+epoch ends.
+20/20 - 2s - loss: 0.0112 - iou_binarized: 0.4731 - iou: 0.3697 - recall: 0.5501 - precision: 0.5386 - F1_score: 0.5387 - 2s/epoch - 125ms/step
+Epoch 45/200
+epoch ends.
+20/20 - 3s - loss: 0.0111 - iou_binarized: 0.4750 - iou: 0.3715 - recall: 0.5520 - precision: 0.5407 - F1_score: 0.5406 - 3s/epoch - 126ms/step
+Epoch 46/200
+epoch ends.
+20/20 - 3s - loss: 0.0110 - iou_binarized: 0.4772 - iou: 0.3733 - recall: 0.5538 - precision: 0.5427 - F1_score: 0.5426 - 3s/epoch - 125ms/step
+Epoch 47/200
+epoch ends.
+20/20 - 5s - loss: 0.0110 - iou_binarized: 0.4791 - iou: 0.3751 - recall: 0.5555 - precision: 0.5447 - F1_score: 0.5444 - 5s/epoch - 241ms/step
+Epoch 48/200
+epoch ends.
+20/20 - 3s - loss: 0.0109 - iou_binarized: 0.4808 - iou: 0.3768 - recall: 0.5573 - precision: 0.5467 - F1_score: 0.5463 - 3s/epoch - 130ms/step
+Epoch 49/200
+epoch ends.
+20/20 - 3s - loss: 0.0109 - iou_binarized: 0.4827 - iou: 0.3785 - recall: 0.5590 - precision: 0.5486 - F1_score: 0.5481 - 3s/epoch - 127ms/step
+Epoch 50/200
+epoch ends.
+20/20 - 2s - loss: 0.0108 - iou_binarized: 0.4844 - iou: 0.3802 - recall: 0.5606 - precision: 0.5505 - F1_score: 0.5498 - 2s/epoch - 125ms/step
+Epoch 51/200
+epoch ends.
+20/20 - 3s - loss: 0.0108 - iou_binarized: 0.4861 - iou: 0.3819 - recall: 0.5623 - precision: 0.5523 - F1_score: 0.5516 - 3s/epoch - 125ms/step
+Epoch 52/200
+epoch ends.
+20/20 - 2s - loss: 0.0107 - iou_binarized: 0.4879 - iou: 0.3835 - recall: 0.5639 - precision: 0.5541 - F1_score: 0.5533 - 2s/epoch - 124ms/step
+Epoch 53/200
+epoch ends.
+20/20 - 2s - loss: 0.0107 - iou_binarized: 0.4895 - iou: 0.3851 - recall: 0.5654 - precision: 0.5559 - F1_score: 0.5549 - 2s/epoch - 124ms/step
+Epoch 54/200
+epoch ends.
+20/20 - 2s - loss: 0.0106 - iou_binarized: 0.4911 - iou: 0.3866 - recall: 0.5670 - precision: 0.5576 - F1_score: 0.5566 - 2s/epoch - 125ms/step
+Epoch 55/200
+epoch ends.
+20/20 - 2s - loss: 0.0106 - iou_binarized: 0.4927 - iou: 0.3882 - recall: 0.5685 - precision: 0.5593 - F1_score: 0.5582 - 2s/epoch - 124ms/step
+Epoch 56/200
+epoch ends.
+20/20 - 2s - loss: 0.0105 - iou_binarized: 0.4943 - iou: 0.3897 - recall: 0.5700 - precision: 0.5609 - F1_score: 0.5597 - 2s/epoch - 124ms/step
+Epoch 57/200
+epoch ends.
+20/20 - 2s - loss: 0.0105 - iou_binarized: 0.4958 - iou: 0.3912 - recall: 0.5714 - precision: 0.5626 - F1_score: 0.5613 - 2s/epoch - 125ms/step
+Epoch 58/200
+epoch ends.
+20/20 - 2s - loss: 0.0104 - iou_binarized: 0.4973 - iou: 0.3927 - recall: 0.5729 - precision: 0.5642 - F1_score: 0.5628 - 2s/epoch - 125ms/step
+Epoch 59/200
+epoch ends.
+20/20 - 3s - loss: 0.0104 - iou_binarized: 0.4988 - iou: 0.3941 - recall: 0.5743 - precision: 0.5658 - F1_score: 0.5643 - 3s/epoch - 125ms/step
+Epoch 60/200
+epoch ends.
+20/20 - 3s - loss: 0.0103 - iou_binarized: 0.5003 - iou: 0.3956 - recall: 0.5757 - precision: 0.5673 - F1_score: 0.5658 - 3s/epoch - 125ms/step
+Epoch 61/200
+epoch ends.
+20/20 - 2s - loss: 0.0103 - iou_binarized: 0.5018 - iou: 0.3970 - recall: 0.5771 - precision: 0.5688 - F1_score: 0.5673 - 2s/epoch - 125ms/step
+Epoch 62/200
+epoch ends.
+20/20 - 2s - loss: 0.0103 - iou_binarized: 0.5032 - iou: 0.3984 - recall: 0.5784 - precision: 0.5703 - F1_score: 0.5687 - 2s/epoch - 125ms/step
+Epoch 63/200
+epoch ends.
+20/20 - 3s - loss: 0.0102 - iou_binarized: 0.5046 - iou: 0.3998 - recall: 0.5798 - precision: 0.5718 - F1_score: 0.5701 - 3s/epoch - 125ms/step
+Epoch 64/200
+epoch ends.
+20/20 - 2s - loss: 0.0102 - iou_binarized: 0.5060 - iou: 0.4011 - recall: 0.5811 - precision: 0.5733 - F1_score: 0.5715 - 2s/epoch - 124ms/step
+Epoch 65/200
+epoch ends.
+20/20 - 2s - loss: 0.0101 - iou_binarized: 0.5076 - iou: 0.4025 - recall: 0.5824 - precision: 0.5747 - F1_score: 0.5729 - 2s/epoch - 125ms/step
+Epoch 66/200
+epoch ends.
+20/20 - 2s - loss: 0.0101 - iou_binarized: 0.5090 - iou: 0.4038 - recall: 0.5837 - precision: 0.5761 - F1_score: 0.5743 - 2s/epoch - 125ms/step
+Epoch 67/200
+epoch ends.
+20/20 - 2s - loss: 0.0101 - iou_binarized: 0.5104 - iou: 0.4052 - recall: 0.5850 - precision: 0.5775 - F1_score: 0.5756 - 2s/epoch - 124ms/step
+Epoch 68/200
+epoch ends.
+20/20 - 3s - loss: 0.0100 - iou_binarized: 0.5119 - iou: 0.4065 - recall: 0.5862 - precision: 0.5789 - F1_score: 0.5770 - 3s/epoch - 125ms/step
+Epoch 69/200
+epoch ends.
+20/20 - 2s - loss: 0.0100 - iou_binarized: 0.5133 - iou: 0.4078 - recall: 0.5875 - precision: 0.5803 - F1_score: 0.5783 - 2s/epoch - 125ms/step
+Epoch 70/200
+epoch ends.
+20/20 - 5s - loss: 0.0100 - iou_binarized: 0.5146 - iou: 0.4090 - recall: 0.5887 - precision: 0.5816 - F1_score: 0.5796 - 5s/epoch - 243ms/step
+Epoch 71/200
+epoch ends.
+20/20 - 3s - loss: 0.0099 - iou_binarized: 0.5161 - iou: 0.4103 - recall: 0.5899 - precision: 0.5829 - F1_score: 0.5808 - 3s/epoch - 130ms/step
+Epoch 72/200
+epoch ends.
+20/20 - 3s - loss: 0.0099 - iou_binarized: 0.5174 - iou: 0.4115 - recall: 0.5911 - precision: 0.5842 - F1_score: 0.5821 - 3s/epoch - 127ms/step
+Epoch 73/200
+epoch ends.
+20/20 - 2s - loss: 0.0099 - iou_binarized: 0.5187 - iou: 0.4128 - recall: 0.5923 - precision: 0.5855 - F1_score: 0.5833 - 2s/epoch - 125ms/step
+Epoch 74/200
+epoch ends.
+20/20 - 3s - loss: 0.0098 - iou_binarized: 0.5202 - iou: 0.4140 - recall: 0.5934 - precision: 0.5868 - F1_score: 0.5846 - 3s/epoch - 125ms/step
+Epoch 75/200
+epoch ends.
+20/20 - 2s - loss: 0.0098 - iou_binarized: 0.5214 - iou: 0.4152 - recall: 0.5946 - precision: 0.5880 - F1_score: 0.5858 - 2s/epoch - 125ms/step
+Epoch 76/200
+epoch ends.
+20/20 - 2s - loss: 0.0098 - iou_binarized: 0.5226 - iou: 0.4164 - recall: 0.5957 - precision: 0.5893 - F1_score: 0.5870 - 2s/epoch - 125ms/step
+Epoch 77/200
+epoch ends.
+20/20 - 3s - loss: 0.0097 - iou_binarized: 0.5239 - iou: 0.4176 - recall: 0.5968 - precision: 0.5905 - F1_score: 0.5882 - 3s/epoch - 127ms/step
+Epoch 78/200
+epoch ends.
+20/20 - 2s - loss: 0.0097 - iou_binarized: 0.5250 - iou: 0.4188 - recall: 0.5979 - precision: 0.5917 - F1_score: 0.5893 - 2s/epoch - 124ms/step
+Epoch 79/200
+epoch ends.
+20/20 - 2s - loss: 0.0097 - iou_binarized: 0.5263 - iou: 0.4199 - recall: 0.5990 - precision: 0.5929 - F1_score: 0.5905 - 2s/epoch - 125ms/step
+Epoch 80/200
+epoch ends.
+20/20 - 3s - loss: 0.0096 - iou_binarized: 0.5274 - iou: 0.4211 - recall: 0.6001 - precision: 0.5940 - F1_score: 0.5916 - 3s/epoch - 136ms/step
+Epoch 81/200
+epoch ends.
+20/20 - 3s - loss: 0.0096 - iou_binarized: 0.5288 - iou: 0.4222 - recall: 0.6011 - precision: 0.5952 - F1_score: 0.5927 - 3s/epoch - 126ms/step
+Epoch 82/200
+epoch ends.
+20/20 - 3s - loss: 0.0096 - iou_binarized: 0.5299 - iou: 0.4233 - recall: 0.6022 - precision: 0.5963 - F1_score: 0.5939 - 3s/epoch - 125ms/step
+Epoch 83/200
+epoch ends.
+20/20 - 3s - loss: 0.0095 - iou_binarized: 0.5311 - iou: 0.4244 - recall: 0.6032 - precision: 0.5974 - F1_score: 0.5950 - 3s/epoch - 126ms/step
+Epoch 84/200
+epoch ends.
+20/20 - 3s - loss: 0.0095 - iou_binarized: 0.5323 - iou: 0.4255 - recall: 0.6043 - precision: 0.5985 - F1_score: 0.5960 - 3s/epoch - 126ms/step
+Epoch 85/200
+epoch ends.
+20/20 - 3s - loss: 0.0095 - iou_binarized: 0.5335 - iou: 0.4266 - recall: 0.6053 - precision: 0.5996 - F1_score: 0.5971 - 3s/epoch - 126ms/step
+Epoch 86/200
+epoch ends.
+20/20 - 3s - loss: 0.0095 - iou_binarized: 0.5346 - iou: 0.4277 - recall: 0.6063 - precision: 0.6007 - F1_score: 0.5982 - 3s/epoch - 125ms/step
+Epoch 87/200
+epoch ends.
+20/20 - 3s - loss: 0.0094 - iou_binarized: 0.5359 - iou: 0.4288 - recall: 0.6073 - precision: 0.6018 - F1_score: 0.5992 - 3s/epoch - 126ms/step
+Epoch 88/200
+epoch ends.
+20/20 - 2s - loss: 0.0094 - iou_binarized: 0.5369 - iou: 0.4299 - recall: 0.6083 - precision: 0.6028 - F1_score: 0.6003 - 2s/epoch - 125ms/step
+Epoch 89/200
+epoch ends.
+20/20 - 3s - loss: 0.0094 - iou_binarized: 0.5381 - iou: 0.4309 - recall: 0.6093 - precision: 0.6039 - F1_score: 0.6013 - 3s/epoch - 126ms/step
+Epoch 90/200
+epoch ends.
+20/20 - 3s - loss: 0.0093 - iou_binarized: 0.5391 - iou: 0.4319 - recall: 0.6102 - precision: 0.6049 - F1_score: 0.6023 - 3s/epoch - 125ms/step
+Epoch 91/200
+epoch ends.
+20/20 - 3s - loss: 0.0093 - iou_binarized: 0.5403 - iou: 0.4330 - recall: 0.6112 - precision: 0.6059 - F1_score: 0.6033 - 3s/epoch - 125ms/step
+Epoch 92/200
+epoch ends.
+20/20 - 6s - loss: 0.0093 - iou_binarized: 0.5413 - iou: 0.4340 - recall: 0.6121 - precision: 0.6069 - F1_score: 0.6043 - 6s/epoch - 283ms/step
+Epoch 93/200
+epoch ends.
+20/20 - 3s - loss: 0.0093 - iou_binarized: 0.5424 - iou: 0.4350 - recall: 0.6131 - precision: 0.6079 - F1_score: 0.6053 - 3s/epoch - 138ms/step
+Epoch 94/200
+epoch ends.
+20/20 - 3s - loss: 0.0092 - iou_binarized: 0.5435 - iou: 0.4360 - recall: 0.6140 - precision: 0.6089 - F1_score: 0.6063 - 3s/epoch - 129ms/step
+Epoch 95/200
+epoch ends.
+20/20 - 3s - loss: 0.0092 - iou_binarized: 0.5446 - iou: 0.4370 - recall: 0.6149 - precision: 0.6099 - F1_score: 0.6073 - 3s/epoch - 127ms/step
+Epoch 96/200
+epoch ends.
+20/20 - 3s - loss: 0.0092 - iou_binarized: 0.5456 - iou: 0.4380 - recall: 0.6158 - precision: 0.6108 - F1_score: 0.6083 - 3s/epoch - 125ms/step
+Epoch 97/200
+epoch ends.
+20/20 - 3s - loss: 0.0092 - iou_binarized: 0.5466 - iou: 0.4390 - recall: 0.6167 - precision: 0.6118 - F1_score: 0.6092 - 3s/epoch - 125ms/step
+Epoch 98/200
+epoch ends.
+20/20 - 3s - loss: 0.0091 - iou_binarized: 0.5476 - iou: 0.4400 - recall: 0.6176 - precision: 0.6127 - F1_score: 0.6102 - 3s/epoch - 125ms/step
+Epoch 99/200
+epoch ends.
+20/20 - 2s - loss: 0.0091 - iou_binarized: 0.5487 - iou: 0.4410 - recall: 0.6185 - precision: 0.6137 - F1_score: 0.6111 - 2s/epoch - 124ms/step
+Epoch 100/200
+epoch ends.
+20/20 - 3s - loss: 0.0091 - iou_binarized: 0.5497 - iou: 0.4419 - recall: 0.6194 - precision: 0.6146 - F1_score: 0.6120 - 3s/epoch - 125ms/step
+Epoch 101/200
+epoch ends.
+20/20 - 2s - loss: 0.0091 - iou_binarized: 0.5508 - iou: 0.4429 - recall: 0.6203 - precision: 0.6155 - F1_score: 0.6130 - 2s/epoch - 125ms/step
+Epoch 102/200
+epoch ends.
+20/20 - 2s - loss: 0.0090 - iou_binarized: 0.5518 - iou: 0.4439 - recall: 0.6212 - precision: 0.6164 - F1_score: 0.6139 - 2s/epoch - 124ms/step
+Epoch 103/200
+epoch ends.
+20/20 - 2s - loss: 0.0090 - iou_binarized: 0.5529 - iou: 0.4448 - recall: 0.6220 - precision: 0.6173 - F1_score: 0.6148 - 2s/epoch - 125ms/step
+Epoch 104/200
+epoch ends.
+20/20 - 3s - loss: 0.0090 - iou_binarized: 0.5539 - iou: 0.4458 - recall: 0.6229 - precision: 0.6182 - F1_score: 0.6157 - 3s/epoch - 125ms/step
+Epoch 105/200
+epoch ends.
+20/20 - 2s - loss: 0.0090 - iou_binarized: 0.5549 - iou: 0.4467 - recall: 0.6237 - precision: 0.6191 - F1_score: 0.6166 - 2s/epoch - 125ms/step
+Epoch 106/200
+epoch ends.
+20/20 - 3s - loss: 0.0089 - iou_binarized: 0.5559 - iou: 0.4476 - recall: 0.6246 - precision: 0.6200 - F1_score: 0.6175 - 3s/epoch - 126ms/step
+Epoch 107/200
+epoch ends.
+20/20 - 2s - loss: 0.0089 - iou_binarized: 0.5569 - iou: 0.4486 - recall: 0.6254 - precision: 0.6209 - F1_score: 0.6184 - 2s/epoch - 124ms/step
+Epoch 108/200
+epoch ends.
+20/20 - 2s - loss: 0.0089 - iou_binarized: 0.5578 - iou: 0.4495 - recall: 0.6263 - precision: 0.6218 - F1_score: 0.6193 - 2s/epoch - 125ms/step
+Epoch 109/200
+epoch ends.
+20/20 - 3s - loss: 0.0089 - iou_binarized: 0.5590 - iou: 0.4504 - recall: 0.6271 - precision: 0.6226 - F1_score: 0.6202 - 3s/epoch - 125ms/step
+Epoch 110/200
+epoch ends.
+20/20 - 2s - loss: 0.0089 - iou_binarized: 0.5599 - iou: 0.4514 - recall: 0.6279 - precision: 0.6235 - F1_score: 0.6211 - 2s/epoch - 125ms/step
+Epoch 111/200
+epoch ends.
+20/20 - 2s - loss: 0.0088 - iou_binarized: 0.5608 - iou: 0.4523 - recall: 0.6288 - precision: 0.6243 - F1_score: 0.6219 - 2s/epoch - 125ms/step
+Epoch 112/200
+epoch ends.
+20/20 - 2s - loss: 0.0088 - iou_binarized: 0.5618 - iou: 0.4532 - recall: 0.6296 - precision: 0.6252 - F1_score: 0.6228 - 2s/epoch - 125ms/step
+Epoch 113/200
+epoch ends.
+20/20 - 2s - loss: 0.0088 - iou_binarized: 0.5627 - iou: 0.4541 - recall: 0.6304 - precision: 0.6260 - F1_score: 0.6237 - 2s/epoch - 125ms/step
+Epoch 114/200
+epoch ends.
+20/20 - 2s - loss: 0.0088 - iou_binarized: 0.5637 - iou: 0.4550 - recall: 0.6312 - precision: 0.6268 - F1_score: 0.6245 - 2s/epoch - 124ms/step
+Epoch 115/200
+epoch ends.
+20/20 - 6s - loss: 0.0087 - iou_binarized: 0.5646 - iou: 0.4559 - recall: 0.6320 - precision: 0.6277 - F1_score: 0.6254 - 6s/epoch - 290ms/step
+Epoch 116/200
+epoch ends.
+20/20 - 3s - loss: 0.0087 - iou_binarized: 0.5655 - iou: 0.4568 - recall: 0.6328 - precision: 0.6285 - F1_score: 0.6262 - 3s/epoch - 132ms/step
+Epoch 117/200
+epoch ends.
+20/20 - 3s - loss: 0.0087 - iou_binarized: 0.5665 - iou: 0.4577 - recall: 0.6336 - precision: 0.6293 - F1_score: 0.6270 - 3s/epoch - 130ms/step
+Epoch 118/200
+epoch ends.
+20/20 - 3s - loss: 0.0087 - iou_binarized: 0.5674 - iou: 0.4586 - recall: 0.6344 - precision: 0.6301 - F1_score: 0.6279 - 3s/epoch - 126ms/step
+Epoch 119/200
+epoch ends.
+20/20 - 3s - loss: 0.0087 - iou_binarized: 0.5683 - iou: 0.4595 - recall: 0.6351 - precision: 0.6309 - F1_score: 0.6287 - 3s/epoch - 126ms/step
+Epoch 120/200
+epoch ends.
+20/20 - 2s - loss: 0.0086 - iou_binarized: 0.5693 - iou: 0.4604 - recall: 0.6359 - precision: 0.6317 - F1_score: 0.6295 - 2s/epoch - 124ms/step
+Epoch 121/200
+epoch ends.
+20/20 - 2s - loss: 0.0086 - iou_binarized: 0.5701 - iou: 0.4612 - recall: 0.6367 - precision: 0.6325 - F1_score: 0.6304 - 2s/epoch - 125ms/step
+Epoch 122/200
+epoch ends.
+20/20 - 2s - loss: 0.0086 - iou_binarized: 0.5710 - iou: 0.4621 - recall: 0.6374 - precision: 0.6333 - F1_score: 0.6312 - 2s/epoch - 124ms/step
+Epoch 123/200
+epoch ends.
+20/20 - 3s - loss: 0.0086 - iou_binarized: 0.5719 - iou: 0.4630 - recall: 0.6382 - precision: 0.6341 - F1_score: 0.6320 - 3s/epoch - 126ms/step
+Epoch 124/200
+epoch ends.
+20/20 - 3s - loss: 0.0085 - iou_binarized: 0.5727 - iou: 0.4639 - recall: 0.6389 - precision: 0.6349 - F1_score: 0.6328 - 3s/epoch - 126ms/step
+Epoch 125/200
+epoch ends.
+20/20 - 3s - loss: 0.0085 - iou_binarized: 0.5737 - iou: 0.4647 - recall: 0.6397 - precision: 0.6356 - F1_score: 0.6336 - 3s/epoch - 126ms/step
+Epoch 126/200
+epoch ends.
+20/20 - 2s - loss: 0.0085 - iou_binarized: 0.5745 - iou: 0.4656 - recall: 0.6404 - precision: 0.6364 - F1_score: 0.6344 - 2s/epoch - 125ms/step
+Epoch 127/200
+epoch ends.
+20/20 - 3s - loss: 0.0085 - iou_binarized: 0.5754 - iou: 0.4664 - recall: 0.6411 - precision: 0.6372 - F1_score: 0.6352 - 3s/epoch - 126ms/step
+Epoch 128/200
+epoch ends.
+20/20 - 3s - loss: 0.0085 - iou_binarized: 0.5763 - iou: 0.4673 - recall: 0.6418 - precision: 0.6379 - F1_score: 0.6360 - 3s/epoch - 125ms/step
+Epoch 129/200
+epoch ends.
+20/20 - 3s - loss: 0.0084 - iou_binarized: 0.5770 - iou: 0.4681 - recall: 0.6426 - precision: 0.6387 - F1_score: 0.6368 - 3s/epoch - 125ms/step
+Epoch 130/200
+epoch ends.
+20/20 - 3s - loss: 0.0084 - iou_binarized: 0.5780 - iou: 0.4689 - recall: 0.6433 - precision: 0.6394 - F1_score: 0.6375 - 3s/epoch - 126ms/step
+Epoch 131/200
+epoch ends.
+20/20 - 3s - loss: 0.0084 - iou_binarized: 0.5789 - iou: 0.4698 - recall: 0.6440 - precision: 0.6402 - F1_score: 0.6383 - 3s/epoch - 125ms/step
+Epoch 132/200
+epoch ends.
+20/20 - 3s - loss: 0.0084 - iou_binarized: 0.5797 - iou: 0.4706 - recall: 0.6447 - precision: 0.6410 - F1_score: 0.6391 - 3s/epoch - 125ms/step
+Epoch 133/200
+epoch ends.
+20/20 - 2s - loss: 0.0084 - iou_binarized: 0.5805 - iou: 0.4714 - recall: 0.6454 - precision: 0.6417 - F1_score: 0.6399 - 2s/epoch - 125ms/step
+Epoch 134/200
+epoch ends.
+20/20 - 3s - loss: 0.0083 - iou_binarized: 0.5814 - iou: 0.4723 - recall: 0.6461 - precision: 0.6424 - F1_score: 0.6406 - 3s/epoch - 125ms/step
+Epoch 135/200
+epoch ends.
+20/20 - 2s - loss: 0.0083 - iou_binarized: 0.5821 - iou: 0.4731 - recall: 0.6468 - precision: 0.6432 - F1_score: 0.6414 - 2s/epoch - 124ms/step
+Epoch 136/200
+epoch ends.
+20/20 - 3s - loss: 0.0083 - iou_binarized: 0.5829 - iou: 0.4739 - recall: 0.6475 - precision: 0.6439 - F1_score: 0.6421 - 3s/epoch - 125ms/step
+Epoch 137/200
+epoch ends.
+20/20 - 6s - loss: 0.0083 - iou_binarized: 0.5837 - iou: 0.4747 - recall: 0.6482 - precision: 0.6447 - F1_score: 0.6429 - 6s/epoch - 298ms/step
+Epoch 138/200
+epoch ends.
+20/20 - 3s - loss: 0.0083 - iou_binarized: 0.5845 - iou: 0.4755 - recall: 0.6489 - precision: 0.6454 - F1_score: 0.6436 - 3s/epoch - 138ms/step
+Epoch 139/200
+epoch ends.
+20/20 - 3s - loss: 0.0082 - iou_binarized: 0.5854 - iou: 0.4764 - recall: 0.6496 - precision: 0.6462 - F1_score: 0.6444 - 3s/epoch - 127ms/step
+Epoch 140/200
+epoch ends.
+20/20 - 3s - loss: 0.0082 - iou_binarized: 0.5863 - iou: 0.4772 - recall: 0.6502 - precision: 0.6469 - F1_score: 0.6451 - 3s/epoch - 127ms/step
+Epoch 141/200
+epoch ends.
+20/20 - 2s - loss: 0.0082 - iou_binarized: 0.5870 - iou: 0.4780 - recall: 0.6509 - precision: 0.6476 - F1_score: 0.6459 - 2s/epoch - 124ms/step
+Epoch 142/200
+epoch ends.
+20/20 - 3s - loss: 0.0082 - iou_binarized: 0.5879 - iou: 0.4788 - recall: 0.6516 - precision: 0.6484 - F1_score: 0.6466 - 3s/epoch - 126ms/step
+Epoch 143/200
+epoch ends.
+20/20 - 3s - loss: 0.0082 - iou_binarized: 0.5887 - iou: 0.4796 - recall: 0.6523 - precision: 0.6491 - F1_score: 0.6473 - 3s/epoch - 125ms/step
+Epoch 144/200
+epoch ends.
+20/20 - 2s - loss: 0.0082 - iou_binarized: 0.5895 - iou: 0.4804 - recall: 0.6529 - precision: 0.6498 - F1_score: 0.6481 - 2s/epoch - 125ms/step
+Epoch 145/200
+epoch ends.
+20/20 - 3s - loss: 0.0081 - iou_binarized: 0.5903 - iou: 0.4811 - recall: 0.6536 - precision: 0.6505 - F1_score: 0.6488 - 3s/epoch - 125ms/step
+Epoch 146/200
+epoch ends.
+20/20 - 3s - loss: 0.0081 - iou_binarized: 0.5910 - iou: 0.4819 - recall: 0.6543 - precision: 0.6513 - F1_score: 0.6495 - 3s/epoch - 126ms/step
+Epoch 147/200
+epoch ends.
+20/20 - 3s - loss: 0.0081 - iou_binarized: 0.5917 - iou: 0.4827 - recall: 0.6549 - precision: 0.6520 - F1_score: 0.6502 - 3s/epoch - 130ms/step
+Epoch 148/200
+epoch ends.
+20/20 - 3s - loss: 0.0081 - iou_binarized: 0.5925 - iou: 0.4835 - recall: 0.6556 - precision: 0.6527 - F1_score: 0.6509 - 3s/epoch - 125ms/step
+Epoch 149/200
+epoch ends.
+20/20 - 3s - loss: 0.0081 - iou_binarized: 0.5932 - iou: 0.4843 - recall: 0.6562 - precision: 0.6534 - F1_score: 0.6516 - 3s/epoch - 125ms/step
+Epoch 150/200
+epoch ends.
+20/20 - 2s - loss: 0.0080 - iou_binarized: 0.5940 - iou: 0.4850 - recall: 0.6569 - precision: 0.6541 - F1_score: 0.6523 - 2s/epoch - 125ms/step
+Epoch 151/200
+epoch ends.
+20/20 - 2s - loss: 0.0080 - iou_binarized: 0.5947 - iou: 0.4858 - recall: 0.6575 - precision: 0.6548 - F1_score: 0.6530 - 2s/epoch - 125ms/step
+Epoch 152/200
+epoch ends.
+20/20 - 3s - loss: 0.0080 - iou_binarized: 0.5954 - iou: 0.4866 - recall: 0.6582 - precision: 0.6555 - F1_score: 0.6537 - 3s/epoch - 125ms/step
+Epoch 153/200
+epoch ends.
+20/20 - 3s - loss: 0.0080 - iou_binarized: 0.5961 - iou: 0.4873 - recall: 0.6588 - precision: 0.6562 - F1_score: 0.6544 - 3s/epoch - 125ms/step
+Epoch 154/200
+epoch ends.
+20/20 - 3s - loss: 0.0080 - iou_binarized: 0.5969 - iou: 0.4881 - recall: 0.6595 - precision: 0.6569 - F1_score: 0.6551 - 3s/epoch - 126ms/step
+Epoch 155/200
+epoch ends.
+20/20 - 3s - loss: 0.0080 - iou_binarized: 0.5978 - iou: 0.4889 - recall: 0.6601 - precision: 0.6576 - F1_score: 0.6558 - 3s/epoch - 126ms/step
+Epoch 156/200
+epoch ends.
+20/20 - 3s - loss: 0.0079 - iou_binarized: 0.5986 - iou: 0.4896 - recall: 0.6608 - precision: 0.6583 - F1_score: 0.6565 - 3s/epoch - 126ms/step
+Epoch 157/200
+epoch ends.
+20/20 - 3s - loss: 0.0079 - iou_binarized: 0.5994 - iou: 0.4904 - recall: 0.6614 - precision: 0.6590 - F1_score: 0.6572 - 3s/epoch - 126ms/step
+Epoch 158/200
+epoch ends.
+20/20 - 3s - loss: 0.0079 - iou_binarized: 0.6002 - iou: 0.4912 - recall: 0.6621 - precision: 0.6597 - F1_score: 0.6579 - 3s/epoch - 126ms/step
+Epoch 159/200
+epoch ends.
+20/20 - 3s - loss: 0.0079 - iou_binarized: 0.6009 - iou: 0.4919 - recall: 0.6627 - precision: 0.6604 - F1_score: 0.6586 - 3s/epoch - 125ms/step
+Epoch 160/200
+epoch ends.
+20/20 - 6s - loss: 0.0079 - iou_binarized: 0.6016 - iou: 0.4927 - recall: 0.6634 - precision: 0.6611 - F1_score: 0.6592 - 6s/epoch - 280ms/step
+Epoch 161/200
+epoch ends.
+20/20 - 3s - loss: 0.0078 - iou_binarized: 0.6024 - iou: 0.4934 - recall: 0.6640 - precision: 0.6618 - F1_score: 0.6599 - 3s/epoch - 130ms/step
+Epoch 162/200
+epoch ends.
+20/20 - 3s - loss: 0.0078 - iou_binarized: 0.6030 - iou: 0.4942 - recall: 0.6647 - precision: 0.6625 - F1_score: 0.6606 - 3s/epoch - 127ms/step
+Epoch 163/200
+epoch ends.
+20/20 - 3s - loss: 0.0078 - iou_binarized: 0.6038 - iou: 0.4950 - recall: 0.6653 - precision: 0.6632 - F1_score: 0.6613 - 3s/epoch - 126ms/step
+Epoch 164/200
+epoch ends.
+20/20 - 2s - loss: 0.0078 - iou_binarized: 0.6046 - iou: 0.4957 - recall: 0.6659 - precision: 0.6639 - F1_score: 0.6620 - 2s/epoch - 125ms/step
+Epoch 165/200
+epoch ends.
+20/20 - 3s - loss: 0.0078 - iou_binarized: 0.6054 - iou: 0.4965 - recall: 0.6666 - precision: 0.6645 - F1_score: 0.6627 - 3s/epoch - 125ms/step
+Epoch 166/200
+epoch ends.
+20/20 - 3s - loss: 0.0078 - iou_binarized: 0.6061 - iou: 0.4972 - recall: 0.6672 - precision: 0.6652 - F1_score: 0.6633 - 3s/epoch - 126ms/step
+Epoch 167/200
+epoch ends.
+20/20 - 2s - loss: 0.0077 - iou_binarized: 0.6067 - iou: 0.4980 - recall: 0.6679 - precision: 0.6659 - F1_score: 0.6640 - 2s/epoch - 125ms/step
+Epoch 168/200
+epoch ends.
+20/20 - 3s - loss: 0.0077 - iou_binarized: 0.6075 - iou: 0.4987 - recall: 0.6685 - precision: 0.6666 - F1_score: 0.6647 - 3s/epoch - 125ms/step
+Epoch 169/200
+epoch ends.
+20/20 - 3s - loss: 0.0077 - iou_binarized: 0.6083 - iou: 0.4995 - recall: 0.6692 - precision: 0.6673 - F1_score: 0.6654 - 3s/epoch - 130ms/step
+Epoch 170/200
+epoch ends.
+20/20 - 3s - loss: 0.0077 - iou_binarized: 0.6090 - iou: 0.5003 - recall: 0.6698 - precision: 0.6679 - F1_score: 0.6660 - 3s/epoch - 126ms/step
+Epoch 171/200
+epoch ends.
+20/20 - 3s - loss: 0.0077 - iou_binarized: 0.6098 - iou: 0.5010 - recall: 0.6705 - precision: 0.6686 - F1_score: 0.6667 - 3s/epoch - 125ms/step
+Epoch 172/200
+epoch ends.
+20/20 - 3s - loss: 0.0077 - iou_binarized: 0.6104 - iou: 0.5018 - recall: 0.6711 - precision: 0.6693 - F1_score: 0.6674 - 3s/epoch - 126ms/step
+Epoch 173/200
+epoch ends.
+20/20 - 3s - loss: 0.0076 - iou_binarized: 0.6112 - iou: 0.5025 - recall: 0.6717 - precision: 0.6700 - F1_score: 0.6681 - 3s/epoch - 125ms/step
+Epoch 174/200
+epoch ends.
+20/20 - 3s - loss: 0.0076 - iou_binarized: 0.6119 - iou: 0.5033 - recall: 0.6724 - precision: 0.6706 - F1_score: 0.6687 - 3s/epoch - 126ms/step
+Epoch 175/200
+epoch ends.
+20/20 - 3s - loss: 0.0076 - iou_binarized: 0.6125 - iou: 0.5040 - recall: 0.6730 - precision: 0.6713 - F1_score: 0.6694 - 3s/epoch - 126ms/step
+Epoch 176/200
+epoch ends.
+20/20 - 3s - loss: 0.0076 - iou_binarized: 0.6132 - iou: 0.5048 - recall: 0.6737 - precision: 0.6720 - F1_score: 0.6701 - 3s/epoch - 126ms/step
+Epoch 177/200
+epoch ends.
+20/20 - 3s - loss: 0.0076 - iou_binarized: 0.6140 - iou: 0.5055 - recall: 0.6743 - precision: 0.6727 - F1_score: 0.6707 - 3s/epoch - 125ms/step
+Epoch 178/200
+epoch ends.
+20/20 - 3s - loss: 0.0076 - iou_binarized: 0.6148 - iou: 0.5063 - recall: 0.6749 - precision: 0.6733 - F1_score: 0.6714 - 3s/epoch - 126ms/step
+Epoch 179/200
+epoch ends.
+20/20 - 3s - loss: 0.0075 - iou_binarized: 0.6155 - iou: 0.5070 - recall: 0.6756 - precision: 0.6740 - F1_score: 0.6720 - 3s/epoch - 125ms/step
+Epoch 180/200
+epoch ends.
+20/20 - 3s - loss: 0.0075 - iou_binarized: 0.6163 - iou: 0.5077 - recall: 0.6762 - precision: 0.6746 - F1_score: 0.6727 - 3s/epoch - 125ms/step
+Epoch 181/200
+epoch ends.
+20/20 - 3s - loss: 0.0075 - iou_binarized: 0.6171 - iou: 0.5085 - recall: 0.6768 - precision: 0.6753 - F1_score: 0.6733 - 3s/epoch - 126ms/step
+Epoch 182/200
+epoch ends.
+20/20 - 6s - loss: 0.0075 - iou_binarized: 0.6179 - iou: 0.5092 - recall: 0.6774 - precision: 0.6759 - F1_score: 0.6740 - 6s/epoch - 288ms/step
+Epoch 183/200
+epoch ends.
+20/20 - 3s - loss: 0.0075 - iou_binarized: 0.6186 - iou: 0.5099 - recall: 0.6781 - precision: 0.6766 - F1_score: 0.6746 - 3s/epoch - 139ms/step
+Epoch 184/200
+epoch ends.
+20/20 - 3s - loss: 0.0075 - iou_binarized: 0.6193 - iou: 0.5106 - recall: 0.6787 - precision: 0.6772 - F1_score: 0.6752 - 3s/epoch - 129ms/step
+Epoch 185/200
+epoch ends.
+20/20 - 3s - loss: 0.0075 - iou_binarized: 0.6200 - iou: 0.5113 - recall: 0.6793 - precision: 0.6778 - F1_score: 0.6759 - 3s/epoch - 126ms/step
+Epoch 186/200
+epoch ends.
+20/20 - 2s - loss: 0.0074 - iou_binarized: 0.6207 - iou: 0.5120 - recall: 0.6799 - precision: 0.6785 - F1_score: 0.6765 - 2s/epoch - 125ms/step
+Epoch 187/200
+epoch ends.
+20/20 - 2s - loss: 0.0074 - iou_binarized: 0.6215 - iou: 0.5127 - recall: 0.6805 - precision: 0.6791 - F1_score: 0.6771 - 2s/epoch - 125ms/step
+Epoch 188/200
+epoch ends.
+20/20 - 3s - loss: 0.0074 - iou_binarized: 0.6221 - iou: 0.5134 - recall: 0.6811 - precision: 0.6797 - F1_score: 0.6777 - 3s/epoch - 126ms/step
+Epoch 189/200
+epoch ends.
+20/20 - 3s - loss: 0.0074 - iou_binarized: 0.6228 - iou: 0.5141 - recall: 0.6817 - precision: 0.6803 - F1_score: 0.6783 - 3s/epoch - 125ms/step
+Epoch 190/200
+epoch ends.
+20/20 - 3s - loss: 0.0074 - iou_binarized: 0.6234 - iou: 0.5148 - recall: 0.6823 - precision: 0.6809 - F1_score: 0.6789 - 3s/epoch - 125ms/step
+Epoch 191/200
+epoch ends.
+20/20 - 3s - loss: 0.0074 - iou_binarized: 0.6241 - iou: 0.5154 - recall: 0.6829 - precision: 0.6815 - F1_score: 0.6795 - 3s/epoch - 126ms/step
+Epoch 192/200
+epoch ends.
+20/20 - 3s - loss: 0.0074 - iou_binarized: 0.6247 - iou: 0.5161 - recall: 0.6835 - precision: 0.6821 - F1_score: 0.6800 - 3s/epoch - 125ms/step
+Epoch 193/200
+epoch ends.
+20/20 - 3s - loss: 0.0073 - iou_binarized: 0.6253 - iou: 0.5168 - recall: 0.6840 - precision: 0.6826 - F1_score: 0.6806 - 3s/epoch - 125ms/step
+Epoch 194/200
+epoch ends.
+20/20 - 3s - loss: 0.0073 - iou_binarized: 0.6259 - iou: 0.5174 - recall: 0.6846 - precision: 0.6832 - F1_score: 0.6812 - 3s/epoch - 125ms/step
+Epoch 195/200
+epoch ends.
+20/20 - 3s - loss: 0.0073 - iou_binarized: 0.6265 - iou: 0.5180 - recall: 0.6852 - precision: 0.6838 - F1_score: 0.6817 - 3s/epoch - 125ms/step
+Epoch 196/200
+epoch ends.
+20/20 - 3s - loss: 0.0073 - iou_binarized: 0.6271 - iou: 0.5187 - recall: 0.6857 - precision: 0.6843 - F1_score: 0.6823 - 3s/epoch - 125ms/step
+Epoch 197/200
+epoch ends.
+20/20 - 3s - loss: 0.0073 - iou_binarized: 0.6277 - iou: 0.5193 - recall: 0.6863 - precision: 0.6849 - F1_score: 0.6828 - 3s/epoch - 125ms/step
+Epoch 198/200
+epoch ends.
+20/20 - 3s - loss: 0.0073 - iou_binarized: 0.6283 - iou: 0.5199 - recall: 0.6868 - precision: 0.6854 - F1_score: 0.6833 - 3s/epoch - 126ms/step
+Epoch 199/200
+epoch ends.
+20/20 - 3s - loss: 0.0073 - iou_binarized: 0.6288 - iou: 0.5205 - recall: 0.6874 - precision: 0.6859 - F1_score: 0.6839 - 3s/epoch - 126ms/step
+Epoch 200/200
+epoch ends.
+20/20 - 2s - loss: 0.0073 - iou_binarized: 0.6294 - iou: 0.5211 - recall: 0.6879 - precision: 0.6864 - F1_score: 0.6844 - 2s/epoch - 125ms/step
+2022-07-14 17:54:03.683917: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-07-14 17:54:04.487287: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 14640 MB memory:  -> device: 0, name: Tesla V100-SXM2-16GB, pci bus id: 0000:61:00.0, compute capability: 7.0
+X_train   (160, 512, 512, 1)
+Y_train   (160, 512, 512, 2)
+Model: "model"
+__________________________________________________________________________________________________
+ Layer (type)                   Output Shape         Param #     Connected to                     
+==================================================================================================
+ input_1 (InputLayer)           [(None, 512, 512, 1  0           []                               
+                                )]                                                                
+                                                                                                  
+ conv2d (Conv2D)                (None, 512, 512, 4)  40          ['input_1[0][0]']                
+                                                                                                  
+ dropout (Dropout)              (None, 512, 512, 4)  0           ['conv2d[0][0]']                 
+                                                                                                  
+ conv2d_1 (Conv2D)              (None, 512, 512, 4)  148         ['dropout[0][0]']                
+                                                                                                  
+ max_pooling2d (MaxPooling2D)   (None, 256, 256, 4)  0           ['conv2d_1[0][0]']               
+                                                                                                  
+ conv2d_2 (Conv2D)              (None, 256, 256, 8)  296         ['max_pooling2d[0][0]']          
+                                                                                                  
+ dropout_1 (Dropout)            (None, 256, 256, 8)  0           ['conv2d_2[0][0]']               
+                                                                                                  
+ conv2d_3 (Conv2D)              (None, 256, 256, 8)  584         ['dropout_1[0][0]']              
+                                                                                                  
+ max_pooling2d_1 (MaxPooling2D)  (None, 128, 128, 8)  0          ['conv2d_3[0][0]']               
+                                                                                                  
+ conv2d_4 (Conv2D)              (None, 128, 128, 16  1168        ['max_pooling2d_1[0][0]']        
+                                )                                                                 
+                                                                                                  
+ dropout_2 (Dropout)            (None, 128, 128, 16  0           ['conv2d_4[0][0]']               
+                                )                                                                 
+                                                                                                  
+ conv2d_5 (Conv2D)              (None, 128, 128, 16  2320        ['dropout_2[0][0]']              
+                                )                                                                 
+                                                                                                  
+ max_pooling2d_2 (MaxPooling2D)  (None, 64, 64, 16)  0           ['conv2d_5[0][0]']               
+                                                                                                  
+ conv2d_6 (Conv2D)              (None, 64, 64, 32)   4640        ['max_pooling2d_2[0][0]']        
+                                                                                                  
+ dropout_3 (Dropout)            (None, 64, 64, 32)   0           ['conv2d_6[0][0]']               
+                                                                                                  
+ conv2d_7 (Conv2D)              (None, 64, 64, 32)   9248        ['dropout_3[0][0]']              
+                                                                                                  
+ max_pooling2d_3 (MaxPooling2D)  (None, 32, 32, 32)  0           ['conv2d_7[0][0]']               
+                                                                                                  
+ conv2d_8 (Conv2D)              (None, 32, 32, 64)   18496       ['max_pooling2d_3[0][0]']        
+                                                                                                  
+ dropout_4 (Dropout)            (None, 32, 32, 64)   0           ['conv2d_8[0][0]']               
+                                                                                                  
+ conv2d_9 (Conv2D)              (None, 32, 32, 64)   36928       ['dropout_4[0][0]']              
+                                                                                                  
+ conv2d_transpose (Conv2DTransp  (None, 64, 64, 32)  8224        ['conv2d_9[0][0]']               
+ ose)                                                                                             
+                                                                                                  
+ concatenate (Concatenate)      (None, 64, 64, 64)   0           ['conv2d_transpose[0][0]',       
+                                                                  'conv2d_7[0][0]']               
+                                                                                                  
+ conv2d_10 (Conv2D)             (None, 64, 64, 32)   18464       ['concatenate[0][0]']            
+                                                                                                  
+ dropout_5 (Dropout)            (None, 64, 64, 32)   0           ['conv2d_10[0][0]']              
+                                                                                                  
+ conv2d_11 (Conv2D)             (None, 64, 64, 32)   9248        ['dropout_5[0][0]']              
+                                                                                                  
+ conv2d_transpose_1 (Conv2DTran  (None, 128, 128, 16  2064       ['conv2d_11[0][0]']              
+ spose)                         )                                                                 
+                                                                                                  
+ concatenate_1 (Concatenate)    (None, 128, 128, 32  0           ['conv2d_transpose_1[0][0]',     
+                                )                                 'conv2d_5[0][0]']               
+                                                                                                  
+ conv2d_12 (Conv2D)             (None, 128, 128, 16  4624        ['concatenate_1[0][0]']          
+                                )                                                                 
+                                                                                                  
+ dropout_6 (Dropout)            (None, 128, 128, 16  0           ['conv2d_12[0][0]']              
+                                )                                                                 
+                                                                                                  
+ conv2d_13 (Conv2D)             (None, 128, 128, 16  2320        ['dropout_6[0][0]']              
+                                )                                                                 
+                                                                                                  
+ conv2d_transpose_2 (Conv2DTran  (None, 256, 256, 8)  520        ['conv2d_13[0][0]']              
+ spose)                                                                                           
+                                                                                                  
+ concatenate_2 (Concatenate)    (None, 256, 256, 16  0           ['conv2d_transpose_2[0][0]',     
+                                )                                 'conv2d_3[0][0]']               
+                                                                                                  
+ conv2d_14 (Conv2D)             (None, 256, 256, 8)  1160        ['concatenate_2[0][0]']          
+                                                                                                  
+ dropout_7 (Dropout)            (None, 256, 256, 8)  0           ['conv2d_14[0][0]']              
+                                                                                                  
+ conv2d_15 (Conv2D)             (None, 256, 256, 8)  584         ['dropout_7[0][0]']              
+                                                                                                  
+ conv2d_transpose_3 (Conv2DTran  (None, 512, 512, 4)  132        ['conv2d_15[0][0]']              
+ spose)                                                                                           
+                                                                                                  
+ concatenate_3 (Concatenate)    (None, 512, 512, 8)  0           ['conv2d_transpose_3[0][0]',     
+                                                                  'conv2d_1[0][0]']               
+                                                                                                  
+ conv2d_16 (Conv2D)             (None, 512, 512, 4)  292         ['concatenate_3[0][0]']          
+                                                                                                  
+ dropout_8 (Dropout)            (None, 512, 512, 4)  0           ['conv2d_16[0][0]']              
+                                                                                                  
+ conv2d_17 (Conv2D)             (None, 512, 512, 4)  148         ['dropout_8[0][0]']              
+                                                                                                  
+ conv2d_18 (Conv2D)             (None, 512, 512, 2)  10          ['conv2d_17[0][0]']              
+                                                                                                  
+==================================================================================================
+Total params: 121,658
+Trainable params: 103,214
+Non-trainable params: 18,444
+__________________________________________________________________________________________________
+2022-07-14 17:54:07.858054: I tensorflow/stream_executor/cuda/cuda_dnn.cc:368] Loaded cuDNN version 8400
+train begins.
+Epoch 1/200
+epoch ends.
+20/20 - 4s - loss: 0.0144 - iou_binarized: 0.3302 - iou: 0.2728 - recall: 0.4397 - precision: 0.4211 - F1_score: 0.4224 - 4s/epoch - 199ms/step
+Epoch 2/200
+epoch ends.
+20/20 - 2s - loss: 0.0090 - iou_binarized: 0.4597 - iou: 0.3418 - recall: 0.5299 - precision: 0.4943 - F1_score: 0.5087 - 2s/epoch - 125ms/step
+Epoch 3/200
+epoch ends.
+20/20 - 3s - loss: 0.0080 - iou_binarized: 0.4923 - iou: 0.3681 - recall: 0.5508 - precision: 0.5299 - F1_score: 0.5371 - 3s/epoch - 125ms/step
+Epoch 4/200
+epoch ends.
+20/20 - 2s - loss: 0.0073 - iou_binarized: 0.5292 - iou: 0.4033 - recall: 0.5859 - precision: 0.5688 - F1_score: 0.5739 - 2s/epoch - 124ms/step
+Epoch 5/200
+epoch ends.
+20/20 - 3s - loss: 0.0069 - iou_binarized: 0.5497 - iou: 0.4238 - recall: 0.6046 - precision: 0.5911 - F1_score: 0.5944 - 3s/epoch - 125ms/step
+Epoch 6/200
+epoch ends.
+20/20 - 2s - loss: 0.0066 - iou_binarized: 0.5661 - iou: 0.4404 - recall: 0.6200 - precision: 0.6077 - F1_score: 0.6107 - 2s/epoch - 124ms/step
+Epoch 7/200
+epoch ends.
+20/20 - 2s - loss: 0.0063 - iou_binarized: 0.5790 - iou: 0.4541 - recall: 0.6331 - precision: 0.6204 - F1_score: 0.6239 - 2s/epoch - 125ms/step
+Epoch 8/200
+epoch ends.
+20/20 - 2s - loss: 0.0061 - iou_binarized: 0.5899 - iou: 0.4651 - recall: 0.6431 - precision: 0.6306 - F1_score: 0.6343 - 2s/epoch - 125ms/step
+Epoch 9/200
+epoch ends.
+20/20 - 3s - loss: 0.0059 - iou_binarized: 0.5988 - iou: 0.4743 - recall: 0.6513 - precision: 0.6391 - F1_score: 0.6428 - 3s/epoch - 125ms/step
+Epoch 10/200
+epoch ends.
+20/20 - 2s - loss: 0.0058 - iou_binarized: 0.6063 - iou: 0.4822 - recall: 0.6583 - precision: 0.6464 - F1_score: 0.6501 - 2s/epoch - 125ms/step
+Epoch 11/200
+epoch ends.
+20/20 - 2s - loss: 0.0057 - iou_binarized: 0.6127 - iou: 0.4892 - recall: 0.6643 - precision: 0.6528 - F1_score: 0.6565 - 2s/epoch - 125ms/step
+Epoch 12/200
+epoch ends.
+20/20 - 2s - loss: 0.0056 - iou_binarized: 0.6188 - iou: 0.4956 - recall: 0.6697 - precision: 0.6586 - F1_score: 0.6623 - 2s/epoch - 125ms/step
+Epoch 13/200
+epoch ends.
+20/20 - 2s - loss: 0.0055 - iou_binarized: 0.6242 - iou: 0.5015 - recall: 0.6746 - precision: 0.6640 - F1_score: 0.6675 - 2s/epoch - 125ms/step
+Epoch 14/200
+epoch ends.
+20/20 - 3s - loss: 0.0054 - iou_binarized: 0.6294 - iou: 0.5069 - recall: 0.6791 - precision: 0.6689 - F1_score: 0.6724 - 3s/epoch - 126ms/step
+Epoch 15/200
+epoch ends.
+20/20 - 2s - loss: 0.0053 - iou_binarized: 0.6346 - iou: 0.5120 - recall: 0.6834 - precision: 0.6735 - F1_score: 0.6769 - 2s/epoch - 124ms/step
+Epoch 16/200
+epoch ends.
+20/20 - 3s - loss: 0.0052 - iou_binarized: 0.6394 - iou: 0.5168 - recall: 0.6873 - precision: 0.6778 - F1_score: 0.6811 - 3s/epoch - 125ms/step
+Epoch 17/200
+epoch ends.
+20/20 - 2s - loss: 0.0051 - iou_binarized: 0.6438 - iou: 0.5214 - recall: 0.6911 - precision: 0.6819 - F1_score: 0.6852 - 2s/epoch - 125ms/step
+Epoch 18/200
+epoch ends.
+20/20 - 3s - loss: 0.0051 - iou_binarized: 0.6480 - iou: 0.5258 - recall: 0.6947 - precision: 0.6858 - F1_score: 0.6890 - 3s/epoch - 125ms/step
+Epoch 19/200
+epoch ends.
+20/20 - 3s - loss: 0.0050 - iou_binarized: 0.6522 - iou: 0.5301 - recall: 0.6981 - precision: 0.6894 - F1_score: 0.6926 - 3s/epoch - 125ms/step
+Epoch 20/200
+epoch ends.
+20/20 - 5s - loss: 0.0049 - iou_binarized: 0.6561 - iou: 0.5341 - recall: 0.7014 - precision: 0.6929 - F1_score: 0.6961 - 5s/epoch - 259ms/step
+Epoch 21/200
+epoch ends.
+20/20 - 3s - loss: 0.0049 - iou_binarized: 0.6600 - iou: 0.5380 - recall: 0.7046 - precision: 0.6963 - F1_score: 0.6994 - 3s/epoch - 130ms/step
+Epoch 22/200
+epoch ends.
+20/20 - 3s - loss: 0.0048 - iou_binarized: 0.6635 - iou: 0.5418 - recall: 0.7077 - precision: 0.6995 - F1_score: 0.7026 - 3s/epoch - 127ms/step
+Epoch 23/200
+epoch ends.
+20/20 - 3s - loss: 0.0048 - iou_binarized: 0.6672 - iou: 0.5454 - recall: 0.7106 - precision: 0.7026 - F1_score: 0.7056 - 3s/epoch - 125ms/step
+Epoch 24/200
+epoch ends.
+20/20 - 3s - loss: 0.0047 - iou_binarized: 0.6707 - iou: 0.5489 - recall: 0.7135 - precision: 0.7056 - F1_score: 0.7086 - 3s/epoch - 125ms/step
+Epoch 25/200
+epoch ends.
+20/20 - 2s - loss: 0.0047 - iou_binarized: 0.6738 - iou: 0.5523 - recall: 0.7162 - precision: 0.7084 - F1_score: 0.7114 - 2s/epoch - 125ms/step
+Epoch 26/200
+epoch ends.
+20/20 - 3s - loss: 0.0046 - iou_binarized: 0.6767 - iou: 0.5556 - recall: 0.7189 - precision: 0.7112 - F1_score: 0.7142 - 3s/epoch - 125ms/step
+Epoch 27/200
+epoch ends.
+20/20 - 2s - loss: 0.0046 - iou_binarized: 0.6799 - iou: 0.5589 - recall: 0.7214 - precision: 0.7139 - F1_score: 0.7168 - 2s/epoch - 124ms/step
+Epoch 28/200
+epoch ends.
+20/20 - 3s - loss: 0.0045 - iou_binarized: 0.6828 - iou: 0.5620 - recall: 0.7239 - precision: 0.7165 - F1_score: 0.7194 - 3s/epoch - 125ms/step
+Epoch 29/200
+epoch ends.
+20/20 - 2s - loss: 0.0045 - iou_binarized: 0.6854 - iou: 0.5650 - recall: 0.7263 - precision: 0.7190 - F1_score: 0.7219 - 2s/epoch - 125ms/step
+Epoch 30/200
+epoch ends.
+20/20 - 2s - loss: 0.0044 - iou_binarized: 0.6881 - iou: 0.5680 - recall: 0.7286 - precision: 0.7215 - F1_score: 0.7243 - 2s/epoch - 125ms/step
+Epoch 31/200
+epoch ends.
+20/20 - 2s - loss: 0.0044 - iou_binarized: 0.6903 - iou: 0.5708 - recall: 0.7309 - precision: 0.7238 - F1_score: 0.7267 - 2s/epoch - 125ms/step
+Epoch 32/200
+epoch ends.
+20/20 - 2s - loss: 0.0044 - iou_binarized: 0.6925 - iou: 0.5737 - recall: 0.7331 - precision: 0.7262 - F1_score: 0.7289 - 2s/epoch - 125ms/step
+Epoch 33/200
+epoch ends.
+20/20 - 2s - loss: 0.0043 - iou_binarized: 0.6947 - iou: 0.5764 - recall: 0.7352 - precision: 0.7284 - F1_score: 0.7312 - 2s/epoch - 125ms/step
+Epoch 34/200
+epoch ends.
+20/20 - 2s - loss: 0.0043 - iou_binarized: 0.6967 - iou: 0.5791 - recall: 0.7373 - precision: 0.7307 - F1_score: 0.7333 - 2s/epoch - 125ms/step
+Epoch 35/200
+epoch ends.
+20/20 - 3s - loss: 0.0043 - iou_binarized: 0.6988 - iou: 0.5818 - recall: 0.7394 - precision: 0.7328 - F1_score: 0.7355 - 3s/epoch - 126ms/step
+Epoch 36/200
+epoch ends.
+20/20 - 3s - loss: 0.0042 - iou_binarized: 0.7008 - iou: 0.5843 - recall: 0.7414 - precision: 0.7349 - F1_score: 0.7375 - 3s/epoch - 126ms/step
+Epoch 37/200
+epoch ends.
+20/20 - 2s - loss: 0.0042 - iou_binarized: 0.7028 - iou: 0.5869 - recall: 0.7433 - precision: 0.7370 - F1_score: 0.7395 - 2s/epoch - 125ms/step
+Epoch 38/200
+epoch ends.
+20/20 - 2s - loss: 0.0042 - iou_binarized: 0.7046 - iou: 0.5894 - recall: 0.7452 - precision: 0.7390 - F1_score: 0.7415 - 2s/epoch - 124ms/step
+Epoch 39/200
+epoch ends.
+20/20 - 2s - loss: 0.0041 - iou_binarized: 0.7065 - iou: 0.5918 - recall: 0.7471 - precision: 0.7409 - F1_score: 0.7434 - 2s/epoch - 125ms/step
+Epoch 40/200
+epoch ends.
+20/20 - 2s - loss: 0.0041 - iou_binarized: 0.7083 - iou: 0.5942 - recall: 0.7489 - precision: 0.7428 - F1_score: 0.7453 - 2s/epoch - 125ms/step
+Epoch 41/200
+epoch ends.
+20/20 - 2s - loss: 0.0041 - iou_binarized: 0.7100 - iou: 0.5965 - recall: 0.7506 - precision: 0.7447 - F1_score: 0.7471 - 2s/epoch - 125ms/step
+Epoch 42/200
+epoch ends.
+20/20 - 3s - loss: 0.0040 - iou_binarized: 0.7116 - iou: 0.5987 - recall: 0.7524 - precision: 0.7465 - F1_score: 0.7489 - 3s/epoch - 125ms/step
+Epoch 43/200
+epoch ends.
+20/20 - 5s - loss: 0.0040 - iou_binarized: 0.7132 - iou: 0.6010 - recall: 0.7540 - precision: 0.7483 - F1_score: 0.7507 - 5s/epoch - 242ms/step
+Epoch 44/200
+epoch ends.
+20/20 - 3s - loss: 0.0040 - iou_binarized: 0.7146 - iou: 0.6031 - recall: 0.7557 - precision: 0.7500 - F1_score: 0.7523 - 3s/epoch - 129ms/step
+Epoch 45/200
+epoch ends.
+20/20 - 3s - loss: 0.0040 - iou_binarized: 0.7160 - iou: 0.6053 - recall: 0.7573 - precision: 0.7517 - F1_score: 0.7540 - 3s/epoch - 127ms/step
+Epoch 46/200
+epoch ends.
+20/20 - 2s - loss: 0.0039 - iou_binarized: 0.7172 - iou: 0.6074 - recall: 0.7588 - precision: 0.7534 - F1_score: 0.7556 - 2s/epoch - 124ms/step
+Epoch 47/200
+epoch ends.
+20/20 - 3s - loss: 0.0039 - iou_binarized: 0.7187 - iou: 0.6094 - recall: 0.7604 - precision: 0.7550 - F1_score: 0.7572 - 3s/epoch - 126ms/step
+Epoch 48/200
+epoch ends.
+20/20 - 3s - loss: 0.0039 - iou_binarized: 0.7199 - iou: 0.6114 - recall: 0.7618 - precision: 0.7565 - F1_score: 0.7587 - 3s/epoch - 125ms/step
+Epoch 49/200
+epoch ends.
+20/20 - 2s - loss: 0.0039 - iou_binarized: 0.7212 - iou: 0.6133 - recall: 0.7633 - precision: 0.7581 - F1_score: 0.7602 - 2s/epoch - 125ms/step
+Epoch 50/200
+epoch ends.
+20/20 - 2s - loss: 0.0038 - iou_binarized: 0.7224 - iou: 0.6153 - recall: 0.7647 - precision: 0.7596 - F1_score: 0.7617 - 2s/epoch - 125ms/step
+Epoch 51/200
+epoch ends.
+20/20 - 2s - loss: 0.0038 - iou_binarized: 0.7237 - iou: 0.6171 - recall: 0.7661 - precision: 0.7610 - F1_score: 0.7631 - 2s/epoch - 124ms/step
+Epoch 52/200
+epoch ends.
+20/20 - 2s - loss: 0.0038 - iou_binarized: 0.7251 - iou: 0.6190 - recall: 0.7675 - precision: 0.7625 - F1_score: 0.7645 - 2s/epoch - 125ms/step
+Epoch 53/200
+epoch ends.
+20/20 - 2s - loss: 0.0038 - iou_binarized: 0.7263 - iou: 0.6208 - recall: 0.7688 - precision: 0.7639 - F1_score: 0.7659 - 2s/epoch - 125ms/step
+Epoch 54/200
+epoch ends.
+20/20 - 2s - loss: 0.0037 - iou_binarized: 0.7275 - iou: 0.6225 - recall: 0.7701 - precision: 0.7652 - F1_score: 0.7673 - 2s/epoch - 124ms/step
+Epoch 55/200
+epoch ends.
+20/20 - 2s - loss: 0.0037 - iou_binarized: 0.7284 - iou: 0.6243 - recall: 0.7714 - precision: 0.7666 - F1_score: 0.7686 - 2s/epoch - 125ms/step
+Epoch 56/200
+epoch ends.
+20/20 - 2s - loss: 0.0037 - iou_binarized: 0.7296 - iou: 0.6260 - recall: 0.7726 - precision: 0.7679 - F1_score: 0.7699 - 2s/epoch - 125ms/step
+Epoch 57/200
+epoch ends.
+20/20 - 3s - loss: 0.0037 - iou_binarized: 0.7307 - iou: 0.6276 - recall: 0.7738 - precision: 0.7692 - F1_score: 0.7711 - 3s/epoch - 126ms/step
+Epoch 58/200
+epoch ends.
+20/20 - 3s - loss: 0.0037 - iou_binarized: 0.7319 - iou: 0.6293 - recall: 0.7750 - precision: 0.7705 - F1_score: 0.7723 - 3s/epoch - 126ms/step
+Epoch 59/200
+epoch ends.
+20/20 - 3s - loss: 0.0036 - iou_binarized: 0.7328 - iou: 0.6309 - recall: 0.7762 - precision: 0.7717 - F1_score: 0.7736 - 3s/epoch - 126ms/step
+Epoch 60/200
+epoch ends.
+20/20 - 2s - loss: 0.0036 - iou_binarized: 0.7338 - iou: 0.6324 - recall: 0.7773 - precision: 0.7729 - F1_score: 0.7747 - 2s/epoch - 125ms/step
+Epoch 61/200
+epoch ends.
+20/20 - 3s - loss: 0.0036 - iou_binarized: 0.7349 - iou: 0.6340 - recall: 0.7784 - precision: 0.7741 - F1_score: 0.7759 - 3s/epoch - 125ms/step
+Epoch 62/200
+epoch ends.
+20/20 - 2s - loss: 0.0036 - iou_binarized: 0.7360 - iou: 0.6355 - recall: 0.7795 - precision: 0.7752 - F1_score: 0.7770 - 2s/epoch - 125ms/step
+Epoch 63/200
+epoch ends.
+20/20 - 3s - loss: 0.0036 - iou_binarized: 0.7370 - iou: 0.6370 - recall: 0.7806 - precision: 0.7764 - F1_score: 0.7781 - 3s/epoch - 125ms/step
+Epoch 64/200
+epoch ends.
+20/20 - 2s - loss: 0.0035 - iou_binarized: 0.7379 - iou: 0.6385 - recall: 0.7817 - precision: 0.7775 - F1_score: 0.7792 - 2s/epoch - 125ms/step
+Epoch 65/200
+epoch ends.
+20/20 - 2s - loss: 0.0035 - iou_binarized: 0.7388 - iou: 0.6399 - recall: 0.7827 - precision: 0.7786 - F1_score: 0.7803 - 2s/epoch - 124ms/step
+Epoch 66/200
+epoch ends.
+20/20 - 5s - loss: 0.0035 - iou_binarized: 0.7398 - iou: 0.6413 - recall: 0.7837 - precision: 0.7797 - F1_score: 0.7813 - 5s/epoch - 246ms/step
+Epoch 67/200
+epoch ends.
+20/20 - 3s - loss: 0.0035 - iou_binarized: 0.7407 - iou: 0.6427 - recall: 0.7847 - precision: 0.7807 - F1_score: 0.7824 - 3s/epoch - 129ms/step
+Epoch 68/200
+epoch ends.
+20/20 - 3s - loss: 0.0035 - iou_binarized: 0.7415 - iou: 0.6440 - recall: 0.7857 - precision: 0.7818 - F1_score: 0.7834 - 3s/epoch - 126ms/step
+Epoch 69/200
+epoch ends.
+20/20 - 3s - loss: 0.0035 - iou_binarized: 0.7423 - iou: 0.6454 - recall: 0.7866 - precision: 0.7828 - F1_score: 0.7844 - 3s/epoch - 125ms/step
+Epoch 70/200
+epoch ends.
+20/20 - 2s - loss: 0.0034 - iou_binarized: 0.7431 - iou: 0.6467 - recall: 0.7875 - precision: 0.7838 - F1_score: 0.7853 - 2s/epoch - 124ms/step
+Epoch 71/200
+epoch ends.
+20/20 - 2s - loss: 0.0034 - iou_binarized: 0.7439 - iou: 0.6480 - recall: 0.7885 - precision: 0.7848 - F1_score: 0.7863 - 2s/epoch - 124ms/step
+Epoch 72/200
+epoch ends.
+20/20 - 3s - loss: 0.0034 - iou_binarized: 0.7447 - iou: 0.6493 - recall: 0.7894 - precision: 0.7857 - F1_score: 0.7872 - 3s/epoch - 125ms/step
+Epoch 73/200
+epoch ends.
+20/20 - 3s - loss: 0.0034 - iou_binarized: 0.7454 - iou: 0.6505 - recall: 0.7903 - precision: 0.7867 - F1_score: 0.7881 - 3s/epoch - 125ms/step
+Epoch 74/200
+epoch ends.
+20/20 - 2s - loss: 0.0034 - iou_binarized: 0.7461 - iou: 0.6518 - recall: 0.7911 - precision: 0.7876 - F1_score: 0.7891 - 2s/epoch - 125ms/step
+Epoch 75/200
+epoch ends.
+20/20 - 3s - loss: 0.0034 - iou_binarized: 0.7471 - iou: 0.6530 - recall: 0.7920 - precision: 0.7885 - F1_score: 0.7899 - 3s/epoch - 126ms/step
+Epoch 76/200
+epoch ends.
+20/20 - 3s - loss: 0.0034 - iou_binarized: 0.7478 - iou: 0.6542 - recall: 0.7928 - precision: 0.7894 - F1_score: 0.7908 - 3s/epoch - 126ms/step
+Epoch 77/200
+epoch ends.
+20/20 - 3s - loss: 0.0033 - iou_binarized: 0.7486 - iou: 0.6554 - recall: 0.7937 - precision: 0.7903 - F1_score: 0.7917 - 3s/epoch - 125ms/step
+Epoch 78/200
+epoch ends.
+20/20 - 3s - loss: 0.0033 - iou_binarized: 0.7493 - iou: 0.6565 - recall: 0.7945 - precision: 0.7912 - F1_score: 0.7925 - 3s/epoch - 125ms/step
+Epoch 79/200
+epoch ends.
+20/20 - 3s - loss: 0.0033 - iou_binarized: 0.7501 - iou: 0.6577 - recall: 0.7953 - precision: 0.7921 - F1_score: 0.7934 - 3s/epoch - 125ms/step
+Epoch 80/200
+epoch ends.
+20/20 - 3s - loss: 0.0033 - iou_binarized: 0.7508 - iou: 0.6588 - recall: 0.7961 - precision: 0.7929 - F1_score: 0.7942 - 3s/epoch - 136ms/step
+Epoch 81/200
+epoch ends.
+20/20 - 3s - loss: 0.0033 - iou_binarized: 0.7514 - iou: 0.6599 - recall: 0.7968 - precision: 0.7938 - F1_score: 0.7950 - 3s/epoch - 125ms/step
+Epoch 82/200
+epoch ends.
+20/20 - 2s - loss: 0.0033 - iou_binarized: 0.7521 - iou: 0.6610 - recall: 0.7976 - precision: 0.7946 - F1_score: 0.7958 - 2s/epoch - 125ms/step
+Epoch 83/200
+epoch ends.
+20/20 - 3s - loss: 0.0033 - iou_binarized: 0.7529 - iou: 0.6621 - recall: 0.7983 - precision: 0.7954 - F1_score: 0.7966 - 3s/epoch - 126ms/step
+Epoch 84/200
+epoch ends.
+20/20 - 2s - loss: 0.0032 - iou_binarized: 0.7536 - iou: 0.6631 - recall: 0.7991 - precision: 0.7962 - F1_score: 0.7973 - 2s/epoch - 125ms/step
+Epoch 85/200
+epoch ends.
+20/20 - 3s - loss: 0.0032 - iou_binarized: 0.7543 - iou: 0.6642 - recall: 0.7998 - precision: 0.7970 - F1_score: 0.7981 - 3s/epoch - 126ms/step
+Epoch 86/200
+epoch ends.
+20/20 - 3s - loss: 0.0032 - iou_binarized: 0.7551 - iou: 0.6652 - recall: 0.8005 - precision: 0.7978 - F1_score: 0.7988 - 3s/epoch - 125ms/step
+Epoch 87/200
+epoch ends.
+20/20 - 2s - loss: 0.0032 - iou_binarized: 0.7558 - iou: 0.6663 - recall: 0.8012 - precision: 0.7985 - F1_score: 0.7996 - 2s/epoch - 124ms/step
+Epoch 88/200
+epoch ends.
+20/20 - 6s - loss: 0.0032 - iou_binarized: 0.7565 - iou: 0.6673 - recall: 0.8019 - precision: 0.7993 - F1_score: 0.8003 - 6s/epoch - 288ms/step
+Epoch 89/200
+epoch ends.
+20/20 - 3s - loss: 0.0032 - iou_binarized: 0.7571 - iou: 0.6683 - recall: 0.8026 - precision: 0.8000 - F1_score: 0.8010 - 3s/epoch - 140ms/step
+Epoch 90/200
+epoch ends.
+20/20 - 3s - loss: 0.0032 - iou_binarized: 0.7579 - iou: 0.6693 - recall: 0.8033 - precision: 0.8008 - F1_score: 0.8017 - 3s/epoch - 127ms/step
+Epoch 91/200
+epoch ends.
+20/20 - 3s - loss: 0.0032 - iou_binarized: 0.7586 - iou: 0.6702 - recall: 0.8040 - precision: 0.8015 - F1_score: 0.8024 - 3s/epoch - 126ms/step
+Epoch 92/200
+epoch ends.
+20/20 - 3s - loss: 0.0032 - iou_binarized: 0.7591 - iou: 0.6712 - recall: 0.8046 - precision: 0.8022 - F1_score: 0.8031 - 3s/epoch - 126ms/step
+Epoch 93/200
+epoch ends.
+20/20 - 2s - loss: 0.0031 - iou_binarized: 0.7598 - iou: 0.6721 - recall: 0.8053 - precision: 0.8029 - F1_score: 0.8038 - 2s/epoch - 124ms/step
+Epoch 94/200
+epoch ends.
+20/20 - 3s - loss: 0.0031 - iou_binarized: 0.7603 - iou: 0.6731 - recall: 0.8060 - precision: 0.8036 - F1_score: 0.8045 - 3s/epoch - 125ms/step
+Epoch 95/200
+epoch ends.
+20/20 - 2s - loss: 0.0031 - iou_binarized: 0.7610 - iou: 0.6740 - recall: 0.8066 - precision: 0.8043 - F1_score: 0.8051 - 2s/epoch - 124ms/step
+Epoch 96/200
+epoch ends.
+20/20 - 2s - loss: 0.0031 - iou_binarized: 0.7617 - iou: 0.6749 - recall: 0.8072 - precision: 0.8050 - F1_score: 0.8058 - 2s/epoch - 125ms/step
+Epoch 97/200
+epoch ends.
+20/20 - 3s - loss: 0.0031 - iou_binarized: 0.7623 - iou: 0.6758 - recall: 0.8079 - precision: 0.8056 - F1_score: 0.8064 - 3s/epoch - 125ms/step
+Epoch 98/200
+epoch ends.
+20/20 - 3s - loss: 0.0031 - iou_binarized: 0.7629 - iou: 0.6767 - recall: 0.8085 - precision: 0.8063 - F1_score: 0.8071 - 3s/epoch - 125ms/step
+Epoch 99/200
+epoch ends.
+20/20 - 2s - loss: 0.0031 - iou_binarized: 0.7635 - iou: 0.6776 - recall: 0.8091 - precision: 0.8069 - F1_score: 0.8077 - 2s/epoch - 125ms/step
+Epoch 100/200
+epoch ends.
+20/20 - 3s - loss: 0.0031 - iou_binarized: 0.7641 - iou: 0.6785 - recall: 0.8097 - precision: 0.8076 - F1_score: 0.8083 - 3s/epoch - 126ms/step
+Epoch 101/200
+epoch ends.
+20/20 - 2s - loss: 0.0031 - iou_binarized: 0.7648 - iou: 0.6794 - recall: 0.8103 - precision: 0.8082 - F1_score: 0.8089 - 2s/epoch - 124ms/step
+Epoch 102/200
+epoch ends.
+20/20 - 2s - loss: 0.0030 - iou_binarized: 0.7654 - iou: 0.6802 - recall: 0.8109 - precision: 0.8088 - F1_score: 0.8096 - 2s/epoch - 125ms/step
+Epoch 103/200
+epoch ends.
+20/20 - 3s - loss: 0.0030 - iou_binarized: 0.7660 - iou: 0.6811 - recall: 0.8115 - precision: 0.8095 - F1_score: 0.8102 - 3s/epoch - 126ms/step
+Epoch 104/200
+epoch ends.
+20/20 - 2s - loss: 0.0030 - iou_binarized: 0.7664 - iou: 0.6819 - recall: 0.8121 - precision: 0.8101 - F1_score: 0.8108 - 2s/epoch - 125ms/step
+Epoch 105/200
+epoch ends.
+20/20 - 3s - loss: 0.0030 - iou_binarized: 0.7671 - iou: 0.6828 - recall: 0.8126 - precision: 0.8107 - F1_score: 0.8113 - 3s/epoch - 125ms/step
+Epoch 106/200
+epoch ends.
+20/20 - 2s - loss: 0.0030 - iou_binarized: 0.7676 - iou: 0.6836 - recall: 0.8132 - precision: 0.8113 - F1_score: 0.8119 - 2s/epoch - 125ms/step
+Epoch 107/200
+epoch ends.
+20/20 - 2s - loss: 0.0030 - iou_binarized: 0.7682 - iou: 0.6844 - recall: 0.8137 - precision: 0.8119 - F1_score: 0.8125 - 2s/epoch - 125ms/step
+Epoch 108/200
+epoch ends.
+20/20 - 2s - loss: 0.0030 - iou_binarized: 0.7687 - iou: 0.6852 - recall: 0.8143 - precision: 0.8125 - F1_score: 0.8131 - 2s/epoch - 124ms/step
+Epoch 109/200
+epoch ends.
+20/20 - 3s - loss: 0.0030 - iou_binarized: 0.7691 - iou: 0.6860 - recall: 0.8148 - precision: 0.8130 - F1_score: 0.8136 - 3s/epoch - 125ms/step
+Epoch 110/200
+epoch ends.
+20/20 - 2s - loss: 0.0030 - iou_binarized: 0.7696 - iou: 0.6868 - recall: 0.8154 - precision: 0.8136 - F1_score: 0.8142 - 2s/epoch - 125ms/step
+Epoch 111/200
+epoch ends.
+20/20 - 6s - loss: 0.0030 - iou_binarized: 0.7702 - iou: 0.6876 - recall: 0.8159 - precision: 0.8142 - F1_score: 0.8147 - 6s/epoch - 288ms/step
+Epoch 112/200
+epoch ends.
+20/20 - 3s - loss: 0.0030 - iou_binarized: 0.7707 - iou: 0.6884 - recall: 0.8164 - precision: 0.8147 - F1_score: 0.8153 - 3s/epoch - 131ms/step
+Epoch 113/200
+epoch ends.
+20/20 - 3s - loss: 0.0029 - iou_binarized: 0.7712 - iou: 0.6891 - recall: 0.8170 - precision: 0.8153 - F1_score: 0.8158 - 3s/epoch - 126ms/step
+Epoch 114/200
+epoch ends.
+20/20 - 2s - loss: 0.0029 - iou_binarized: 0.7718 - iou: 0.6899 - recall: 0.8175 - precision: 0.8159 - F1_score: 0.8163 - 2s/epoch - 124ms/step
+Epoch 115/200
+epoch ends.
+20/20 - 3s - loss: 0.0029 - iou_binarized: 0.7723 - iou: 0.6906 - recall: 0.8180 - precision: 0.8164 - F1_score: 0.8169 - 3s/epoch - 125ms/step
+Epoch 116/200
+epoch ends.
+20/20 - 2s - loss: 0.0029 - iou_binarized: 0.7729 - iou: 0.6914 - recall: 0.8185 - precision: 0.8169 - F1_score: 0.8174 - 2s/epoch - 125ms/step
+Epoch 117/200
+epoch ends.
+20/20 - 2s - loss: 0.0029 - iou_binarized: 0.7734 - iou: 0.6921 - recall: 0.8190 - precision: 0.8175 - F1_score: 0.8179 - 2s/epoch - 125ms/step
+Epoch 118/200
+epoch ends.
+20/20 - 2s - loss: 0.0029 - iou_binarized: 0.7740 - iou: 0.6929 - recall: 0.8195 - precision: 0.8180 - F1_score: 0.8184 - 2s/epoch - 125ms/step
+Epoch 119/200
+epoch ends.
+20/20 - 3s - loss: 0.0029 - iou_binarized: 0.7745 - iou: 0.6936 - recall: 0.8200 - precision: 0.8185 - F1_score: 0.8189 - 3s/epoch - 125ms/step
+Epoch 120/200
+epoch ends.
+20/20 - 2s - loss: 0.0029 - iou_binarized: 0.7750 - iou: 0.6943 - recall: 0.8205 - precision: 0.8190 - F1_score: 0.8194 - 2s/epoch - 124ms/step
+Epoch 121/200
+epoch ends.
+20/20 - 3s - loss: 0.0029 - iou_binarized: 0.7756 - iou: 0.6950 - recall: 0.8209 - precision: 0.8196 - F1_score: 0.8199 - 3s/epoch - 125ms/step
+Epoch 122/200
+epoch ends.
+20/20 - 3s - loss: 0.0029 - iou_binarized: 0.7759 - iou: 0.6957 - recall: 0.8214 - precision: 0.8201 - F1_score: 0.8204 - 3s/epoch - 125ms/step
+Epoch 123/200
+epoch ends.
+20/20 - 3s - loss: 0.0029 - iou_binarized: 0.7766 - iou: 0.6964 - recall: 0.8219 - precision: 0.8206 - F1_score: 0.8209 - 3s/epoch - 125ms/step
+Epoch 124/200
+epoch ends.
+20/20 - 3s - loss: 0.0029 - iou_binarized: 0.7770 - iou: 0.6971 - recall: 0.8224 - precision: 0.8211 - F1_score: 0.8214 - 3s/epoch - 125ms/step
+Epoch 125/200
+epoch ends.
+20/20 - 3s - loss: 0.0028 - iou_binarized: 0.7774 - iou: 0.6978 - recall: 0.8228 - precision: 0.8216 - F1_score: 0.8219 - 3s/epoch - 126ms/step
+Epoch 126/200
+epoch ends.
+20/20 - 3s - loss: 0.0028 - iou_binarized: 0.7777 - iou: 0.6985 - recall: 0.8233 - precision: 0.8221 - F1_score: 0.8223 - 3s/epoch - 125ms/step
+Epoch 127/200
+epoch ends.
+20/20 - 2s - loss: 0.0028 - iou_binarized: 0.7782 - iou: 0.6992 - recall: 0.8237 - precision: 0.8226 - F1_score: 0.8228 - 2s/epoch - 125ms/step
+Epoch 128/200
+epoch ends.
+20/20 - 3s - loss: 0.0028 - iou_binarized: 0.7786 - iou: 0.6999 - recall: 0.8242 - precision: 0.8230 - F1_score: 0.8233 - 3s/epoch - 125ms/step
+Epoch 129/200
+epoch ends.
+20/20 - 2s - loss: 0.0028 - iou_binarized: 0.7792 - iou: 0.7006 - recall: 0.8247 - precision: 0.8235 - F1_score: 0.8238 - 2s/epoch - 125ms/step
+Epoch 130/200
+epoch ends.
+20/20 - 3s - loss: 0.0028 - iou_binarized: 0.7797 - iou: 0.7012 - recall: 0.8251 - precision: 0.8240 - F1_score: 0.8242 - 3s/epoch - 125ms/step
+Epoch 131/200
+epoch ends.
+20/20 - 2s - loss: 0.0028 - iou_binarized: 0.7801 - iou: 0.7019 - recall: 0.8256 - precision: 0.8245 - F1_score: 0.8247 - 2s/epoch - 125ms/step
+Epoch 132/200
+epoch ends.
+20/20 - 2s - loss: 0.0028 - iou_binarized: 0.7807 - iou: 0.7026 - recall: 0.8260 - precision: 0.8250 - F1_score: 0.8251 - 2s/epoch - 125ms/step
+Epoch 133/200
+epoch ends.
+20/20 - 2s - loss: 0.0028 - iou_binarized: 0.7811 - iou: 0.7032 - recall: 0.8264 - precision: 0.8254 - F1_score: 0.8256 - 2s/epoch - 125ms/step
+Epoch 134/200
+epoch ends.
+20/20 - 5s - loss: 0.0028 - iou_binarized: 0.7815 - iou: 0.7039 - recall: 0.8269 - precision: 0.8259 - F1_score: 0.8261 - 5s/epoch - 244ms/step
+Epoch 135/200
+epoch ends.
+20/20 - 3s - loss: 0.0028 - iou_binarized: 0.7820 - iou: 0.7045 - recall: 0.8273 - precision: 0.8264 - F1_score: 0.8265 - 3s/epoch - 130ms/step
+Epoch 136/200
+epoch ends.
+20/20 - 3s - loss: 0.0028 - iou_binarized: 0.7825 - iou: 0.7052 - recall: 0.8278 - precision: 0.8268 - F1_score: 0.8270 - 3s/epoch - 127ms/step
+Epoch 137/200
+epoch ends.
+20/20 - 2s - loss: 0.0028 - iou_binarized: 0.7831 - iou: 0.7058 - recall: 0.8282 - precision: 0.8273 - F1_score: 0.8274 - 2s/epoch - 125ms/step
+Epoch 138/200
+epoch ends.
+20/20 - 2s - loss: 0.0027 - iou_binarized: 0.7836 - iou: 0.7065 - recall: 0.8286 - precision: 0.8277 - F1_score: 0.8278 - 2s/epoch - 125ms/step
+Epoch 139/200
+epoch ends.
+20/20 - 2s - loss: 0.0027 - iou_binarized: 0.7840 - iou: 0.7071 - recall: 0.8290 - precision: 0.8282 - F1_score: 0.8283 - 2s/epoch - 125ms/step
+Epoch 140/200
+epoch ends.
+20/20 - 3s - loss: 0.0027 - iou_binarized: 0.7844 - iou: 0.7078 - recall: 0.8295 - precision: 0.8286 - F1_score: 0.8287 - 3s/epoch - 125ms/step
+Epoch 141/200
+epoch ends.
+20/20 - 2s - loss: 0.0027 - iou_binarized: 0.7849 - iou: 0.7084 - recall: 0.8299 - precision: 0.8290 - F1_score: 0.8292 - 2s/epoch - 124ms/step
+Epoch 142/200
+epoch ends.
+20/20 - 2s - loss: 0.0027 - iou_binarized: 0.7853 - iou: 0.7090 - recall: 0.8303 - precision: 0.8295 - F1_score: 0.8296 - 2s/epoch - 125ms/step
+Epoch 143/200
+epoch ends.
+20/20 - 2s - loss: 0.0027 - iou_binarized: 0.7857 - iou: 0.7097 - recall: 0.8307 - precision: 0.8299 - F1_score: 0.8300 - 2s/epoch - 125ms/step
+Epoch 144/200
+epoch ends.
+20/20 - 2s - loss: 0.0027 - iou_binarized: 0.7860 - iou: 0.7103 - recall: 0.8312 - precision: 0.8304 - F1_score: 0.8304 - 2s/epoch - 124ms/step
+Epoch 145/200
+epoch ends.
+20/20 - 2s - loss: 0.0027 - iou_binarized: 0.7865 - iou: 0.7109 - recall: 0.8316 - precision: 0.8308 - F1_score: 0.8309 - 2s/epoch - 125ms/step
+Epoch 146/200
+epoch ends.
+20/20 - 3s - loss: 0.0027 - iou_binarized: 0.7870 - iou: 0.7115 - recall: 0.8320 - precision: 0.8312 - F1_score: 0.8313 - 3s/epoch - 125ms/step
+Epoch 147/200
+epoch ends.
+20/20 - 2s - loss: 0.0027 - iou_binarized: 0.7874 - iou: 0.7121 - recall: 0.8324 - precision: 0.8316 - F1_score: 0.8317 - 2s/epoch - 125ms/step
+Epoch 148/200
+epoch ends.
+20/20 - 2s - loss: 0.0027 - iou_binarized: 0.7879 - iou: 0.7127 - recall: 0.8328 - precision: 0.8320 - F1_score: 0.8321 - 2s/epoch - 125ms/step
+Epoch 149/200
+epoch ends.
+20/20 - 3s - loss: 0.0027 - iou_binarized: 0.7884 - iou: 0.7133 - recall: 0.8332 - precision: 0.8325 - F1_score: 0.8325 - 3s/epoch - 125ms/step
+Epoch 150/200
+epoch ends.
+20/20 - 2s - loss: 0.0027 - iou_binarized: 0.7888 - iou: 0.7139 - recall: 0.8336 - precision: 0.8329 - F1_score: 0.8329 - 2s/epoch - 124ms/step
+Epoch 151/200
+epoch ends.
+20/20 - 3s - loss: 0.0027 - iou_binarized: 0.7892 - iou: 0.7145 - recall: 0.8340 - precision: 0.8333 - F1_score: 0.8333 - 3s/epoch - 125ms/step
+Epoch 152/200
+epoch ends.
+20/20 - 2s - loss: 0.0027 - iou_binarized: 0.7896 - iou: 0.7151 - recall: 0.8344 - precision: 0.8337 - F1_score: 0.8337 - 2s/epoch - 125ms/step
+Epoch 153/200
+epoch ends.
+20/20 - 3s - loss: 0.0026 - iou_binarized: 0.7900 - iou: 0.7157 - recall: 0.8348 - precision: 0.8341 - F1_score: 0.8341 - 3s/epoch - 126ms/step
+Epoch 154/200
+epoch ends.
+20/20 - 2s - loss: 0.0026 - iou_binarized: 0.7904 - iou: 0.7163 - recall: 0.8351 - precision: 0.8345 - F1_score: 0.8345 - 2s/epoch - 125ms/step
+Epoch 155/200
+epoch ends.
+20/20 - 3s - loss: 0.0026 - iou_binarized: 0.7907 - iou: 0.7168 - recall: 0.8355 - precision: 0.8349 - F1_score: 0.8349 - 3s/epoch - 126ms/step
+Epoch 156/200
+epoch ends.
+20/20 - 2s - loss: 0.0026 - iou_binarized: 0.7911 - iou: 0.7174 - recall: 0.8359 - precision: 0.8353 - F1_score: 0.8353 - 2s/epoch - 125ms/step
+Epoch 157/200
+epoch ends.
+20/20 - 5s - loss: 0.0026 - iou_binarized: 0.7915 - iou: 0.7180 - recall: 0.8363 - precision: 0.8357 - F1_score: 0.8357 - 5s/epoch - 244ms/step
+Epoch 158/200
+epoch ends.
+20/20 - 3s - loss: 0.0026 - iou_binarized: 0.7919 - iou: 0.7186 - recall: 0.8367 - precision: 0.8360 - F1_score: 0.8361 - 3s/epoch - 130ms/step
+Epoch 159/200
+epoch ends.
+20/20 - 3s - loss: 0.0026 - iou_binarized: 0.7922 - iou: 0.7191 - recall: 0.8370 - precision: 0.8364 - F1_score: 0.8364 - 3s/epoch - 127ms/step
+Epoch 160/200
+epoch ends.
+20/20 - 3s - loss: 0.0026 - iou_binarized: 0.7927 - iou: 0.7197 - recall: 0.8374 - precision: 0.8368 - F1_score: 0.8368 - 3s/epoch - 128ms/step
+Epoch 161/200
+epoch ends.
+20/20 - 3s - loss: 0.0026 - iou_binarized: 0.7932 - iou: 0.7202 - recall: 0.8378 - precision: 0.8372 - F1_score: 0.8372 - 3s/epoch - 126ms/step
+Epoch 162/200
+epoch ends.
+20/20 - 3s - loss: 0.0026 - iou_binarized: 0.7934 - iou: 0.7208 - recall: 0.8381 - precision: 0.8376 - F1_score: 0.8376 - 3s/epoch - 125ms/step
+Epoch 163/200
+epoch ends.
+20/20 - 2s - loss: 0.0026 - iou_binarized: 0.7939 - iou: 0.7213 - recall: 0.8385 - precision: 0.8379 - F1_score: 0.8379 - 2s/epoch - 125ms/step
+Epoch 164/200
+epoch ends.
+20/20 - 2s - loss: 0.0026 - iou_binarized: 0.7945 - iou: 0.7219 - recall: 0.8389 - precision: 0.8383 - F1_score: 0.8383 - 2s/epoch - 124ms/step
+Epoch 165/200
+epoch ends.
+20/20 - 3s - loss: 0.0026 - iou_binarized: 0.7949 - iou: 0.7224 - recall: 0.8392 - precision: 0.8387 - F1_score: 0.8387 - 3s/epoch - 125ms/step
+Epoch 166/200
+epoch ends.
+20/20 - 3s - loss: 0.0026 - iou_binarized: 0.7952 - iou: 0.7230 - recall: 0.8396 - precision: 0.8390 - F1_score: 0.8390 - 3s/epoch - 125ms/step
+Epoch 167/200
+epoch ends.
+20/20 - 2s - loss: 0.0026 - iou_binarized: 0.7956 - iou: 0.7235 - recall: 0.8399 - precision: 0.8394 - F1_score: 0.8394 - 2s/epoch - 125ms/step
+Epoch 168/200
+epoch ends.
+20/20 - 3s - loss: 0.0026 - iou_binarized: 0.7959 - iou: 0.7239 - recall: 0.8403 - precision: 0.8397 - F1_score: 0.8397 - 3s/epoch - 125ms/step
+Epoch 169/200
+epoch ends.
+20/20 - 3s - loss: 0.0025 - iou_binarized: 0.7963 - iou: 0.7245 - recall: 0.8407 - precision: 0.8400 - F1_score: 0.8401 - 3s/epoch - 126ms/step
+Epoch 170/200
+epoch ends.
+20/20 - 3s - loss: 0.0025 - iou_binarized: 0.7968 - iou: 0.7251 - recall: 0.8410 - precision: 0.8405 - F1_score: 0.8405 - 3s/epoch - 125ms/step
+Epoch 171/200
+epoch ends.
+20/20 - 3s - loss: 0.0025 - iou_binarized: 0.7970 - iou: 0.7255 - recall: 0.8410 - precision: 0.8410 - F1_score: 0.8408 - 3s/epoch - 125ms/step
+Epoch 172/200
+epoch ends.
+20/20 - 3s - loss: 0.0026 - iou_binarized: 0.7962 - iou: 0.7247 - recall: 0.8407 - precision: 0.8405 - F1_score: 0.8402 - 3s/epoch - 126ms/step
+Epoch 173/200
+epoch ends.
+20/20 - 2s - loss: 0.0026 - iou_binarized: 0.7954 - iou: 0.7229 - recall: 0.8406 - precision: 0.8382 - F1_score: 0.8390 - 2s/epoch - 125ms/step
+Epoch 174/200
+epoch ends.
+20/20 - 2s - loss: 0.0026 - iou_binarized: 0.7926 - iou: 0.7219 - recall: 0.8400 - precision: 0.8379 - F1_score: 0.8384 - 2s/epoch - 125ms/step
+Epoch 175/200
+epoch ends.
+20/20 - 2s - loss: 0.0028 - iou_binarized: 0.7807 - iou: 0.7119 - recall: 0.8309 - precision: 0.8343 - F1_score: 0.8315 - 2s/epoch - 125ms/step
+Epoch 176/200
+epoch ends.
+20/20 - 2s - loss: 0.0035 - iou_binarized: 0.7434 - iou: 0.6683 - recall: 0.8101 - precision: 0.7979 - F1_score: 0.8005 - 2s/epoch - 125ms/step
+Epoch 177/200
+epoch ends.
+20/20 - 3s - loss: 0.0030 - iou_binarized: 0.7696 - iou: 0.6863 - recall: 0.8157 - precision: 0.8150 - F1_score: 0.8138 - 3s/epoch - 126ms/step
+Epoch 178/200
+epoch ends.
+20/20 - 3s - loss: 0.0028 - iou_binarized: 0.7831 - iou: 0.7035 - recall: 0.8256 - precision: 0.8279 - F1_score: 0.8258 - 3s/epoch - 125ms/step
+Epoch 179/200
+epoch ends.
+20/20 - 6s - loss: 0.0026 - iou_binarized: 0.7910 - iou: 0.7130 - recall: 0.8323 - precision: 0.8330 - F1_score: 0.8322 - 6s/epoch - 296ms/step
+Epoch 180/200
+epoch ends.
+20/20 - 3s - loss: 0.0026 - iou_binarized: 0.7950 - iou: 0.7195 - recall: 0.8359 - precision: 0.8382 - F1_score: 0.8367 - 3s/epoch - 138ms/step
+Epoch 181/200
+epoch ends.
+20/20 - 3s - loss: 0.0025 - iou_binarized: 0.7981 - iou: 0.7230 - recall: 0.8395 - precision: 0.8391 - F1_score: 0.8391 - 3s/epoch - 128ms/step
+Epoch 182/200
+epoch ends.
+20/20 - 3s - loss: 0.0025 - iou_binarized: 0.7987 - iou: 0.7253 - recall: 0.8409 - precision: 0.8408 - F1_score: 0.8406 - 3s/epoch - 126ms/step
+Epoch 183/200
+epoch ends.
+20/20 - 3s - loss: 0.0025 - iou_binarized: 0.7991 - iou: 0.7266 - recall: 0.8418 - precision: 0.8417 - F1_score: 0.8415 - 3s/epoch - 125ms/step
+Epoch 184/200
+epoch ends.
+20/20 - 3s - loss: 0.0025 - iou_binarized: 0.7999 - iou: 0.7279 - recall: 0.8429 - precision: 0.8422 - F1_score: 0.8423 - 3s/epoch - 126ms/step
+Epoch 185/200
+epoch ends.
+20/20 - 2s - loss: 0.0025 - iou_binarized: 0.8006 - iou: 0.7289 - recall: 0.8436 - precision: 0.8428 - F1_score: 0.8430 - 2s/epoch - 124ms/step
+Epoch 186/200
+epoch ends.
+20/20 - 3s - loss: 0.0025 - iou_binarized: 0.8010 - iou: 0.7296 - recall: 0.8441 - precision: 0.8434 - F1_score: 0.8435 - 3s/epoch - 125ms/step
+Epoch 187/200
+epoch ends.
+20/20 - 3s - loss: 0.0025 - iou_binarized: 0.8012 - iou: 0.7302 - recall: 0.8445 - precision: 0.8438 - F1_score: 0.8439 - 3s/epoch - 125ms/step
+Epoch 188/200
+epoch ends.
+20/20 - 3s - loss: 0.0025 - iou_binarized: 0.8016 - iou: 0.7308 - recall: 0.8449 - precision: 0.8442 - F1_score: 0.8443 - 3s/epoch - 127ms/step
+Epoch 189/200
+epoch ends.
+20/20 - 2s - loss: 0.0025 - iou_binarized: 0.8020 - iou: 0.7315 - recall: 0.8453 - precision: 0.8446 - F1_score: 0.8447 - 2s/epoch - 121ms/step
+Epoch 190/200
+epoch ends.
+20/20 - 2s - loss: 0.0025 - iou_binarized: 0.8023 - iou: 0.7320 - recall: 0.8457 - precision: 0.8449 - F1_score: 0.8451 - 2s/epoch - 121ms/step
+Epoch 191/200
+epoch ends.
+20/20 - 2s - loss: 0.0025 - iou_binarized: 0.8026 - iou: 0.7325 - recall: 0.8460 - precision: 0.8453 - F1_score: 0.8455 - 2s/epoch - 125ms/step
+Epoch 192/200
+epoch ends.
+20/20 - 2s - loss: 0.0024 - iou_binarized: 0.8030 - iou: 0.7330 - recall: 0.8464 - precision: 0.8456 - F1_score: 0.8458 - 2s/epoch - 120ms/step
+Epoch 193/200
+epoch ends.
+20/20 - 2s - loss: 0.0024 - iou_binarized: 0.8033 - iou: 0.7335 - recall: 0.8466 - precision: 0.8459 - F1_score: 0.8461 - 2s/epoch - 122ms/step
+Epoch 194/200
+epoch ends.
+20/20 - 2s - loss: 0.0024 - iou_binarized: 0.8036 - iou: 0.7339 - recall: 0.8469 - precision: 0.8462 - F1_score: 0.8464 - 2s/epoch - 122ms/step
+Epoch 195/200
+epoch ends.
+20/20 - 3s - loss: 0.0024 - iou_binarized: 0.8038 - iou: 0.7344 - recall: 0.8472 - precision: 0.8466 - F1_score: 0.8467 - 3s/epoch - 125ms/step
+Epoch 196/200
+epoch ends.
+20/20 - 3s - loss: 0.0024 - iou_binarized: 0.8044 - iou: 0.7349 - recall: 0.8476 - precision: 0.8469 - F1_score: 0.8470 - 3s/epoch - 126ms/step
+Epoch 197/200
+epoch ends.
+20/20 - 3s - loss: 0.0024 - iou_binarized: 0.8049 - iou: 0.7354 - recall: 0.8479 - precision: 0.8472 - F1_score: 0.8474 - 3s/epoch - 126ms/step
+Epoch 198/200
+epoch ends.
+20/20 - 2s - loss: 0.0024 - iou_binarized: 0.8053 - iou: 0.7359 - recall: 0.8482 - precision: 0.8476 - F1_score: 0.8477 - 2s/epoch - 124ms/step
+Epoch 199/200
+epoch ends.
+20/20 - 3s - loss: 0.0024 - iou_binarized: 0.8055 - iou: 0.7364 - recall: 0.8485 - precision: 0.8479 - F1_score: 0.8480 - 3s/epoch - 126ms/step
+Epoch 200/200
+epoch ends.
+20/20 - 2s - loss: 0.0024 - iou_binarized: 0.8059 - iou: 0.7369 - recall: 0.8488 - precision: 0.8482 - F1_score: 0.8483 - 2s/epoch - 125ms/step
