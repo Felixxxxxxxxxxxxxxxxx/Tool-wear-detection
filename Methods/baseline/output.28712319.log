@@ -1,0 +1,828 @@
+/home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Turning/Train_aug/images/
+Begin to read images from /home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Turning/Train_aug/images/
+  0%|          | 0/200 [00:00<?, ?it/s]  0%|          | 1/200 [00:00<00:27,  7.35it/s]  2%|▎         | 5/200 [00:00<00:10, 17.94it/s]  4%|▍         | 8/200 [00:00<00:09, 20.73it/s]  6%|▌         | 12/200 [00:00<00:09, 20.86it/s]  8%|▊         | 15/200 [00:00<00:08, 22.82it/s]  9%|▉         | 18/200 [00:00<00:07, 22.88it/s] 10%|█         | 21/200 [00:01<00:08, 20.34it/s] 12%|█▏        | 24/200 [00:01<00:08, 21.57it/s] 14%|█▎        | 27/200 [00:01<00:08, 20.19it/s] 15%|█▌        | 30/200 [00:01<00:08, 20.06it/s] 16%|█▋        | 33/200 [00:01<00:08, 19.59it/s] 18%|█▊        | 36/200 [00:01<00:07, 20.97it/s] 20%|██        | 40/200 [00:01<00:06, 24.57it/s] 22%|██▏       | 43/200 [00:01<00:06, 25.38it/s] 23%|██▎       | 46/200 [00:02<00:05, 25.72it/s] 24%|██▍       | 49/200 [00:02<00:05, 26.01it/s] 26%|██▋       | 53/200 [00:02<00:05, 28.25it/s] 29%|██▉       | 58/200 [00:02<00:04, 30.24it/s] 31%|███       | 62/200 [00:02<00:04, 28.19it/s] 32%|███▎      | 65/200 [00:02<00:04, 27.63it/s] 34%|███▍      | 68/200 [00:02<00:04, 27.78it/s] 36%|███▌      | 71/200 [00:02<00:04, 26.89it/s] 37%|███▋      | 74/200 [00:03<00:04, 27.44it/s] 38%|███▊      | 77/200 [00:03<00:04, 27.25it/s] 40%|████      | 80/200 [00:03<00:04, 25.89it/s] 42%|████▏     | 83/200 [00:03<00:04, 24.84it/s] 44%|████▎     | 87/200 [00:03<00:04, 27.27it/s] 45%|████▌     | 90/200 [00:03<00:04, 26.86it/s] 46%|████▋     | 93/200 [00:03<00:04, 26.74it/s] 48%|████▊     | 97/200 [00:03<00:03, 28.10it/s] 50%|█████     | 100/200 [00:04<00:03, 28.33it/s] 52%|█████▏    | 103/200 [00:04<00:03, 27.59it/s] 53%|█████▎    | 106/200 [00:04<00:04, 22.63it/s] 55%|█████▍    | 109/200 [00:04<00:03, 23.51it/s] 56%|█████▌    | 112/200 [00:04<00:04, 21.45it/s] 58%|█████▊    | 116/200 [00:04<00:03, 22.88it/s] 60%|█████▉    | 119/200 [00:04<00:03, 24.17it/s] 61%|██████    | 122/200 [00:05<00:03, 24.26it/s] 63%|██████▎   | 126/200 [00:05<00:02, 27.16it/s] 64%|██████▍   | 129/200 [00:05<00:02, 27.43it/s] 66%|██████▌   | 132/200 [00:05<00:02, 22.97it/s] 68%|██████▊   | 135/200 [00:05<00:02, 23.32it/s] 69%|██████▉   | 138/200 [00:05<00:02, 22.68it/s] 70%|███████   | 141/200 [00:05<00:02, 20.50it/s] 72%|███████▏  | 144/200 [00:06<00:02, 19.19it/s] 74%|███████▎  | 147/200 [00:06<00:02, 21.14it/s] 75%|███████▌  | 150/200 [00:06<00:02, 21.24it/s] 76%|███████▋  | 153/200 [00:06<00:02, 21.70it/s] 78%|███████▊  | 156/200 [00:06<00:02, 18.17it/s] 79%|███████▉  | 158/200 [00:06<00:02, 18.14it/s] 81%|████████  | 162/200 [00:06<00:01, 22.63it/s] 82%|████████▎ | 165/200 [00:06<00:01, 23.82it/s] 84%|████████▍ | 168/200 [00:07<00:01, 24.00it/s] 86%|████████▌ | 172/200 [00:07<00:01, 26.19it/s] 88%|████████▊ | 175/200 [00:07<00:01, 23.14it/s] 89%|████████▉ | 178/200 [00:07<00:01, 20.14it/s] 91%|█████████ | 182/200 [00:07<00:00, 24.00it/s] 92%|█████████▎| 185/200 [00:07<00:00, 23.39it/s] 94%|█████████▍| 188/200 [00:07<00:00, 24.65it/s] 96%|█████████▌| 191/200 [00:08<00:00, 20.15it/s] 97%|█████████▋| 194/200 [00:08<00:00, 20.50it/s] 98%|█████████▊| 197/200 [00:08<00:00, 21.58it/s]100%|██████████| 200/200 [00:08<00:00, 23.47it/s]
+Begin to read masks from /home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Turning/Train_aug/masks/
+  0%|          | 0/200 [00:00<?, ?it/s]  4%|▍         | 8/200 [00:00<00:02, 72.03it/s]  8%|▊         | 16/200 [00:00<00:02, 65.95it/s] 12%|█▏        | 23/200 [00:00<00:03, 56.49it/s] 14%|█▍        | 29/200 [00:00<00:03, 56.86it/s] 18%|█▊        | 35/200 [00:00<00:03, 54.94it/s] 20%|██        | 41/200 [00:00<00:03, 52.48it/s] 24%|██▍       | 49/200 [00:00<00:02, 57.74it/s] 28%|██▊       | 57/200 [00:00<00:02, 61.87it/s] 32%|███▏      | 64/200 [00:01<00:02, 59.89it/s] 36%|███▌      | 71/200 [00:01<00:02, 55.99it/s] 38%|███▊      | 77/200 [00:01<00:02, 51.63it/s] 42%|████▏     | 83/200 [00:01<00:02, 53.42it/s] 44%|████▍     | 89/200 [00:01<00:02, 48.42it/s] 48%|████▊     | 96/200 [00:01<00:02, 51.86it/s] 52%|█████▏    | 104/200 [00:01<00:01, 55.79it/s] 56%|█████▌    | 111/200 [00:01<00:01, 58.87it/s] 59%|█████▉    | 118/200 [00:02<00:01, 59.35it/s] 62%|██████▎   | 125/200 [00:02<00:01, 61.85it/s] 66%|██████▋   | 133/200 [00:02<00:01, 65.99it/s] 70%|███████   | 141/200 [00:02<00:00, 65.29it/s] 74%|███████▍  | 149/200 [00:02<00:00, 66.87it/s] 78%|███████▊  | 156/200 [00:02<00:00, 64.43it/s] 82%|████████▏ | 163/200 [00:02<00:00, 65.32it/s] 86%|████████▌ | 171/200 [00:02<00:00, 66.67it/s] 90%|████████▉ | 179/200 [00:02<00:00, 66.73it/s] 93%|█████████▎| 186/200 [00:03<00:00, 66.01it/s] 96%|█████████▋| 193/200 [00:03<00:00, 61.63it/s]100%|██████████| 200/200 [00:03<00:00, 57.96it/s]100%|██████████| 200/200 [00:03<00:00, 59.43it/s]
+/home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Turning/Inference_aug/images/
+Begin to read images from /home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Turning/Inference_aug/images/
+  0%|          | 0/200 [00:00<?, ?it/s]  1%|          | 2/200 [00:00<00:10, 19.12it/s]  2%|▏         | 4/200 [00:00<00:10, 19.42it/s]  4%|▍         | 9/200 [00:00<00:06, 31.06it/s]  7%|▋         | 14/200 [00:00<00:05, 35.99it/s]  9%|▉         | 18/200 [00:00<00:06, 27.77it/s] 10%|█         | 21/200 [00:00<00:06, 27.91it/s] 12%|█▏        | 24/200 [00:00<00:06, 27.64it/s] 14%|█▍        | 28/200 [00:00<00:05, 30.68it/s] 16%|█▋        | 33/200 [00:01<00:04, 34.89it/s] 19%|█▉        | 38/200 [00:01<00:04, 38.51it/s] 21%|██        | 42/200 [00:01<00:04, 33.56it/s] 23%|██▎       | 46/200 [00:01<00:04, 34.91it/s] 25%|██▌       | 50/200 [00:01<00:04, 35.83it/s] 28%|██▊       | 55/200 [00:01<00:03, 38.71it/s] 30%|██▉       | 59/200 [00:01<00:03, 38.16it/s] 32%|███▏      | 63/200 [00:01<00:04, 30.53it/s] 34%|███▍      | 69/200 [00:02<00:04, 32.65it/s] 37%|███▋      | 74/200 [00:02<00:03, 36.43it/s] 40%|███▉      | 79/200 [00:02<00:03, 37.87it/s] 42%|████▏     | 84/200 [00:02<00:03, 38.27it/s] 44%|████▍     | 88/200 [00:02<00:02, 38.70it/s] 46%|████▌     | 92/200 [00:02<00:03, 32.77it/s] 48%|████▊     | 96/200 [00:02<00:03, 29.07it/s] 50%|█████     | 101/200 [00:03<00:03, 30.72it/s] 52%|█████▎    | 105/200 [00:03<00:03, 30.89it/s] 55%|█████▌    | 110/200 [00:03<00:02, 32.24it/s] 57%|█████▋    | 114/200 [00:03<00:02, 33.03it/s] 59%|█████▉    | 118/200 [00:03<00:02, 33.45it/s] 61%|██████    | 122/200 [00:03<00:02, 30.24it/s] 63%|██████▎   | 126/200 [00:03<00:02, 30.66it/s] 65%|██████▌   | 130/200 [00:03<00:02, 30.03it/s] 67%|██████▋   | 134/200 [00:04<00:02, 32.25it/s] 69%|██████▉   | 138/200 [00:04<00:01, 31.74it/s] 71%|███████   | 142/200 [00:04<00:01, 29.19it/s] 74%|███████▎  | 147/200 [00:04<00:01, 32.80it/s] 76%|███████▌  | 152/200 [00:04<00:01, 35.50it/s] 78%|███████▊  | 157/200 [00:04<00:01, 36.99it/s] 80%|████████  | 161/200 [00:04<00:01, 37.16it/s] 82%|████████▎ | 165/200 [00:04<00:00, 35.00it/s] 84%|████████▍ | 169/200 [00:05<00:00, 32.20it/s] 87%|████████▋ | 174/200 [00:05<00:00, 35.36it/s] 89%|████████▉ | 178/200 [00:05<00:00, 30.11it/s] 92%|█████████▏| 183/200 [00:05<00:00, 33.84it/s] 94%|█████████▍| 188/200 [00:05<00:00, 34.38it/s] 96%|█████████▌| 192/200 [00:05<00:00, 33.53it/s] 98%|█████████▊| 196/200 [00:05<00:00, 33.93it/s]100%|██████████| 200/200 [00:06<00:00, 33.67it/s]100%|██████████| 200/200 [00:06<00:00, 33.08it/s]
+Begin to read masks from /home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Turning/Inference_aug/masks/
+  0%|          | 0/200 [00:00<?, ?it/s]  2%|▎         | 5/200 [00:00<00:04, 40.82it/s]  6%|▋         | 13/200 [00:00<00:03, 61.73it/s] 10%|█         | 20/200 [00:00<00:02, 61.10it/s] 14%|█▍        | 28/200 [00:00<00:02, 67.98it/s] 18%|█▊        | 35/200 [00:00<00:02, 63.99it/s] 22%|██▏       | 44/200 [00:00<00:02, 69.58it/s] 26%|██▌       | 52/200 [00:00<00:02, 66.82it/s] 31%|███       | 62/200 [00:00<00:01, 71.80it/s] 35%|███▌      | 70/200 [00:01<00:01, 70.29it/s] 39%|███▉      | 78/200 [00:01<00:01, 69.68it/s] 42%|████▎     | 85/200 [00:01<00:01, 63.18it/s] 48%|████▊     | 95/200 [00:01<00:01, 69.60it/s] 52%|█████▏    | 103/200 [00:01<00:01, 58.53it/s] 55%|█████▌    | 110/200 [00:01<00:01, 57.54it/s] 58%|█████▊    | 117/200 [00:01<00:01, 58.48it/s] 62%|██████▏   | 124/200 [00:01<00:01, 56.33it/s] 65%|██████▌   | 130/200 [00:02<00:01, 55.80it/s] 68%|██████▊   | 137/200 [00:02<00:01, 58.42it/s] 72%|███████▎  | 145/200 [00:02<00:00, 63.56it/s] 76%|███████▌  | 152/200 [00:02<00:00, 65.20it/s] 80%|███████▉  | 159/200 [00:02<00:00, 57.26it/s] 84%|████████▍ | 169/200 [00:02<00:00, 66.53it/s] 88%|████████▊ | 176/200 [00:02<00:00, 62.85it/s] 92%|█████████▎| 185/200 [00:02<00:00, 69.57it/s] 96%|█████████▋| 193/200 [00:03<00:00, 65.61it/s]100%|██████████| 200/200 [00:03<00:00, 62.17it/s]100%|██████████| 200/200 [00:03<00:00, 63.12it/s]
+/home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Milling/Train_aug/images/
+Begin to read images from /home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Milling/Train_aug/images/
+  0%|          | 0/200 [00:00<?, ?it/s]  2%|▏         | 4/200 [00:00<00:05, 37.22it/s]  5%|▌         | 10/200 [00:00<00:04, 46.15it/s]  8%|▊         | 15/200 [00:00<00:04, 43.14it/s] 10%|█         | 21/200 [00:00<00:04, 44.26it/s] 14%|█▎        | 27/200 [00:00<00:03, 45.46it/s] 16%|█▌        | 32/200 [00:00<00:04, 39.08it/s] 18%|█▊        | 37/200 [00:00<00:04, 35.56it/s] 21%|██        | 42/200 [00:01<00:04, 36.89it/s] 23%|██▎       | 46/200 [00:01<00:04, 37.18it/s] 26%|██▌       | 52/200 [00:01<00:03, 42.53it/s] 29%|██▉       | 58/200 [00:01<00:03, 42.92it/s] 32%|███▏      | 63/200 [00:01<00:03, 42.10it/s] 34%|███▍      | 69/200 [00:01<00:02, 44.49it/s] 37%|███▋      | 74/200 [00:01<00:02, 43.13it/s] 40%|███▉      | 79/200 [00:01<00:02, 43.88it/s] 42%|████▏     | 84/200 [00:01<00:02, 45.44it/s] 44%|████▍     | 89/200 [00:02<00:02, 40.96it/s] 47%|████▋     | 94/200 [00:02<00:02, 37.82it/s] 49%|████▉     | 98/200 [00:02<00:02, 35.24it/s] 52%|█████▏    | 104/200 [00:02<00:02, 39.27it/s] 55%|█████▍    | 109/200 [00:02<00:02, 37.63it/s] 57%|█████▊    | 115/200 [00:02<00:02, 42.06it/s] 60%|██████    | 120/200 [00:02<00:01, 41.63it/s] 62%|██████▎   | 125/200 [00:03<00:01, 43.48it/s] 65%|██████▌   | 130/200 [00:03<00:01, 44.61it/s] 68%|██████▊   | 135/200 [00:03<00:01, 43.11it/s] 70%|███████   | 140/200 [00:03<00:01, 42.39it/s] 73%|███████▎  | 146/200 [00:03<00:01, 43.26it/s] 76%|███████▌  | 151/200 [00:03<00:01, 38.07it/s] 78%|███████▊  | 155/200 [00:03<00:01, 37.80it/s] 80%|████████  | 161/200 [00:03<00:00, 41.84it/s] 84%|████████▎ | 167/200 [00:04<00:00, 45.02it/s] 86%|████████▌ | 172/200 [00:04<00:00, 45.63it/s] 88%|████████▊ | 177/200 [00:04<00:00, 45.59it/s] 91%|█████████ | 182/200 [00:04<00:00, 44.82it/s] 94%|█████████▎| 187/200 [00:04<00:00, 41.08it/s] 96%|█████████▌| 192/200 [00:04<00:00, 41.23it/s] 98%|█████████▊| 197/200 [00:04<00:00, 39.28it/s]100%|██████████| 200/200 [00:04<00:00, 41.38it/s]
+Begin to read masks from /home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Milling/Train_aug/masks/
+  0%|          | 0/200 [00:00<?, ?it/s]  4%|▎         | 7/200 [00:00<00:02, 68.44it/s]  7%|▋         | 14/200 [00:00<00:02, 64.11it/s] 10%|█         | 21/200 [00:00<00:03, 49.31it/s] 14%|█▍        | 29/200 [00:00<00:03, 56.12it/s] 18%|█▊        | 36/200 [00:00<00:02, 59.54it/s] 22%|██▏       | 43/200 [00:00<00:02, 55.79it/s] 25%|██▌       | 50/200 [00:00<00:02, 58.70it/s] 28%|██▊       | 57/200 [00:00<00:02, 59.74it/s] 32%|███▏      | 64/200 [00:01<00:02, 56.16it/s] 36%|███▌      | 71/200 [00:01<00:02, 58.51it/s] 39%|███▉      | 78/200 [00:01<00:02, 59.63it/s] 42%|████▎     | 85/200 [00:01<00:01, 60.85it/s] 46%|████▌     | 92/200 [00:01<00:01, 58.82it/s] 49%|████▉     | 98/200 [00:01<00:01, 51.99it/s] 52%|█████▎    | 105/200 [00:01<00:01, 54.58it/s] 56%|█████▋    | 113/200 [00:01<00:01, 61.11it/s] 61%|██████    | 122/200 [00:02<00:01, 65.45it/s] 65%|██████▌   | 130/200 [00:02<00:01, 67.33it/s] 70%|██████▉   | 139/200 [00:02<00:00, 70.65it/s] 74%|███████▎  | 147/200 [00:02<00:00, 66.41it/s] 78%|███████▊  | 155/200 [00:02<00:00, 68.61it/s] 81%|████████  | 162/200 [00:02<00:00, 66.74it/s] 86%|████████▌ | 171/200 [00:02<00:00, 72.41it/s] 90%|████████▉ | 179/200 [00:02<00:00, 71.81it/s] 94%|█████████▎| 187/200 [00:03<00:00, 64.69it/s] 98%|█████████▊| 195/200 [00:03<00:00, 67.63it/s]100%|██████████| 200/200 [00:03<00:00, 62.53it/s]
+/home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Milling/Inference_aug/images/
+Begin to read images from /home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Milling/Inference_aug/images/
+  0%|          | 0/200 [00:00<?, ?it/s]  2%|▏         | 3/200 [00:00<00:07, 25.51it/s]  3%|▎         | 6/200 [00:00<00:08, 23.40it/s]  4%|▍         | 9/200 [00:00<00:10, 18.64it/s]  6%|▌         | 11/200 [00:00<00:10, 17.33it/s]  7%|▋         | 14/200 [00:00<00:09, 18.73it/s]  8%|▊         | 17/200 [00:00<00:08, 20.90it/s] 10%|█         | 20/200 [00:00<00:08, 20.41it/s] 12%|█▏        | 23/200 [00:01<00:08, 21.95it/s] 13%|█▎        | 26/200 [00:01<00:07, 22.14it/s] 14%|█▍        | 29/200 [00:01<00:07, 22.29it/s] 16%|█▌        | 32/200 [00:01<00:07, 23.28it/s] 18%|█▊        | 35/200 [00:01<00:07, 22.53it/s] 19%|█▉        | 38/200 [00:01<00:07, 20.45it/s] 20%|██        | 41/200 [00:01<00:07, 21.58it/s] 22%|██▏       | 44/200 [00:02<00:07, 21.42it/s] 24%|██▎       | 47/200 [00:02<00:06, 22.55it/s] 25%|██▌       | 50/200 [00:02<00:06, 23.29it/s] 26%|██▋       | 53/200 [00:02<00:06, 23.53it/s] 28%|██▊       | 56/200 [00:02<00:06, 22.43it/s] 30%|██▉       | 59/200 [00:02<00:06, 20.33it/s] 31%|███       | 62/200 [00:02<00:06, 20.36it/s] 32%|███▎      | 65/200 [00:03<00:06, 20.29it/s] 34%|███▍      | 68/200 [00:03<00:06, 20.95it/s] 36%|███▌      | 71/200 [00:03<00:06, 21.33it/s] 37%|███▋      | 74/200 [00:03<00:05, 22.07it/s] 38%|███▊      | 77/200 [00:03<00:05, 21.51it/s] 40%|████      | 80/200 [00:03<00:05, 20.97it/s] 42%|████▏     | 83/200 [00:03<00:05, 22.79it/s] 43%|████▎     | 86/200 [00:03<00:04, 23.32it/s] 44%|████▍     | 89/200 [00:04<00:04, 24.14it/s] 46%|████▌     | 92/200 [00:04<00:05, 21.36it/s] 48%|████▊     | 95/200 [00:04<00:04, 21.66it/s] 49%|████▉     | 98/200 [00:04<00:04, 21.92it/s] 50%|█████     | 101/200 [00:04<00:04, 21.99it/s] 52%|█████▏    | 104/200 [00:04<00:04, 22.20it/s] 54%|█████▎    | 107/200 [00:04<00:04, 20.76it/s] 55%|█████▌    | 110/200 [00:05<00:04, 20.70it/s] 56%|█████▋    | 113/200 [00:05<00:04, 19.11it/s] 58%|█████▊    | 116/200 [00:05<00:04, 20.94it/s] 60%|█████▉    | 119/200 [00:05<00:04, 20.06it/s] 61%|██████    | 122/200 [00:05<00:04, 18.92it/s] 62%|██████▎   | 125/200 [00:05<00:03, 19.34it/s] 64%|██████▍   | 128/200 [00:06<00:03, 20.12it/s] 66%|██████▌   | 131/200 [00:06<00:03, 18.62it/s] 66%|██████▋   | 133/200 [00:06<00:03, 18.58it/s] 68%|██████▊   | 135/200 [00:06<00:03, 18.69it/s] 68%|██████▊   | 137/200 [00:06<00:03, 16.90it/s] 70%|██████▉   | 139/200 [00:06<00:03, 17.19it/s] 72%|███████▏  | 143/200 [00:06<00:02, 20.84it/s] 73%|███████▎  | 146/200 [00:07<00:02, 19.08it/s] 75%|███████▌  | 150/200 [00:07<00:02, 20.75it/s] 76%|███████▋  | 153/200 [00:07<00:02, 20.21it/s] 78%|███████▊  | 156/200 [00:07<00:02, 19.82it/s] 80%|███████▉  | 159/200 [00:07<00:02, 20.39it/s] 81%|████████  | 162/200 [00:07<00:01, 19.51it/s] 82%|████████▎ | 165/200 [00:07<00:01, 19.62it/s] 84%|████████▎ | 167/200 [00:08<00:01, 18.53it/s] 85%|████████▌ | 170/200 [00:08<00:01, 20.69it/s] 86%|████████▋ | 173/200 [00:08<00:01, 22.11it/s] 88%|████████▊ | 176/200 [00:08<00:01, 22.30it/s] 90%|████████▉ | 179/200 [00:08<00:00, 22.25it/s] 91%|█████████ | 182/200 [00:08<00:00, 20.67it/s] 92%|█████████▎| 185/200 [00:08<00:00, 21.73it/s] 94%|█████████▍| 188/200 [00:09<00:00, 20.94it/s] 96%|█████████▌| 191/200 [00:09<00:00, 22.13it/s] 97%|█████████▋| 194/200 [00:09<00:00, 21.02it/s] 98%|█████████▊| 197/200 [00:09<00:00, 21.91it/s]100%|██████████| 200/200 [00:09<00:00, 19.17it/s]100%|██████████| 200/200 [00:09<00:00, 20.75it/s]
+Begin to read masks from /home/de532237/cancer/Bachelorarbeit/Data/AVM_2022/Milling/Inference_aug/masks/
+  0%|          | 0/200 [00:00<?, ?it/s]  2%|▎         | 5/200 [00:00<00:04, 44.05it/s]  5%|▌         | 10/200 [00:00<00:04, 39.70it/s]  8%|▊         | 17/200 [00:00<00:03, 46.79it/s] 12%|█▏        | 24/200 [00:00<00:03, 54.48it/s] 16%|█▌        | 32/200 [00:00<00:02, 62.66it/s] 20%|██        | 40/200 [00:00<00:02, 65.61it/s] 24%|██▎       | 47/200 [00:00<00:02, 62.77it/s] 27%|██▋       | 54/200 [00:00<00:02, 64.04it/s] 30%|███       | 61/200 [00:01<00:02, 59.16it/s] 34%|███▍      | 68/200 [00:01<00:02, 57.19it/s] 38%|███▊      | 75/200 [00:01<00:02, 57.79it/s] 40%|████      | 81/200 [00:01<00:02, 54.49it/s] 44%|████▍     | 88/200 [00:01<00:01, 56.53it/s] 47%|████▋     | 94/200 [00:01<00:02, 52.24it/s] 50%|█████     | 101/200 [00:01<00:01, 56.41it/s] 55%|█████▍    | 109/200 [00:01<00:01, 61.71it/s] 58%|█████▊    | 117/200 [00:01<00:01, 65.92it/s] 62%|██████▏   | 124/200 [00:02<00:01, 64.26it/s] 66%|██████▌   | 131/200 [00:02<00:01, 59.35it/s] 70%|██████▉   | 139/200 [00:02<00:00, 63.53it/s] 73%|███████▎  | 146/200 [00:02<00:00, 64.11it/s] 77%|███████▋  | 154/200 [00:02<00:00, 66.85it/s] 82%|████████▎ | 165/200 [00:02<00:00, 75.87it/s] 86%|████████▋ | 173/200 [00:02<00:00, 69.66it/s] 90%|█████████ | 181/200 [00:02<00:00, 68.63it/s] 94%|█████████▍| 188/200 [00:03<00:00, 61.28it/s] 98%|█████████▊| 197/200 [00:03<00:00, 64.66it/s]100%|██████████| 200/200 [00:03<00:00, 61.36it/s]2022-07-14 17:18:13.663478: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-07-14 17:18:18.266963: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 14640 MB memory:  -> device: 0, name: Tesla V100-SXM2-16GB, pci bus id: 0000:62:00.0, compute capability: 7.0
+2022-07-14 17:18:31.765944: I tensorflow/stream_executor/cuda/cuda_dnn.cc:368] Loaded cuDNN version 8400
+X_train   (640, 512, 512, 1)
+Y_train   (640, 512, 512, 2)
+X_val   (160, 512, 512, 1)
+Y_val   (160, 512, 512, 2)
+Epoch 1/400
+80/80 - 8s - loss: 0.3062 - iou_binarized: 0.0034 - iou: 0.0227 - recall: 0.1872 - precision: 0.0281 - F1_score: 0.0440 - 8s/epoch - 103ms/step
+Epoch 2/400
+80/80 - 6s - loss: 0.1702 - iou_binarized: 1.1805e-07 - iou: 0.0254 - recall: 0.0687 - precision: 0.0434 - F1_score: 0.0494 - 6s/epoch - 73ms/step
+Epoch 3/400
+80/80 - 6s - loss: 0.1505 - iou_binarized: 1.1345e-06 - iou: 0.0488 - recall: 0.1242 - precision: 0.0881 - F1_score: 0.0921 - 6s/epoch - 74ms/step
+Epoch 4/400
+80/80 - 6s - loss: 0.1229 - iou_binarized: 8.6063e-06 - iou: 0.1018 - recall: 0.2316 - precision: 0.1716 - F1_score: 0.1827 - 6s/epoch - 74ms/step
+Epoch 5/400
+80/80 - 6s - loss: 0.0895 - iou_binarized: 0.1435 - iou: 0.1931 - recall: 0.3664 - precision: 0.3093 - F1_score: 0.3202 - 6s/epoch - 73ms/step
+Epoch 6/400
+80/80 - 6s - loss: 0.0695 - iou_binarized: 0.2937 - iou: 0.2959 - recall: 0.4949 - precision: 0.4407 - F1_score: 0.4522 - 6s/epoch - 73ms/step
+Epoch 7/400
+80/80 - 6s - loss: 0.0590 - iou_binarized: 0.3194 - iou: 0.3469 - recall: 0.5331 - precision: 0.5102 - F1_score: 0.5104 - 6s/epoch - 73ms/step
+Epoch 8/400
+80/80 - 6s - loss: 0.0533 - iou_binarized: 0.3351 - iou: 0.3806 - recall: 0.5572 - precision: 0.5541 - F1_score: 0.5466 - 6s/epoch - 73ms/step
+Epoch 9/400
+80/80 - 6s - loss: 0.0511 - iou_binarized: 0.3417 - iou: 0.3918 - recall: 0.5647 - precision: 0.5687 - F1_score: 0.5582 - 6s/epoch - 74ms/step
+Epoch 10/400
+80/80 - 6s - loss: 0.0456 - iou_binarized: 0.3812 - iou: 0.4274 - recall: 0.5913 - precision: 0.6118 - F1_score: 0.5944 - 6s/epoch - 73ms/step
+Epoch 11/400
+80/80 - 6s - loss: 0.0427 - iou_binarized: 0.6709 - iou: 0.4469 - recall: 0.6076 - precision: 0.6310 - F1_score: 0.6136 - 6s/epoch - 74ms/step
+Epoch 12/400
+80/80 - 6s - loss: 0.0392 - iou_binarized: 0.6940 - iou: 0.4713 - recall: 0.6242 - precision: 0.6585 - F1_score: 0.6366 - 6s/epoch - 73ms/step
+Epoch 13/400
+80/80 - 6s - loss: 0.0357 - iou_binarized: 0.7237 - iou: 0.5010 - recall: 0.6413 - precision: 0.6942 - F1_score: 0.6641 - 6s/epoch - 74ms/step
+Epoch 14/400
+80/80 - 6s - loss: 0.0334 - iou_binarized: 0.7409 - iou: 0.5208 - recall: 0.6553 - precision: 0.7159 - F1_score: 0.6818 - 6s/epoch - 74ms/step
+Epoch 15/400
+80/80 - 6s - loss: 0.0325 - iou_binarized: 0.7469 - iou: 0.5284 - recall: 0.6619 - precision: 0.7236 - F1_score: 0.6884 - 6s/epoch - 73ms/step
+Epoch 16/400
+80/80 - 6s - loss: 0.0305 - iou_binarized: 0.7629 - iou: 0.5474 - recall: 0.6757 - precision: 0.7417 - F1_score: 0.7048 - 6s/epoch - 73ms/step
+Epoch 17/400
+80/80 - 6s - loss: 0.0290 - iou_binarized: 0.7749 - iou: 0.5600 - recall: 0.6854 - precision: 0.7529 - F1_score: 0.7152 - 6s/epoch - 72ms/step
+Epoch 18/400
+80/80 - 6s - loss: 0.0344 - iou_binarized: 0.7232 - iou: 0.5136 - recall: 0.6594 - precision: 0.7009 - F1_score: 0.6748 - 6s/epoch - 72ms/step
+Epoch 19/400
+80/80 - 6s - loss: 0.0277 - iou_binarized: 0.7838 - iou: 0.5754 - recall: 0.6952 - precision: 0.7682 - F1_score: 0.7281 - 6s/epoch - 73ms/step
+Epoch 20/400
+80/80 - 6s - loss: 0.0258 - iou_binarized: 0.8009 - iou: 0.5953 - recall: 0.7081 - precision: 0.7870 - F1_score: 0.7441 - 6s/epoch - 73ms/step
+Epoch 21/400
+80/80 - 6s - loss: 0.0240 - iou_binarized: 0.8156 - iou: 0.6130 - recall: 0.7190 - precision: 0.8042 - F1_score: 0.7580 - 6s/epoch - 73ms/step
+Epoch 22/400
+80/80 - 6s - loss: 0.0230 - iou_binarized: 0.8250 - iou: 0.6252 - recall: 0.7265 - precision: 0.8156 - F1_score: 0.7673 - 6s/epoch - 73ms/step
+Epoch 23/400
+80/80 - 6s - loss: 0.0219 - iou_binarized: 0.8350 - iou: 0.6380 - recall: 0.7351 - precision: 0.8265 - F1_score: 0.7771 - 6s/epoch - 73ms/step
+Epoch 24/400
+80/80 - 6s - loss: 0.0212 - iou_binarized: 0.8412 - iou: 0.6472 - recall: 0.7412 - precision: 0.8340 - F1_score: 0.7841 - 6s/epoch - 75ms/step
+Epoch 25/400
+80/80 - 6s - loss: 0.0205 - iou_binarized: 0.8461 - iou: 0.6552 - recall: 0.7472 - precision: 0.8398 - F1_score: 0.7900 - 6s/epoch - 73ms/step
+Epoch 26/400
+80/80 - 6s - loss: 0.0199 - iou_binarized: 0.8511 - iou: 0.6636 - recall: 0.7532 - precision: 0.8458 - F1_score: 0.7961 - 6s/epoch - 73ms/step
+Epoch 27/400
+80/80 - 6s - loss: 0.0193 - iou_binarized: 0.8546 - iou: 0.6706 - recall: 0.7589 - precision: 0.8502 - F1_score: 0.8011 - 6s/epoch - 73ms/step
+Epoch 28/400
+80/80 - 6s - loss: 0.0187 - iou_binarized: 0.8588 - iou: 0.6778 - recall: 0.7645 - precision: 0.8547 - F1_score: 0.8063 - 6s/epoch - 73ms/step
+Epoch 29/400
+80/80 - 6s - loss: 0.0182 - iou_binarized: 0.8616 - iou: 0.6839 - recall: 0.7695 - precision: 0.8580 - F1_score: 0.8107 - 6s/epoch - 73ms/step
+Epoch 30/400
+80/80 - 6s - loss: 0.0178 - iou_binarized: 0.8634 - iou: 0.6894 - recall: 0.7743 - precision: 0.8607 - F1_score: 0.8145 - 6s/epoch - 73ms/step
+Epoch 31/400
+80/80 - 6s - loss: 0.0174 - iou_binarized: 0.8654 - iou: 0.6949 - recall: 0.7784 - precision: 0.8641 - F1_score: 0.8184 - 6s/epoch - 73ms/step
+Epoch 32/400
+80/80 - 6s - loss: 0.0172 - iou_binarized: 0.8647 - iou: 0.6976 - recall: 0.7829 - precision: 0.8628 - F1_score: 0.8202 - 6s/epoch - 73ms/step
+Epoch 33/400
+80/80 - 6s - loss: 0.0168 - iou_binarized: 0.8665 - iou: 0.7030 - recall: 0.7868 - precision: 0.8664 - F1_score: 0.8240 - 6s/epoch - 73ms/step
+Epoch 34/400
+80/80 - 6s - loss: 0.0174 - iou_binarized: 0.8576 - iou: 0.6973 - recall: 0.7874 - precision: 0.8582 - F1_score: 0.8197 - 6s/epoch - 73ms/step
+Epoch 35/400
+80/80 - 6s - loss: 0.0358 - iou_binarized: 0.7078 - iou: 0.5342 - recall: 0.6999 - precision: 0.6962 - F1_score: 0.6902 - 6s/epoch - 72ms/step
+Epoch 36/400
+80/80 - 6s - loss: 0.0218 - iou_binarized: 0.8135 - iou: 0.6469 - recall: 0.7679 - precision: 0.8031 - F1_score: 0.7830 - 6s/epoch - 72ms/step
+Epoch 37/400
+80/80 - 6s - loss: 0.0170 - iou_binarized: 0.8573 - iou: 0.7015 - recall: 0.7948 - precision: 0.8552 - F1_score: 0.8229 - 6s/epoch - 72ms/step
+Epoch 38/400
+80/80 - 6s - loss: 0.0159 - iou_binarized: 0.8669 - iou: 0.7165 - recall: 0.8036 - precision: 0.8671 - F1_score: 0.8332 - 6s/epoch - 73ms/step
+Epoch 39/400
+80/80 - 6s - loss: 0.0152 - iou_binarized: 0.8725 - iou: 0.7264 - recall: 0.8104 - precision: 0.8737 - F1_score: 0.8400 - 6s/epoch - 73ms/step
+Epoch 40/400
+80/80 - 6s - loss: 0.0147 - iou_binarized: 0.8758 - iou: 0.7337 - recall: 0.8158 - precision: 0.8778 - F1_score: 0.8449 - 6s/epoch - 73ms/step
+Epoch 41/400
+80/80 - 6s - loss: 0.0144 - iou_binarized: 0.8775 - iou: 0.7380 - recall: 0.8190 - precision: 0.8803 - F1_score: 0.8478 - 6s/epoch - 73ms/step
+Epoch 42/400
+80/80 - 6s - loss: 0.0142 - iou_binarized: 0.8789 - iou: 0.7416 - recall: 0.8224 - precision: 0.8814 - F1_score: 0.8502 - 6s/epoch - 73ms/step
+Epoch 43/400
+80/80 - 6s - loss: 0.0138 - iou_binarized: 0.8821 - iou: 0.7471 - recall: 0.8258 - precision: 0.8850 - F1_score: 0.8539 - 6s/epoch - 73ms/step
+Epoch 44/400
+80/80 - 6s - loss: 0.0135 - iou_binarized: 0.8845 - iou: 0.7520 - recall: 0.8297 - precision: 0.8875 - F1_score: 0.8571 - 6s/epoch - 74ms/step
+Epoch 45/400
+80/80 - 6s - loss: 0.0131 - iou_binarized: 0.8869 - iou: 0.7569 - recall: 0.8333 - precision: 0.8902 - F1_score: 0.8603 - 6s/epoch - 74ms/step
+Epoch 46/400
+80/80 - 6s - loss: 0.0129 - iou_binarized: 0.8888 - iou: 0.7613 - recall: 0.8368 - precision: 0.8922 - F1_score: 0.8632 - 6s/epoch - 73ms/step
+Epoch 47/400
+80/80 - 6s - loss: 0.0126 - iou_binarized: 0.8905 - iou: 0.7653 - recall: 0.8401 - precision: 0.8941 - F1_score: 0.8658 - 6s/epoch - 73ms/step
+Epoch 48/400
+80/80 - 6s - loss: 0.0123 - iou_binarized: 0.8922 - iou: 0.7696 - recall: 0.8435 - precision: 0.8961 - F1_score: 0.8686 - 6s/epoch - 74ms/step
+Epoch 49/400
+80/80 - 6s - loss: 0.0121 - iou_binarized: 0.8937 - iou: 0.7733 - recall: 0.8468 - precision: 0.8974 - F1_score: 0.8709 - 6s/epoch - 73ms/step
+Epoch 50/400
+80/80 - 6s - loss: 0.0119 - iou_binarized: 0.8947 - iou: 0.7768 - recall: 0.8500 - precision: 0.8987 - F1_score: 0.8731 - 6s/epoch - 73ms/step
+Epoch 51/400
+80/80 - 6s - loss: 0.0117 - iou_binarized: 0.8950 - iou: 0.7795 - recall: 0.8528 - precision: 0.8993 - F1_score: 0.8748 - 6s/epoch - 72ms/step
+Epoch 52/400
+80/80 - 6s - loss: 0.0115 - iou_binarized: 0.8964 - iou: 0.7831 - recall: 0.8556 - precision: 0.9009 - F1_score: 0.8772 - 6s/epoch - 73ms/step
+Epoch 53/400
+80/80 - 6s - loss: 0.0114 - iou_binarized: 0.8955 - iou: 0.7844 - recall: 0.8571 - precision: 0.9007 - F1_score: 0.8780 - 6s/epoch - 73ms/step
+Epoch 54/400
+80/80 - 6s - loss: 0.0115 - iou_binarized: 0.8934 - iou: 0.7838 - recall: 0.8587 - precision: 0.8983 - F1_score: 0.8776 - 6s/epoch - 72ms/step
+Epoch 55/400
+80/80 - 6s - loss: 0.0118 - iou_binarized: 0.8874 - iou: 0.7802 - recall: 0.8565 - precision: 0.8954 - F1_score: 0.8750 - 6s/epoch - 73ms/step
+Epoch 56/400
+80/80 - 6s - loss: 0.0115 - iou_binarized: 0.8915 - iou: 0.7847 - recall: 0.8610 - precision: 0.8969 - F1_score: 0.8783 - 6s/epoch - 72ms/step
+Epoch 57/400
+80/80 - 6s - loss: 0.0115 - iou_binarized: 0.8893 - iou: 0.7852 - recall: 0.8613 - precision: 0.8971 - F1_score: 0.8784 - 6s/epoch - 72ms/step
+Epoch 58/400
+80/80 - 6s - loss: 0.0118 - iou_binarized: 0.8845 - iou: 0.7815 - recall: 0.8626 - precision: 0.8906 - F1_score: 0.8760 - 6s/epoch - 72ms/step
+Epoch 59/400
+80/80 - 6s - loss: 0.0111 - iou_binarized: 0.8917 - iou: 0.7899 - recall: 0.8674 - precision: 0.8966 - F1_score: 0.8814 - 6s/epoch - 75ms/step
+Epoch 60/400
+80/80 - 6s - loss: 0.0105 - iou_binarized: 0.8994 - iou: 0.8005 - recall: 0.8724 - precision: 0.9049 - F1_score: 0.8881 - 6s/epoch - 73ms/step
+Epoch 61/400
+80/80 - 6s - loss: 0.0104 - iou_binarized: 0.8978 - iou: 0.8017 - recall: 0.8739 - precision: 0.9050 - F1_score: 0.8889 - 6s/epoch - 73ms/step
+Epoch 62/400
+80/80 - 6s - loss: 0.0104 - iou_binarized: 0.8976 - iou: 0.8022 - recall: 0.8757 - precision: 0.9039 - F1_score: 0.8891 - 6s/epoch - 73ms/step
+Epoch 63/400
+80/80 - 6s - loss: 0.0100 - iou_binarized: 0.9018 - iou: 0.8081 - recall: 0.8791 - precision: 0.9075 - F1_score: 0.8928 - 6s/epoch - 73ms/step
+Epoch 64/400
+80/80 - 6s - loss: 0.0097 - iou_binarized: 0.9049 - iou: 0.8129 - recall: 0.8821 - precision: 0.9103 - F1_score: 0.8958 - 6s/epoch - 73ms/step
+Epoch 65/400
+80/80 - 6s - loss: 0.0087 - iou_binarized: 0.9070 - iou: 0.8339 - recall: 0.9033 - precision: 0.9140 - F1_score: 0.9083 - 6s/epoch - 75ms/step
+Epoch 66/400
+80/80 - 6s - loss: 0.0067 - iou_binarized: 0.9093 - iou: 0.8730 - recall: 0.9437 - precision: 0.9190 - F1_score: 0.9310 - 6s/epoch - 73ms/step
+Epoch 67/400
+80/80 - 6s - loss: 0.0065 - iou_binarized: 0.9105 - iou: 0.8753 - recall: 0.9452 - precision: 0.9200 - F1_score: 0.9323 - 6s/epoch - 73ms/step
+Epoch 68/400
+80/80 - 6s - loss: 0.0064 - iou_binarized: 0.9113 - iou: 0.8767 - recall: 0.9461 - precision: 0.9208 - F1_score: 0.9331 - 6s/epoch - 73ms/step
+Epoch 69/400
+80/80 - 6s - loss: 0.0064 - iou_binarized: 0.9115 - iou: 0.8774 - recall: 0.9465 - precision: 0.9212 - F1_score: 0.9336 - 6s/epoch - 73ms/step
+Epoch 70/400
+80/80 - 6s - loss: 0.0063 - iou_binarized: 0.9120 - iou: 0.8783 - recall: 0.9470 - precision: 0.9218 - F1_score: 0.9341 - 6s/epoch - 73ms/step
+Epoch 71/400
+80/80 - 6s - loss: 0.0063 - iou_binarized: 0.9124 - iou: 0.8790 - recall: 0.9474 - precision: 0.9221 - F1_score: 0.9345 - 6s/epoch - 73ms/step
+Epoch 72/400
+80/80 - 6s - loss: 0.0063 - iou_binarized: 0.9121 - iou: 0.8787 - recall: 0.9475 - precision: 0.9218 - F1_score: 0.9343 - 6s/epoch - 72ms/step
+Epoch 73/400
+80/80 - 6s - loss: 0.0063 - iou_binarized: 0.9120 - iou: 0.8789 - recall: 0.9481 - precision: 0.9214 - F1_score: 0.9344 - 6s/epoch - 73ms/step
+Epoch 74/400
+80/80 - 6s - loss: 0.0065 - iou_binarized: 0.9093 - iou: 0.8757 - recall: 0.9460 - precision: 0.9198 - F1_score: 0.9325 - 6s/epoch - 72ms/step
+Epoch 75/400
+80/80 - 6s - loss: 0.0068 - iou_binarized: 0.9063 - iou: 0.8711 - recall: 0.9437 - precision: 0.9169 - F1_score: 0.9299 - 6s/epoch - 73ms/step
+Epoch 76/400
+80/80 - 6s - loss: 0.0065 - iou_binarized: 0.9094 - iou: 0.8749 - recall: 0.9462 - precision: 0.9190 - F1_score: 0.9321 - 6s/epoch - 73ms/step
+Epoch 77/400
+80/80 - 6s - loss: 0.0065 - iou_binarized: 0.9099 - iou: 0.8757 - recall: 0.9451 - precision: 0.9210 - F1_score: 0.9326 - 6s/epoch - 72ms/step
+Epoch 78/400
+80/80 - 6s - loss: 0.0066 - iou_binarized: 0.9076 - iou: 0.8732 - recall: 0.9437 - precision: 0.9194 - F1_score: 0.9311 - 6s/epoch - 72ms/step
+Epoch 79/400
+80/80 - 6s - loss: 0.0070 - iou_binarized: 0.9038 - iou: 0.8681 - recall: 0.9418 - precision: 0.9158 - F1_score: 0.9281 - 6s/epoch - 72ms/step
+Epoch 80/400
+80/80 - 6s - loss: 0.0069 - iou_binarized: 0.9049 - iou: 0.8698 - recall: 0.9433 - precision: 0.9163 - F1_score: 0.9291 - 6s/epoch - 72ms/step
+Epoch 81/400
+80/80 - 6s - loss: 0.0070 - iou_binarized: 0.9047 - iou: 0.8697 - recall: 0.9413 - precision: 0.9180 - F1_score: 0.9291 - 6s/epoch - 72ms/step
+Epoch 82/400
+80/80 - 6s - loss: 0.0103 - iou_binarized: 0.8790 - iou: 0.8289 - recall: 0.9252 - precision: 0.8867 - F1_score: 0.9047 - 6s/epoch - 72ms/step
+Epoch 83/400
+80/80 - 6s - loss: 0.0071 - iou_binarized: 0.9043 - iou: 0.8675 - recall: 0.9415 - precision: 0.9153 - F1_score: 0.9278 - 6s/epoch - 72ms/step
+Epoch 84/400
+80/80 - 6s - loss: 0.0067 - iou_binarized: 0.9071 - iou: 0.8711 - recall: 0.9441 - precision: 0.9168 - F1_score: 0.9299 - 6s/epoch - 72ms/step
+Epoch 85/400
+80/80 - 6s - loss: 0.0063 - iou_binarized: 0.9123 - iou: 0.8786 - recall: 0.9473 - precision: 0.9221 - F1_score: 0.9343 - 6s/epoch - 73ms/step
+Epoch 86/400
+80/80 - 6s - loss: 0.0061 - iou_binarized: 0.9148 - iou: 0.8821 - recall: 0.9489 - precision: 0.9244 - F1_score: 0.9363 - 6s/epoch - 75ms/step
+Epoch 87/400
+80/80 - 6s - loss: 0.0059 - iou_binarized: 0.9165 - iou: 0.8846 - recall: 0.9500 - precision: 0.9262 - F1_score: 0.9377 - 6s/epoch - 73ms/step
+Epoch 88/400
+80/80 - 6s - loss: 0.0058 - iou_binarized: 0.9179 - iou: 0.8866 - recall: 0.9509 - precision: 0.9275 - F1_score: 0.9389 - 6s/epoch - 73ms/step
+Epoch 89/400
+80/80 - 6s - loss: 0.0057 - iou_binarized: 0.9192 - iou: 0.8883 - recall: 0.9517 - precision: 0.9286 - F1_score: 0.9398 - 6s/epoch - 74ms/step
+Epoch 90/400
+80/80 - 6s - loss: 0.0056 - iou_binarized: 0.9203 - iou: 0.8898 - recall: 0.9524 - precision: 0.9296 - F1_score: 0.9407 - 6s/epoch - 73ms/step
+Epoch 91/400
+80/80 - 6s - loss: 0.0056 - iou_binarized: 0.9214 - iou: 0.8912 - recall: 0.9530 - precision: 0.9305 - F1_score: 0.9415 - 6s/epoch - 73ms/step
+Epoch 92/400
+80/80 - 6s - loss: 0.0055 - iou_binarized: 0.9223 - iou: 0.8925 - recall: 0.9536 - precision: 0.9314 - F1_score: 0.9423 - 6s/epoch - 73ms/step
+Epoch 93/400
+80/80 - 6s - loss: 0.0054 - iou_binarized: 0.9232 - iou: 0.8937 - recall: 0.9542 - precision: 0.9323 - F1_score: 0.9430 - 6s/epoch - 73ms/step
+Epoch 94/400
+80/80 - 6s - loss: 0.0054 - iou_binarized: 0.9241 - iou: 0.8949 - recall: 0.9547 - precision: 0.9330 - F1_score: 0.9436 - 6s/epoch - 73ms/step
+Epoch 95/400
+80/80 - 6s - loss: 0.0053 - iou_binarized: 0.9250 - iou: 0.8960 - recall: 0.9552 - precision: 0.9338 - F1_score: 0.9443 - 6s/epoch - 73ms/step
+Epoch 96/400
+80/80 - 6s - loss: 0.0052 - iou_binarized: 0.9257 - iou: 0.8970 - recall: 0.9557 - precision: 0.9344 - F1_score: 0.9448 - 6s/epoch - 74ms/step
+Epoch 97/400
+80/80 - 6s - loss: 0.0052 - iou_binarized: 0.9266 - iou: 0.8981 - recall: 0.9562 - precision: 0.9352 - F1_score: 0.9455 - 6s/epoch - 74ms/step
+Epoch 98/400
+80/80 - 6s - loss: 0.0051 - iou_binarized: 0.9272 - iou: 0.8990 - recall: 0.9566 - precision: 0.9357 - F1_score: 0.9460 - 6s/epoch - 73ms/step
+Epoch 99/400
+80/80 - 6s - loss: 0.0051 - iou_binarized: 0.9280 - iou: 0.9002 - recall: 0.9571 - precision: 0.9366 - F1_score: 0.9467 - 6s/epoch - 73ms/step
+Epoch 100/400
+80/80 - 6s - loss: 0.0050 - iou_binarized: 0.9288 - iou: 0.9011 - recall: 0.9576 - precision: 0.9371 - F1_score: 0.9472 - 6s/epoch - 72ms/step
+Epoch 101/400
+80/80 - 6s - loss: 0.0051 - iou_binarized: 0.9282 - iou: 0.9008 - recall: 0.9578 - precision: 0.9366 - F1_score: 0.9470 - 6s/epoch - 72ms/step
+Epoch 102/400
+80/80 - 6s - loss: 0.0050 - iou_binarized: 0.9283 - iou: 0.9008 - recall: 0.9578 - precision: 0.9367 - F1_score: 0.9470 - 6s/epoch - 71ms/step
+Epoch 103/400
+80/80 - 6s - loss: 0.0050 - iou_binarized: 0.9288 - iou: 0.9014 - recall: 0.9581 - precision: 0.9370 - F1_score: 0.9473 - 6s/epoch - 73ms/step
+Epoch 104/400
+80/80 - 6s - loss: 0.0050 - iou_binarized: 0.9293 - iou: 0.9020 - recall: 0.9584 - precision: 0.9373 - F1_score: 0.9477 - 6s/epoch - 73ms/step
+Epoch 105/400
+80/80 - 6s - loss: 0.0049 - iou_binarized: 0.9298 - iou: 0.9026 - recall: 0.9587 - precision: 0.9378 - F1_score: 0.9480 - 6s/epoch - 72ms/step
+Epoch 106/400
+80/80 - 6s - loss: 0.0049 - iou_binarized: 0.9301 - iou: 0.9031 - recall: 0.9590 - precision: 0.9380 - F1_score: 0.9483 - 6s/epoch - 73ms/step
+Epoch 107/400
+80/80 - 6s - loss: 0.0049 - iou_binarized: 0.9305 - iou: 0.9036 - recall: 0.9591 - precision: 0.9384 - F1_score: 0.9486 - 6s/epoch - 73ms/step
+Epoch 108/400
+80/80 - 6s - loss: 0.0049 - iou_binarized: 0.9308 - iou: 0.9039 - recall: 0.9594 - precision: 0.9385 - F1_score: 0.9488 - 6s/epoch - 72ms/step
+Epoch 109/400
+80/80 - 6s - loss: 0.0048 - iou_binarized: 0.9311 - iou: 0.9044 - recall: 0.9597 - precision: 0.9388 - F1_score: 0.9491 - 6s/epoch - 73ms/step
+Epoch 110/400
+80/80 - 6s - loss: 0.0048 - iou_binarized: 0.9311 - iou: 0.9044 - recall: 0.9598 - precision: 0.9387 - F1_score: 0.9490 - 6s/epoch - 71ms/step
+Epoch 111/400
+80/80 - 6s - loss: 0.0048 - iou_binarized: 0.9310 - iou: 0.9045 - recall: 0.9598 - precision: 0.9388 - F1_score: 0.9491 - 6s/epoch - 71ms/step
+Epoch 112/400
+80/80 - 6s - loss: 0.0048 - iou_binarized: 0.9311 - iou: 0.9046 - recall: 0.9599 - precision: 0.9389 - F1_score: 0.9492 - 6s/epoch - 73ms/step
+Epoch 113/400
+80/80 - 6s - loss: 0.0048 - iou_binarized: 0.9313 - iou: 0.9048 - recall: 0.9600 - precision: 0.9390 - F1_score: 0.9493 - 6s/epoch - 72ms/step
+Epoch 114/400
+80/80 - 6s - loss: 0.0048 - iou_binarized: 0.9315 - iou: 0.9051 - recall: 0.9601 - precision: 0.9391 - F1_score: 0.9494 - 6s/epoch - 73ms/step
+Epoch 115/400
+80/80 - 6s - loss: 0.0048 - iou_binarized: 0.9307 - iou: 0.9045 - recall: 0.9596 - precision: 0.9389 - F1_score: 0.9491 - 6s/epoch - 73ms/step
+Epoch 116/400
+80/80 - 6s - loss: 0.0049 - iou_binarized: 0.9301 - iou: 0.9034 - recall: 0.9592 - precision: 0.9383 - F1_score: 0.9485 - 6s/epoch - 73ms/step
+Epoch 117/400
+80/80 - 6s - loss: 0.0050 - iou_binarized: 0.9286 - iou: 0.9018 - recall: 0.9587 - precision: 0.9369 - F1_score: 0.9476 - 6s/epoch - 73ms/step
+Epoch 118/400
+80/80 - 6s - loss: 0.0051 - iou_binarized: 0.9272 - iou: 0.9001 - recall: 0.9583 - precision: 0.9356 - F1_score: 0.9466 - 6s/epoch - 72ms/step
+Epoch 119/400
+80/80 - 6s - loss: 0.0052 - iou_binarized: 0.9258 - iou: 0.8984 - recall: 0.9576 - precision: 0.9345 - F1_score: 0.9457 - 6s/epoch - 72ms/step
+Epoch 120/400
+80/80 - 6s - loss: 0.0054 - iou_binarized: 0.9229 - iou: 0.8947 - recall: 0.9561 - precision: 0.9320 - F1_score: 0.9436 - 6s/epoch - 72ms/step
+Epoch 121/400
+80/80 - 6s - loss: 0.0059 - iou_binarized: 0.9176 - iou: 0.8880 - recall: 0.9516 - precision: 0.9290 - F1_score: 0.9397 - 6s/epoch - 72ms/step
+Epoch 122/400
+80/80 - 6s - loss: 0.0056 - iou_binarized: 0.9196 - iou: 0.8896 - recall: 0.9529 - precision: 0.9294 - F1_score: 0.9406 - 6s/epoch - 72ms/step
+Epoch 123/400
+80/80 - 6s - loss: 0.0055 - iou_binarized: 0.9211 - iou: 0.8916 - recall: 0.9537 - precision: 0.9308 - F1_score: 0.9417 - 6s/epoch - 72ms/step
+Epoch 124/400
+80/80 - 6s - loss: 0.0054 - iou_binarized: 0.9223 - iou: 0.8931 - recall: 0.9543 - precision: 0.9320 - F1_score: 0.9427 - 6s/epoch - 71ms/step
+Epoch 125/400
+80/80 - 6s - loss: 0.0053 - iou_binarized: 0.9241 - iou: 0.8949 - recall: 0.9549 - precision: 0.9332 - F1_score: 0.9437 - 6s/epoch - 71ms/step
+Epoch 126/400
+80/80 - 6s - loss: 0.0052 - iou_binarized: 0.9260 - iou: 0.8971 - recall: 0.9558 - precision: 0.9347 - F1_score: 0.9449 - 6s/epoch - 72ms/step
+Epoch 127/400
+80/80 - 6s - loss: 0.0051 - iou_binarized: 0.9277 - iou: 0.8993 - recall: 0.9569 - precision: 0.9361 - F1_score: 0.9462 - 6s/epoch - 73ms/step
+Epoch 128/400
+80/80 - 6s - loss: 0.0050 - iou_binarized: 0.9291 - iou: 0.9012 - recall: 0.9578 - precision: 0.9372 - F1_score: 0.9473 - 6s/epoch - 72ms/step
+Epoch 129/400
+80/80 - 6s - loss: 0.0049 - iou_binarized: 0.9301 - iou: 0.9026 - recall: 0.9585 - precision: 0.9382 - F1_score: 0.9481 - 6s/epoch - 72ms/step
+Epoch 130/400
+80/80 - 6s - loss: 0.0048 - iou_binarized: 0.9310 - iou: 0.9040 - recall: 0.9591 - precision: 0.9390 - F1_score: 0.9488 - 6s/epoch - 72ms/step
+Epoch 131/400
+80/80 - 6s - loss: 0.0048 - iou_binarized: 0.9319 - iou: 0.9052 - recall: 0.9597 - precision: 0.9398 - F1_score: 0.9495 - 6s/epoch - 73ms/step
+Epoch 132/400
+80/80 - 6s - loss: 0.0047 - iou_binarized: 0.9327 - iou: 0.9063 - recall: 0.9602 - precision: 0.9404 - F1_score: 0.9501 - 6s/epoch - 73ms/step
+Epoch 133/400
+80/80 - 6s - loss: 0.0047 - iou_binarized: 0.9333 - iou: 0.9072 - recall: 0.9606 - precision: 0.9410 - F1_score: 0.9506 - 6s/epoch - 73ms/step
+Epoch 134/400
+80/80 - 6s - loss: 0.0046 - iou_binarized: 0.9338 - iou: 0.9079 - recall: 0.9609 - precision: 0.9415 - F1_score: 0.9510 - 6s/epoch - 72ms/step
+Epoch 135/400
+80/80 - 6s - loss: 0.0046 - iou_binarized: 0.9343 - iou: 0.9086 - recall: 0.9613 - precision: 0.9419 - F1_score: 0.9514 - 6s/epoch - 73ms/step
+Epoch 136/400
+80/80 - 6s - loss: 0.0046 - iou_binarized: 0.9347 - iou: 0.9092 - recall: 0.9615 - precision: 0.9423 - F1_score: 0.9518 - 6s/epoch - 73ms/step
+Epoch 137/400
+80/80 - 6s - loss: 0.0045 - iou_binarized: 0.9352 - iou: 0.9098 - recall: 0.9618 - precision: 0.9427 - F1_score: 0.9521 - 6s/epoch - 74ms/step
+Epoch 138/400
+80/80 - 6s - loss: 0.0045 - iou_binarized: 0.9356 - iou: 0.9104 - recall: 0.9621 - precision: 0.9431 - F1_score: 0.9524 - 6s/epoch - 73ms/step
+Epoch 139/400
+80/80 - 6s - loss: 0.0045 - iou_binarized: 0.9359 - iou: 0.9109 - recall: 0.9623 - precision: 0.9434 - F1_score: 0.9527 - 6s/epoch - 73ms/step
+Epoch 140/400
+80/80 - 6s - loss: 0.0044 - iou_binarized: 0.9362 - iou: 0.9114 - recall: 0.9626 - precision: 0.9437 - F1_score: 0.9530 - 6s/epoch - 73ms/step
+Epoch 141/400
+80/80 - 6s - loss: 0.0046 - iou_binarized: 0.9341 - iou: 0.9094 - recall: 0.9616 - precision: 0.9425 - F1_score: 0.9519 - 6s/epoch - 73ms/step
+Epoch 142/400
+80/80 - 6s - loss: 0.0047 - iou_binarized: 0.9330 - iou: 0.9079 - recall: 0.9608 - precision: 0.9416 - F1_score: 0.9510 - 6s/epoch - 72ms/step
+Epoch 143/400
+80/80 - 6s - loss: 0.0047 - iou_binarized: 0.9327 - iou: 0.9073 - recall: 0.9606 - precision: 0.9412 - F1_score: 0.9507 - 6s/epoch - 72ms/step
+Epoch 144/400
+80/80 - 6s - loss: 0.0047 - iou_binarized: 0.9326 - iou: 0.9071 - recall: 0.9606 - precision: 0.9410 - F1_score: 0.9506 - 6s/epoch - 72ms/step
+Epoch 145/400
+80/80 - 6s - loss: 0.0047 - iou_binarized: 0.9325 - iou: 0.9070 - recall: 0.9607 - precision: 0.9408 - F1_score: 0.9505 - 6s/epoch - 72ms/step
+Epoch 146/400
+80/80 - 6s - loss: 0.0047 - iou_binarized: 0.9324 - iou: 0.9070 - recall: 0.9608 - precision: 0.9406 - F1_score: 0.9505 - 6s/epoch - 72ms/step
+Epoch 147/400
+80/80 - 6s - loss: 0.0047 - iou_binarized: 0.9326 - iou: 0.9072 - recall: 0.9610 - precision: 0.9406 - F1_score: 0.9506 - 6s/epoch - 73ms/step
+Epoch 148/400
+80/80 - 6s - loss: 0.0047 - iou_binarized: 0.9329 - iou: 0.9076 - recall: 0.9612 - precision: 0.9409 - F1_score: 0.9508 - 6s/epoch - 73ms/step
+Epoch 149/400
+80/80 - 6s - loss: 0.0046 - iou_binarized: 0.9334 - iou: 0.9081 - recall: 0.9614 - precision: 0.9412 - F1_score: 0.9512 - 6s/epoch - 72ms/step
+Epoch 150/400
+80/80 - 6s - loss: 0.0046 - iou_binarized: 0.9337 - iou: 0.9086 - recall: 0.9616 - precision: 0.9416 - F1_score: 0.9514 - 6s/epoch - 71ms/step
+Epoch 151/400
+80/80 - 6s - loss: 0.0046 - iou_binarized: 0.9340 - iou: 0.9090 - recall: 0.9618 - precision: 0.9419 - F1_score: 0.9516 - 6s/epoch - 71ms/step
+Epoch 152/400
+80/80 - 6s - loss: 0.0046 - iou_binarized: 0.9342 - iou: 0.9093 - recall: 0.9619 - precision: 0.9422 - F1_score: 0.9518 - 6s/epoch - 71ms/step
+Epoch 153/400
+80/80 - 6s - loss: 0.0045 - iou_binarized: 0.9344 - iou: 0.9095 - recall: 0.9619 - precision: 0.9424 - F1_score: 0.9519 - 6s/epoch - 72ms/step
+Epoch 154/400
+80/80 - 6s - loss: 0.0045 - iou_binarized: 0.9346 - iou: 0.9098 - recall: 0.9619 - precision: 0.9426 - F1_score: 0.9521 - 6s/epoch - 72ms/step
+Epoch 155/400
+80/80 - 6s - loss: 0.0045 - iou_binarized: 0.9350 - iou: 0.9102 - recall: 0.9620 - precision: 0.9430 - F1_score: 0.9523 - 6s/epoch - 72ms/step
+Epoch 156/400
+80/80 - 6s - loss: 0.0045 - iou_binarized: 0.9354 - iou: 0.9105 - recall: 0.9621 - precision: 0.9433 - F1_score: 0.9525 - 6s/epoch - 72ms/step
+Epoch 157/400
+80/80 - 6s - loss: 0.0045 - iou_binarized: 0.9358 - iou: 0.9110 - recall: 0.9623 - precision: 0.9437 - F1_score: 0.9528 - 6s/epoch - 71ms/step
+Epoch 158/400
+80/80 - 6s - loss: 0.0045 - iou_binarized: 0.9363 - iou: 0.9115 - recall: 0.9624 - precision: 0.9440 - F1_score: 0.9530 - 6s/epoch - 73ms/step
+Epoch 159/400
+80/80 - 6s - loss: 0.0044 - iou_binarized: 0.9367 - iou: 0.9120 - recall: 0.9626 - precision: 0.9444 - F1_score: 0.9533 - 6s/epoch - 73ms/step
+Epoch 160/400
+80/80 - 6s - loss: 0.0044 - iou_binarized: 0.9370 - iou: 0.9125 - recall: 0.9629 - precision: 0.9447 - F1_score: 0.9536 - 6s/epoch - 73ms/step
+Epoch 161/400
+80/80 - 6s - loss: 0.0045 - iou_binarized: 0.9350 - iou: 0.9109 - recall: 0.9622 - precision: 0.9436 - F1_score: 0.9527 - 6s/epoch - 72ms/step
+Epoch 162/400
+80/80 - 6s - loss: 0.0045 - iou_binarized: 0.9355 - iou: 0.9109 - recall: 0.9626 - precision: 0.9432 - F1_score: 0.9527 - 6s/epoch - 72ms/step
+Epoch 163/400
+80/80 - 6s - loss: 0.0044 - iou_binarized: 0.9366 - iou: 0.9120 - recall: 0.9631 - precision: 0.9440 - F1_score: 0.9534 - 6s/epoch - 71ms/step
+Epoch 164/400
+80/80 - 6s - loss: 0.0043 - iou_binarized: 0.9374 - iou: 0.9131 - recall: 0.9635 - precision: 0.9447 - F1_score: 0.9540 - 6s/epoch - 75ms/step
+Epoch 165/400
+80/80 - 6s - loss: 0.0043 - iou_binarized: 0.9380 - iou: 0.9138 - recall: 0.9639 - precision: 0.9451 - F1_score: 0.9544 - 6s/epoch - 72ms/step
+Epoch 166/400
+80/80 - 6s - loss: 0.0043 - iou_binarized: 0.9384 - iou: 0.9144 - recall: 0.9642 - precision: 0.9455 - F1_score: 0.9547 - 6s/epoch - 73ms/step
+Epoch 167/400
+80/80 - 6s - loss: 0.0042 - iou_binarized: 0.9388 - iou: 0.9149 - recall: 0.9644 - precision: 0.9459 - F1_score: 0.9550 - 6s/epoch - 73ms/step
+Epoch 168/400
+80/80 - 6s - loss: 0.0042 - iou_binarized: 0.9392 - iou: 0.9154 - recall: 0.9646 - precision: 0.9462 - F1_score: 0.9553 - 6s/epoch - 74ms/step
+Epoch 169/400
+80/80 - 6s - loss: 0.0042 - iou_binarized: 0.9396 - iou: 0.9159 - recall: 0.9648 - precision: 0.9465 - F1_score: 0.9555 - 6s/epoch - 74ms/step
+Epoch 170/400
+80/80 - 6s - loss: 0.0042 - iou_binarized: 0.9399 - iou: 0.9163 - recall: 0.9650 - precision: 0.9468 - F1_score: 0.9557 - 6s/epoch - 73ms/step
+Epoch 171/400
+80/80 - 6s - loss: 0.0042 - iou_binarized: 0.9402 - iou: 0.9167 - recall: 0.9652 - precision: 0.9470 - F1_score: 0.9560 - 6s/epoch - 73ms/step
+Epoch 172/400
+80/80 - 6s - loss: 0.0041 - iou_binarized: 0.9405 - iou: 0.9171 - recall: 0.9653 - precision: 0.9473 - F1_score: 0.9562 - 6s/epoch - 73ms/step
+Epoch 173/400
+80/80 - 6s - loss: 0.0041 - iou_binarized: 0.9407 - iou: 0.9174 - recall: 0.9655 - precision: 0.9475 - F1_score: 0.9564 - 6s/epoch - 73ms/step
+Epoch 174/400
+80/80 - 6s - loss: 0.0041 - iou_binarized: 0.9409 - iou: 0.9177 - recall: 0.9656 - precision: 0.9477 - F1_score: 0.9565 - 6s/epoch - 73ms/step
+Epoch 175/400
+80/80 - 6s - loss: 0.0041 - iou_binarized: 0.9412 - iou: 0.9181 - recall: 0.9658 - precision: 0.9479 - F1_score: 0.9567 - 6s/epoch - 73ms/step
+Epoch 176/400
+80/80 - 6s - loss: 0.0041 - iou_binarized: 0.9414 - iou: 0.9184 - recall: 0.9659 - precision: 0.9482 - F1_score: 0.9569 - 6s/epoch - 73ms/step
+Epoch 177/400
+80/80 - 6s - loss: 0.0041 - iou_binarized: 0.9417 - iou: 0.9187 - recall: 0.9660 - precision: 0.9484 - F1_score: 0.9571 - 6s/epoch - 73ms/step
+Epoch 178/400
+80/80 - 6s - loss: 0.0040 - iou_binarized: 0.9419 - iou: 0.9190 - recall: 0.9662 - precision: 0.9486 - F1_score: 0.9572 - 6s/epoch - 74ms/step
+Epoch 179/400
+80/80 - 6s - loss: 0.0040 - iou_binarized: 0.9421 - iou: 0.9193 - recall: 0.9663 - precision: 0.9488 - F1_score: 0.9574 - 6s/epoch - 74ms/step
+Epoch 180/400
+80/80 - 6s - loss: 0.0040 - iou_binarized: 0.9423 - iou: 0.9196 - recall: 0.9664 - precision: 0.9490 - F1_score: 0.9576 - 6s/epoch - 73ms/step
+Epoch 181/400
+80/80 - 6s - loss: 0.0041 - iou_binarized: 0.9412 - iou: 0.9187 - recall: 0.9662 - precision: 0.9483 - F1_score: 0.9571 - 6s/epoch - 72ms/step
+Epoch 182/400
+80/80 - 6s - loss: 0.0041 - iou_binarized: 0.9410 - iou: 0.9183 - recall: 0.9660 - precision: 0.9479 - F1_score: 0.9568 - 6s/epoch - 71ms/step
+Epoch 183/400
+80/80 - 6s - loss: 0.0041 - iou_binarized: 0.9409 - iou: 0.9181 - recall: 0.9659 - precision: 0.9479 - F1_score: 0.9567 - 6s/epoch - 72ms/step
+Epoch 184/400
+80/80 - 6s - loss: 0.0041 - iou_binarized: 0.9409 - iou: 0.9181 - recall: 0.9659 - precision: 0.9478 - F1_score: 0.9567 - 6s/epoch - 72ms/step
+Epoch 185/400
+80/80 - 6s - loss: 0.0041 - iou_binarized: 0.9410 - iou: 0.9182 - recall: 0.9660 - precision: 0.9479 - F1_score: 0.9568 - 6s/epoch - 72ms/step
+Epoch 186/400
+80/80 - 6s - loss: 0.0041 - iou_binarized: 0.9410 - iou: 0.9183 - recall: 0.9660 - precision: 0.9480 - F1_score: 0.9568 - 6s/epoch - 72ms/step
+Epoch 187/400
+80/80 - 6s - loss: 0.0041 - iou_binarized: 0.9412 - iou: 0.9185 - recall: 0.9661 - precision: 0.9481 - F1_score: 0.9569 - 6s/epoch - 72ms/step
+Epoch 188/400
+80/80 - 6s - loss: 0.0041 - iou_binarized: 0.9413 - iou: 0.9186 - recall: 0.9662 - precision: 0.9482 - F1_score: 0.9570 - 6s/epoch - 72ms/step
+Epoch 189/400
+80/80 - 6s - loss: 0.0040 - iou_binarized: 0.9415 - iou: 0.9189 - recall: 0.9662 - precision: 0.9484 - F1_score: 0.9572 - 6s/epoch - 73ms/step
+Epoch 190/400
+80/80 - 6s - loss: 0.0040 - iou_binarized: 0.9417 - iou: 0.9191 - recall: 0.9663 - precision: 0.9485 - F1_score: 0.9573 - 6s/epoch - 72ms/step
+Epoch 191/400
+80/80 - 6s - loss: 0.0040 - iou_binarized: 0.9419 - iou: 0.9194 - recall: 0.9664 - precision: 0.9487 - F1_score: 0.9574 - 6s/epoch - 72ms/step
+Epoch 192/400
+80/80 - 6s - loss: 0.0040 - iou_binarized: 0.9422 - iou: 0.9196 - recall: 0.9665 - precision: 0.9489 - F1_score: 0.9576 - 6s/epoch - 73ms/step
+Epoch 193/400
+80/80 - 6s - loss: 0.0040 - iou_binarized: 0.9424 - iou: 0.9199 - recall: 0.9666 - precision: 0.9491 - F1_score: 0.9577 - 6s/epoch - 73ms/step
+Epoch 194/400
+80/80 - 6s - loss: 0.0040 - iou_binarized: 0.9426 - iou: 0.9202 - recall: 0.9667 - precision: 0.9493 - F1_score: 0.9579 - 6s/epoch - 73ms/step
+Epoch 195/400
+80/80 - 6s - loss: 0.0040 - iou_binarized: 0.9429 - iou: 0.9205 - recall: 0.9668 - precision: 0.9495 - F1_score: 0.9581 - 6s/epoch - 73ms/step
+Epoch 196/400
+80/80 - 6s - loss: 0.0039 - iou_binarized: 0.9431 - iou: 0.9208 - recall: 0.9669 - precision: 0.9497 - F1_score: 0.9582 - 6s/epoch - 73ms/step
+Epoch 197/400
+80/80 - 6s - loss: 0.0039 - iou_binarized: 0.9433 - iou: 0.9210 - recall: 0.9670 - precision: 0.9499 - F1_score: 0.9584 - 6s/epoch - 74ms/step
+Epoch 198/400
+80/80 - 6s - loss: 0.0039 - iou_binarized: 0.9435 - iou: 0.9213 - recall: 0.9671 - precision: 0.9501 - F1_score: 0.9585 - 6s/epoch - 73ms/step
+Epoch 199/400
+80/80 - 6s - loss: 0.0039 - iou_binarized: 0.9437 - iou: 0.9215 - recall: 0.9672 - precision: 0.9503 - F1_score: 0.9586 - 6s/epoch - 74ms/step
+Epoch 200/400
+80/80 - 6s - loss: 0.0039 - iou_binarized: 0.9439 - iou: 0.9218 - recall: 0.9673 - precision: 0.9505 - F1_score: 0.9588 - 6s/epoch - 74ms/step
+Epoch 201/400
+80/80 - 6s - loss: 0.0039 - iou_binarized: 0.9432 - iou: 0.9213 - recall: 0.9667 - precision: 0.9505 - F1_score: 0.9585 - 6s/epoch - 72ms/step
+Epoch 202/400
+80/80 - 6s - loss: 0.0039 - iou_binarized: 0.9431 - iou: 0.9211 - recall: 0.9668 - precision: 0.9503 - F1_score: 0.9584 - 6s/epoch - 72ms/step
+Epoch 203/400
+80/80 - 6s - loss: 0.0039 - iou_binarized: 0.9433 - iou: 0.9213 - recall: 0.9669 - precision: 0.9504 - F1_score: 0.9585 - 6s/epoch - 72ms/step
+Epoch 204/400
+80/80 - 6s - loss: 0.0039 - iou_binarized: 0.9436 - iou: 0.9216 - recall: 0.9669 - precision: 0.9506 - F1_score: 0.9587 - 6s/epoch - 72ms/step
+Epoch 205/400
+80/80 - 6s - loss: 0.0039 - iou_binarized: 0.9438 - iou: 0.9218 - recall: 0.9670 - precision: 0.9507 - F1_score: 0.9588 - 6s/epoch - 73ms/step
+Epoch 206/400
+80/80 - 6s - loss: 0.0039 - iou_binarized: 0.9440 - iou: 0.9221 - recall: 0.9671 - precision: 0.9509 - F1_score: 0.9589 - 6s/epoch - 73ms/step
+Epoch 207/400
+80/80 - 6s - loss: 0.0039 - iou_binarized: 0.9441 - iou: 0.9223 - recall: 0.9672 - precision: 0.9510 - F1_score: 0.9590 - 6s/epoch - 73ms/step
+Epoch 208/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9443 - iou: 0.9225 - recall: 0.9673 - precision: 0.9512 - F1_score: 0.9592 - 6s/epoch - 73ms/step
+Epoch 209/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9444 - iou: 0.9227 - recall: 0.9674 - precision: 0.9513 - F1_score: 0.9593 - 6s/epoch - 74ms/step
+Epoch 210/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9446 - iou: 0.9229 - recall: 0.9675 - precision: 0.9515 - F1_score: 0.9594 - 6s/epoch - 74ms/step
+Epoch 211/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9447 - iou: 0.9231 - recall: 0.9675 - precision: 0.9516 - F1_score: 0.9595 - 6s/epoch - 73ms/step
+Epoch 212/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9449 - iou: 0.9232 - recall: 0.9676 - precision: 0.9517 - F1_score: 0.9596 - 6s/epoch - 73ms/step
+Epoch 213/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9450 - iou: 0.9234 - recall: 0.9677 - precision: 0.9518 - F1_score: 0.9597 - 6s/epoch - 73ms/step
+Epoch 214/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9451 - iou: 0.9236 - recall: 0.9678 - precision: 0.9519 - F1_score: 0.9598 - 6s/epoch - 73ms/step
+Epoch 215/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9452 - iou: 0.9237 - recall: 0.9679 - precision: 0.9520 - F1_score: 0.9599 - 6s/epoch - 73ms/step
+Epoch 216/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9454 - iou: 0.9239 - recall: 0.9679 - precision: 0.9521 - F1_score: 0.9599 - 6s/epoch - 73ms/step
+Epoch 217/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9455 - iou: 0.9241 - recall: 0.9680 - precision: 0.9522 - F1_score: 0.9600 - 6s/epoch - 73ms/step
+Epoch 218/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9456 - iou: 0.9242 - recall: 0.9681 - precision: 0.9523 - F1_score: 0.9601 - 6s/epoch - 73ms/step
+Epoch 219/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9457 - iou: 0.9243 - recall: 0.9681 - precision: 0.9524 - F1_score: 0.9602 - 6s/epoch - 73ms/step
+Epoch 220/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9459 - iou: 0.9245 - recall: 0.9682 - precision: 0.9525 - F1_score: 0.9603 - 6s/epoch - 74ms/step
+Epoch 221/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9451 - iou: 0.9240 - recall: 0.9678 - precision: 0.9523 - F1_score: 0.9600 - 6s/epoch - 71ms/step
+Epoch 222/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9449 - iou: 0.9237 - recall: 0.9678 - precision: 0.9521 - F1_score: 0.9598 - 6s/epoch - 72ms/step
+Epoch 223/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9449 - iou: 0.9236 - recall: 0.9677 - precision: 0.9520 - F1_score: 0.9598 - 6s/epoch - 72ms/step
+Epoch 224/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9449 - iou: 0.9236 - recall: 0.9677 - precision: 0.9520 - F1_score: 0.9598 - 6s/epoch - 72ms/step
+Epoch 225/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9450 - iou: 0.9236 - recall: 0.9678 - precision: 0.9520 - F1_score: 0.9598 - 6s/epoch - 71ms/step
+Epoch 226/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9451 - iou: 0.9237 - recall: 0.9678 - precision: 0.9520 - F1_score: 0.9598 - 6s/epoch - 72ms/step
+Epoch 227/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9451 - iou: 0.9238 - recall: 0.9679 - precision: 0.9520 - F1_score: 0.9599 - 6s/epoch - 71ms/step
+Epoch 228/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9452 - iou: 0.9238 - recall: 0.9679 - precision: 0.9521 - F1_score: 0.9599 - 6s/epoch - 72ms/step
+Epoch 229/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9453 - iou: 0.9239 - recall: 0.9680 - precision: 0.9521 - F1_score: 0.9600 - 6s/epoch - 71ms/step
+Epoch 230/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9454 - iou: 0.9240 - recall: 0.9680 - precision: 0.9522 - F1_score: 0.9600 - 6s/epoch - 73ms/step
+Epoch 231/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9455 - iou: 0.9241 - recall: 0.9681 - precision: 0.9522 - F1_score: 0.9601 - 6s/epoch - 72ms/step
+Epoch 232/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9456 - iou: 0.9242 - recall: 0.9681 - precision: 0.9523 - F1_score: 0.9601 - 6s/epoch - 71ms/step
+Epoch 233/400
+80/80 - 6s - loss: 0.0038 - iou_binarized: 0.9457 - iou: 0.9243 - recall: 0.9682 - precision: 0.9524 - F1_score: 0.9602 - 6s/epoch - 72ms/step
+Epoch 234/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9458 - iou: 0.9245 - recall: 0.9683 - precision: 0.9524 - F1_score: 0.9603 - 6s/epoch - 72ms/step
+Epoch 235/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9459 - iou: 0.9246 - recall: 0.9683 - precision: 0.9525 - F1_score: 0.9603 - 6s/epoch - 73ms/step
+Epoch 236/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9460 - iou: 0.9247 - recall: 0.9684 - precision: 0.9526 - F1_score: 0.9604 - 6s/epoch - 73ms/step
+Epoch 237/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9461 - iou: 0.9248 - recall: 0.9685 - precision: 0.9527 - F1_score: 0.9605 - 6s/epoch - 73ms/step
+Epoch 238/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9462 - iou: 0.9250 - recall: 0.9685 - precision: 0.9527 - F1_score: 0.9605 - 6s/epoch - 73ms/step
+Epoch 239/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9463 - iou: 0.9251 - recall: 0.9686 - precision: 0.9528 - F1_score: 0.9606 - 6s/epoch - 73ms/step
+Epoch 240/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9464 - iou: 0.9252 - recall: 0.9686 - precision: 0.9529 - F1_score: 0.9607 - 6s/epoch - 74ms/step
+Epoch 241/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9459 - iou: 0.9248 - recall: 0.9686 - precision: 0.9525 - F1_score: 0.9605 - 6s/epoch - 73ms/step
+Epoch 242/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9458 - iou: 0.9248 - recall: 0.9685 - precision: 0.9525 - F1_score: 0.9604 - 6s/epoch - 71ms/step
+Epoch 243/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9460 - iou: 0.9248 - recall: 0.9685 - precision: 0.9526 - F1_score: 0.9605 - 6s/epoch - 72ms/step
+Epoch 244/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9461 - iou: 0.9249 - recall: 0.9685 - precision: 0.9527 - F1_score: 0.9605 - 6s/epoch - 72ms/step
+Epoch 245/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9462 - iou: 0.9250 - recall: 0.9686 - precision: 0.9528 - F1_score: 0.9606 - 6s/epoch - 72ms/step
+Epoch 246/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9463 - iou: 0.9252 - recall: 0.9686 - precision: 0.9528 - F1_score: 0.9606 - 6s/epoch - 72ms/step
+Epoch 247/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9464 - iou: 0.9253 - recall: 0.9687 - precision: 0.9529 - F1_score: 0.9607 - 6s/epoch - 73ms/step
+Epoch 248/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9465 - iou: 0.9254 - recall: 0.9687 - precision: 0.9530 - F1_score: 0.9608 - 6s/epoch - 73ms/step
+Epoch 249/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9466 - iou: 0.9255 - recall: 0.9688 - precision: 0.9531 - F1_score: 0.9608 - 6s/epoch - 73ms/step
+Epoch 250/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9467 - iou: 0.9256 - recall: 0.9688 - precision: 0.9532 - F1_score: 0.9609 - 6s/epoch - 73ms/step
+Epoch 251/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9468 - iou: 0.9257 - recall: 0.9688 - precision: 0.9532 - F1_score: 0.9610 - 6s/epoch - 75ms/step
+Epoch 252/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9468 - iou: 0.9258 - recall: 0.9689 - precision: 0.9533 - F1_score: 0.9610 - 6s/epoch - 74ms/step
+Epoch 253/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9469 - iou: 0.9259 - recall: 0.9689 - precision: 0.9534 - F1_score: 0.9611 - 6s/epoch - 73ms/step
+Epoch 254/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9470 - iou: 0.9260 - recall: 0.9690 - precision: 0.9534 - F1_score: 0.9611 - 6s/epoch - 73ms/step
+Epoch 255/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9471 - iou: 0.9261 - recall: 0.9690 - precision: 0.9535 - F1_score: 0.9612 - 6s/epoch - 73ms/step
+Epoch 256/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9472 - iou: 0.9262 - recall: 0.9691 - precision: 0.9536 - F1_score: 0.9612 - 6s/epoch - 73ms/step
+Epoch 257/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9473 - iou: 0.9263 - recall: 0.9691 - precision: 0.9536 - F1_score: 0.9613 - 6s/epoch - 75ms/step
+Epoch 258/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9473 - iou: 0.9264 - recall: 0.9691 - precision: 0.9537 - F1_score: 0.9613 - 6s/epoch - 73ms/step
+Epoch 259/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9474 - iou: 0.9265 - recall: 0.9692 - precision: 0.9538 - F1_score: 0.9614 - 6s/epoch - 73ms/step
+Epoch 260/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9475 - iou: 0.9266 - recall: 0.9692 - precision: 0.9538 - F1_score: 0.9614 - 6s/epoch - 73ms/step
+Epoch 261/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9470 - iou: 0.9263 - recall: 0.9692 - precision: 0.9535 - F1_score: 0.9613 - 6s/epoch - 73ms/step
+Epoch 262/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9471 - iou: 0.9263 - recall: 0.9691 - precision: 0.9536 - F1_score: 0.9613 - 6s/epoch - 72ms/step
+Epoch 263/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9471 - iou: 0.9263 - recall: 0.9691 - precision: 0.9536 - F1_score: 0.9613 - 6s/epoch - 72ms/step
+Epoch 264/400
+80/80 - 6s - loss: 0.0037 - iou_binarized: 0.9472 - iou: 0.9263 - recall: 0.9691 - precision: 0.9536 - F1_score: 0.9613 - 6s/epoch - 71ms/step
+Epoch 265/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9472 - iou: 0.9264 - recall: 0.9691 - precision: 0.9537 - F1_score: 0.9613 - 6s/epoch - 71ms/step
+Epoch 266/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9473 - iou: 0.9264 - recall: 0.9692 - precision: 0.9537 - F1_score: 0.9613 - 6s/epoch - 71ms/step
+Epoch 267/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9473 - iou: 0.9265 - recall: 0.9692 - precision: 0.9537 - F1_score: 0.9614 - 6s/epoch - 72ms/step
+Epoch 268/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9474 - iou: 0.9266 - recall: 0.9692 - precision: 0.9538 - F1_score: 0.9614 - 6s/epoch - 72ms/step
+Epoch 269/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9474 - iou: 0.9266 - recall: 0.9692 - precision: 0.9538 - F1_score: 0.9614 - 6s/epoch - 72ms/step
+Epoch 270/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9475 - iou: 0.9267 - recall: 0.9693 - precision: 0.9539 - F1_score: 0.9615 - 6s/epoch - 73ms/step
+Epoch 271/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9475 - iou: 0.9268 - recall: 0.9693 - precision: 0.9539 - F1_score: 0.9615 - 6s/epoch - 74ms/step
+Epoch 272/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9476 - iou: 0.9268 - recall: 0.9693 - precision: 0.9539 - F1_score: 0.9616 - 6s/epoch - 74ms/step
+Epoch 273/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9476 - iou: 0.9269 - recall: 0.9693 - precision: 0.9540 - F1_score: 0.9616 - 6s/epoch - 74ms/step
+Epoch 274/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9477 - iou: 0.9270 - recall: 0.9694 - precision: 0.9540 - F1_score: 0.9616 - 6s/epoch - 73ms/step
+Epoch 275/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9477 - iou: 0.9270 - recall: 0.9694 - precision: 0.9541 - F1_score: 0.9617 - 6s/epoch - 73ms/step
+Epoch 276/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9478 - iou: 0.9271 - recall: 0.9694 - precision: 0.9541 - F1_score: 0.9617 - 6s/epoch - 73ms/step
+Epoch 277/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9478 - iou: 0.9272 - recall: 0.9695 - precision: 0.9542 - F1_score: 0.9617 - 6s/epoch - 73ms/step
+Epoch 278/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9479 - iou: 0.9272 - recall: 0.9695 - precision: 0.9542 - F1_score: 0.9618 - 6s/epoch - 74ms/step
+Epoch 279/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9479 - iou: 0.9273 - recall: 0.9695 - precision: 0.9542 - F1_score: 0.9618 - 6s/epoch - 73ms/step
+Epoch 280/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9480 - iou: 0.9273 - recall: 0.9695 - precision: 0.9543 - F1_score: 0.9618 - 6s/epoch - 73ms/step
+Epoch 281/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9477 - iou: 0.9272 - recall: 0.9696 - precision: 0.9541 - F1_score: 0.9617 - 6s/epoch - 72ms/step
+Epoch 282/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9477 - iou: 0.9271 - recall: 0.9695 - precision: 0.9541 - F1_score: 0.9617 - 6s/epoch - 74ms/step
+Epoch 283/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9478 - iou: 0.9272 - recall: 0.9695 - precision: 0.9541 - F1_score: 0.9617 - 6s/epoch - 73ms/step
+Epoch 284/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9478 - iou: 0.9272 - recall: 0.9696 - precision: 0.9542 - F1_score: 0.9618 - 6s/epoch - 71ms/step
+Epoch 285/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9479 - iou: 0.9273 - recall: 0.9696 - precision: 0.9542 - F1_score: 0.9618 - 6s/epoch - 71ms/step
+Epoch 286/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9479 - iou: 0.9273 - recall: 0.9696 - precision: 0.9542 - F1_score: 0.9618 - 6s/epoch - 73ms/step
+Epoch 287/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9480 - iou: 0.9274 - recall: 0.9696 - precision: 0.9543 - F1_score: 0.9619 - 6s/epoch - 73ms/step
+Epoch 288/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9481 - iou: 0.9275 - recall: 0.9697 - precision: 0.9543 - F1_score: 0.9619 - 6s/epoch - 73ms/step
+Epoch 289/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9481 - iou: 0.9275 - recall: 0.9697 - precision: 0.9543 - F1_score: 0.9619 - 6s/epoch - 74ms/step
+Epoch 290/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9482 - iou: 0.9276 - recall: 0.9697 - precision: 0.9544 - F1_score: 0.9620 - 6s/epoch - 73ms/step
+Epoch 291/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9482 - iou: 0.9277 - recall: 0.9698 - precision: 0.9544 - F1_score: 0.9620 - 6s/epoch - 73ms/step
+Epoch 292/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9483 - iou: 0.9277 - recall: 0.9698 - precision: 0.9545 - F1_score: 0.9620 - 6s/epoch - 75ms/step
+Epoch 293/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9483 - iou: 0.9278 - recall: 0.9698 - precision: 0.9545 - F1_score: 0.9621 - 6s/epoch - 73ms/step
+Epoch 294/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9484 - iou: 0.9278 - recall: 0.9698 - precision: 0.9545 - F1_score: 0.9621 - 6s/epoch - 72ms/step
+Epoch 295/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9484 - iou: 0.9279 - recall: 0.9699 - precision: 0.9546 - F1_score: 0.9621 - 6s/epoch - 74ms/step
+Epoch 296/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9485 - iou: 0.9280 - recall: 0.9699 - precision: 0.9546 - F1_score: 0.9622 - 6s/epoch - 73ms/step
+Epoch 297/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9485 - iou: 0.9280 - recall: 0.9699 - precision: 0.9547 - F1_score: 0.9622 - 6s/epoch - 73ms/step
+Epoch 298/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9485 - iou: 0.9281 - recall: 0.9699 - precision: 0.9547 - F1_score: 0.9622 - 6s/epoch - 73ms/step
+Epoch 299/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9486 - iou: 0.9281 - recall: 0.9700 - precision: 0.9547 - F1_score: 0.9623 - 6s/epoch - 73ms/step
+Epoch 300/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9486 - iou: 0.9282 - recall: 0.9700 - precision: 0.9548 - F1_score: 0.9623 - 6s/epoch - 73ms/step
+Epoch 301/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9486 - iou: 0.9282 - recall: 0.9700 - precision: 0.9547 - F1_score: 0.9623 - 6s/epoch - 72ms/step
+Epoch 302/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9486 - iou: 0.9282 - recall: 0.9700 - precision: 0.9547 - F1_score: 0.9623 - 6s/epoch - 74ms/step
+Epoch 303/400
+80/80 - 6s - loss: 0.0036 - iou_binarized: 0.9487 - iou: 0.9282 - recall: 0.9700 - precision: 0.9548 - F1_score: 0.9623 - 6s/epoch - 73ms/step
+Epoch 304/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9487 - iou: 0.9283 - recall: 0.9701 - precision: 0.9548 - F1_score: 0.9623 - 6s/epoch - 74ms/step
+Epoch 305/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9487 - iou: 0.9283 - recall: 0.9701 - precision: 0.9548 - F1_score: 0.9624 - 6s/epoch - 73ms/step
+Epoch 306/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9487 - iou: 0.9283 - recall: 0.9701 - precision: 0.9548 - F1_score: 0.9624 - 6s/epoch - 73ms/step
+Epoch 307/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9488 - iou: 0.9284 - recall: 0.9701 - precision: 0.9549 - F1_score: 0.9624 - 6s/epoch - 73ms/step
+Epoch 308/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9488 - iou: 0.9284 - recall: 0.9701 - precision: 0.9549 - F1_score: 0.9624 - 6s/epoch - 73ms/step
+Epoch 309/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9489 - iou: 0.9285 - recall: 0.9701 - precision: 0.9549 - F1_score: 0.9625 - 6s/epoch - 73ms/step
+Epoch 310/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9489 - iou: 0.9285 - recall: 0.9702 - precision: 0.9550 - F1_score: 0.9625 - 6s/epoch - 73ms/step
+Epoch 311/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9489 - iou: 0.9286 - recall: 0.9702 - precision: 0.9550 - F1_score: 0.9625 - 6s/epoch - 73ms/step
+Epoch 312/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9490 - iou: 0.9286 - recall: 0.9702 - precision: 0.9550 - F1_score: 0.9625 - 6s/epoch - 74ms/step
+Epoch 313/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9490 - iou: 0.9286 - recall: 0.9702 - precision: 0.9551 - F1_score: 0.9625 - 6s/epoch - 74ms/step
+Epoch 314/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9490 - iou: 0.9287 - recall: 0.9702 - precision: 0.9551 - F1_score: 0.9626 - 6s/epoch - 73ms/step
+Epoch 315/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9491 - iou: 0.9287 - recall: 0.9702 - precision: 0.9551 - F1_score: 0.9626 - 6s/epoch - 73ms/step
+Epoch 316/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9491 - iou: 0.9288 - recall: 0.9703 - precision: 0.9551 - F1_score: 0.9626 - 6s/epoch - 73ms/step
+Epoch 317/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9491 - iou: 0.9288 - recall: 0.9703 - precision: 0.9552 - F1_score: 0.9626 - 6s/epoch - 73ms/step
+Epoch 318/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9492 - iou: 0.9288 - recall: 0.9703 - precision: 0.9552 - F1_score: 0.9627 - 6s/epoch - 73ms/step
+Epoch 319/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9492 - iou: 0.9289 - recall: 0.9703 - precision: 0.9552 - F1_score: 0.9627 - 6s/epoch - 74ms/step
+Epoch 320/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9492 - iou: 0.9289 - recall: 0.9703 - precision: 0.9552 - F1_score: 0.9627 - 6s/epoch - 73ms/step
+Epoch 321/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9492 - iou: 0.9289 - recall: 0.9704 - precision: 0.9552 - F1_score: 0.9627 - 6s/epoch - 72ms/step
+Epoch 322/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9492 - iou: 0.9289 - recall: 0.9704 - precision: 0.9552 - F1_score: 0.9627 - 6s/epoch - 73ms/step
+Epoch 323/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9492 - iou: 0.9290 - recall: 0.9704 - precision: 0.9552 - F1_score: 0.9627 - 6s/epoch - 74ms/step
+Epoch 324/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9493 - iou: 0.9290 - recall: 0.9704 - precision: 0.9552 - F1_score: 0.9627 - 6s/epoch - 73ms/step
+Epoch 325/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9493 - iou: 0.9290 - recall: 0.9704 - precision: 0.9553 - F1_score: 0.9628 - 6s/epoch - 73ms/step
+Epoch 326/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9493 - iou: 0.9290 - recall: 0.9704 - precision: 0.9553 - F1_score: 0.9628 - 6s/epoch - 73ms/step
+Epoch 327/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9494 - iou: 0.9291 - recall: 0.9704 - precision: 0.9553 - F1_score: 0.9628 - 6s/epoch - 73ms/step
+Epoch 328/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9494 - iou: 0.9291 - recall: 0.9704 - precision: 0.9553 - F1_score: 0.9628 - 6s/epoch - 73ms/step
+Epoch 329/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9494 - iou: 0.9291 - recall: 0.9705 - precision: 0.9553 - F1_score: 0.9628 - 6s/epoch - 73ms/step
+Epoch 330/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9494 - iou: 0.9292 - recall: 0.9705 - precision: 0.9554 - F1_score: 0.9628 - 6s/epoch - 73ms/step
+Epoch 331/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9495 - iou: 0.9292 - recall: 0.9705 - precision: 0.9554 - F1_score: 0.9628 - 6s/epoch - 73ms/step
+Epoch 332/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9495 - iou: 0.9292 - recall: 0.9705 - precision: 0.9554 - F1_score: 0.9629 - 6s/epoch - 73ms/step
+Epoch 333/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9495 - iou: 0.9292 - recall: 0.9705 - precision: 0.9554 - F1_score: 0.9629 - 6s/epoch - 75ms/step
+Epoch 334/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9495 - iou: 0.9293 - recall: 0.9705 - precision: 0.9554 - F1_score: 0.9629 - 6s/epoch - 73ms/step
+Epoch 335/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9495 - iou: 0.9293 - recall: 0.9705 - precision: 0.9555 - F1_score: 0.9629 - 6s/epoch - 73ms/step
+Epoch 336/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9495 - iou: 0.9293 - recall: 0.9705 - precision: 0.9555 - F1_score: 0.9629 - 6s/epoch - 74ms/step
+Epoch 337/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9496 - iou: 0.9293 - recall: 0.9705 - precision: 0.9555 - F1_score: 0.9629 - 6s/epoch - 73ms/step
+Epoch 338/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9496 - iou: 0.9294 - recall: 0.9705 - precision: 0.9555 - F1_score: 0.9629 - 6s/epoch - 73ms/step
+Epoch 339/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9496 - iou: 0.9294 - recall: 0.9706 - precision: 0.9555 - F1_score: 0.9630 - 6s/epoch - 73ms/step
+Epoch 340/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9496 - iou: 0.9294 - recall: 0.9706 - precision: 0.9555 - F1_score: 0.9630 - 6s/epoch - 73ms/step
+Epoch 341/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9496 - iou: 0.9294 - recall: 0.9706 - precision: 0.9555 - F1_score: 0.9630 - 6s/epoch - 73ms/step
+Epoch 342/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9496 - iou: 0.9294 - recall: 0.9706 - precision: 0.9555 - F1_score: 0.9630 - 6s/epoch - 73ms/step
+Epoch 343/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9496 - iou: 0.9295 - recall: 0.9706 - precision: 0.9555 - F1_score: 0.9630 - 6s/epoch - 75ms/step
+Epoch 344/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9497 - iou: 0.9295 - recall: 0.9706 - precision: 0.9556 - F1_score: 0.9630 - 6s/epoch - 73ms/step
+Epoch 345/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9497 - iou: 0.9295 - recall: 0.9706 - precision: 0.9556 - F1_score: 0.9630 - 6s/epoch - 75ms/step
+Epoch 346/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9497 - iou: 0.9295 - recall: 0.9706 - precision: 0.9556 - F1_score: 0.9630 - 6s/epoch - 73ms/step
+Epoch 347/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9497 - iou: 0.9295 - recall: 0.9706 - precision: 0.9556 - F1_score: 0.9630 - 6s/epoch - 73ms/step
+Epoch 348/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9497 - iou: 0.9296 - recall: 0.9707 - precision: 0.9556 - F1_score: 0.9631 - 6s/epoch - 74ms/step
+Epoch 349/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9497 - iou: 0.9296 - recall: 0.9707 - precision: 0.9556 - F1_score: 0.9631 - 6s/epoch - 73ms/step
+Epoch 350/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9497 - iou: 0.9296 - recall: 0.9707 - precision: 0.9556 - F1_score: 0.9631 - 6s/epoch - 73ms/step
+Epoch 351/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9498 - iou: 0.9296 - recall: 0.9707 - precision: 0.9557 - F1_score: 0.9631 - 6s/epoch - 73ms/step
+Epoch 352/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9498 - iou: 0.9296 - recall: 0.9707 - precision: 0.9557 - F1_score: 0.9631 - 6s/epoch - 73ms/step
+Epoch 353/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9498 - iou: 0.9297 - recall: 0.9707 - precision: 0.9557 - F1_score: 0.9631 - 6s/epoch - 74ms/step
+Epoch 354/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9498 - iou: 0.9297 - recall: 0.9707 - precision: 0.9557 - F1_score: 0.9631 - 6s/epoch - 74ms/step
+Epoch 355/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9498 - iou: 0.9297 - recall: 0.9707 - precision: 0.9557 - F1_score: 0.9631 - 6s/epoch - 72ms/step
+Epoch 356/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9498 - iou: 0.9297 - recall: 0.9707 - precision: 0.9557 - F1_score: 0.9631 - 6s/epoch - 73ms/step
+Epoch 357/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9498 - iou: 0.9297 - recall: 0.9707 - precision: 0.9557 - F1_score: 0.9631 - 6s/epoch - 73ms/step
+Epoch 358/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9499 - iou: 0.9297 - recall: 0.9707 - precision: 0.9557 - F1_score: 0.9631 - 6s/epoch - 73ms/step
+Epoch 359/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9499 - iou: 0.9298 - recall: 0.9707 - precision: 0.9557 - F1_score: 0.9632 - 6s/epoch - 73ms/step
+Epoch 360/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9499 - iou: 0.9298 - recall: 0.9707 - precision: 0.9558 - F1_score: 0.9632 - 6s/epoch - 73ms/step
+Epoch 361/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9499 - iou: 0.9298 - recall: 0.9707 - precision: 0.9558 - F1_score: 0.9632 - 6s/epoch - 73ms/step
+Epoch 362/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9499 - iou: 0.9298 - recall: 0.9708 - precision: 0.9558 - F1_score: 0.9632 - 6s/epoch - 72ms/step
+Epoch 363/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9499 - iou: 0.9298 - recall: 0.9708 - precision: 0.9558 - F1_score: 0.9632 - 6s/epoch - 73ms/step
+Epoch 364/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9499 - iou: 0.9298 - recall: 0.9708 - precision: 0.9558 - F1_score: 0.9632 - 6s/epoch - 74ms/step
+Epoch 365/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9499 - iou: 0.9298 - recall: 0.9708 - precision: 0.9558 - F1_score: 0.9632 - 6s/epoch - 73ms/step
+Epoch 366/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9499 - iou: 0.9299 - recall: 0.9708 - precision: 0.9558 - F1_score: 0.9632 - 6s/epoch - 73ms/step
+Epoch 367/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9500 - iou: 0.9299 - recall: 0.9708 - precision: 0.9558 - F1_score: 0.9632 - 6s/epoch - 73ms/step
+Epoch 368/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9500 - iou: 0.9299 - recall: 0.9708 - precision: 0.9558 - F1_score: 0.9632 - 6s/epoch - 72ms/step
+Epoch 369/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9500 - iou: 0.9299 - recall: 0.9708 - precision: 0.9558 - F1_score: 0.9632 - 6s/epoch - 72ms/step
+Epoch 370/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9500 - iou: 0.9299 - recall: 0.9708 - precision: 0.9558 - F1_score: 0.9632 - 6s/epoch - 71ms/step
+Epoch 371/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9500 - iou: 0.9299 - recall: 0.9708 - precision: 0.9559 - F1_score: 0.9633 - 6s/epoch - 73ms/step
+Epoch 372/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9500 - iou: 0.9299 - recall: 0.9708 - precision: 0.9559 - F1_score: 0.9633 - 6s/epoch - 72ms/step
+Epoch 373/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9500 - iou: 0.9299 - recall: 0.9708 - precision: 0.9559 - F1_score: 0.9633 - 6s/epoch - 72ms/step
+Epoch 374/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9500 - iou: 0.9300 - recall: 0.9708 - precision: 0.9559 - F1_score: 0.9633 - 6s/epoch - 74ms/step
+Epoch 375/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9500 - iou: 0.9300 - recall: 0.9708 - precision: 0.9559 - F1_score: 0.9633 - 6s/epoch - 73ms/step
+Epoch 376/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9500 - iou: 0.9300 - recall: 0.9708 - precision: 0.9559 - F1_score: 0.9633 - 6s/epoch - 72ms/step
+Epoch 377/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9500 - iou: 0.9300 - recall: 0.9708 - precision: 0.9559 - F1_score: 0.9633 - 6s/epoch - 72ms/step
+Epoch 378/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9501 - iou: 0.9300 - recall: 0.9708 - precision: 0.9559 - F1_score: 0.9633 - 6s/epoch - 73ms/step
+Epoch 379/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9501 - iou: 0.9300 - recall: 0.9708 - precision: 0.9559 - F1_score: 0.9633 - 6s/epoch - 72ms/step
+Epoch 380/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9501 - iou: 0.9300 - recall: 0.9709 - precision: 0.9559 - F1_score: 0.9633 - 6s/epoch - 72ms/step
+Epoch 381/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9501 - iou: 0.9301 - recall: 0.9708 - precision: 0.9560 - F1_score: 0.9633 - 6s/epoch - 73ms/step
+Epoch 382/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9501 - iou: 0.9301 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9633 - 6s/epoch - 72ms/step
+Epoch 383/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9501 - iou: 0.9301 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9633 - 6s/epoch - 72ms/step
+Epoch 384/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9501 - iou: 0.9301 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9633 - 6s/epoch - 73ms/step
+Epoch 385/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9501 - iou: 0.9301 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9633 - 6s/epoch - 74ms/step
+Epoch 386/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9501 - iou: 0.9301 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9633 - 6s/epoch - 72ms/step
+Epoch 387/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9501 - iou: 0.9301 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9633 - 6s/epoch - 72ms/step
+Epoch 388/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9501 - iou: 0.9301 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9634 - 6s/epoch - 72ms/step
+Epoch 389/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9501 - iou: 0.9301 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9634 - 6s/epoch - 72ms/step
+Epoch 390/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9501 - iou: 0.9301 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9634 - 6s/epoch - 72ms/step
+Epoch 391/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9502 - iou: 0.9301 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9634 - 6s/epoch - 71ms/step
+Epoch 392/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9502 - iou: 0.9301 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9634 - 6s/epoch - 72ms/step
+Epoch 393/400
+80/80 - 6s - loss: 0.0035 - iou_binarized: 0.9502 - iou: 0.9302 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9634 - 6s/epoch - 72ms/step
+Epoch 394/400
+80/80 - 6s - loss: 0.0034 - iou_binarized: 0.9502 - iou: 0.9302 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9634 - 6s/epoch - 72ms/step
+Epoch 395/400
+80/80 - 6s - loss: 0.0034 - iou_binarized: 0.9502 - iou: 0.9302 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9634 - 6s/epoch - 73ms/step
+Epoch 396/400
+80/80 - 6s - loss: 0.0034 - iou_binarized: 0.9502 - iou: 0.9302 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9634 - 6s/epoch - 72ms/step
+Epoch 397/400
+80/80 - 6s - loss: 0.0034 - iou_binarized: 0.9502 - iou: 0.9302 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9634 - 6s/epoch - 72ms/step
+Epoch 398/400
+80/80 - 6s - loss: 0.0034 - iou_binarized: 0.9502 - iou: 0.9302 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9634 - 6s/epoch - 72ms/step
+Epoch 399/400
+80/80 - 6s - loss: 0.0034 - iou_binarized: 0.9502 - iou: 0.9302 - recall: 0.9709 - precision: 0.9560 - F1_score: 0.9634 - 6s/epoch - 72ms/step
+Epoch 400/400
+80/80 - 6s - loss: 0.0034 - iou_binarized: 0.9502 - iou: 0.9302 - recall: 0.9709 - precision: 0.9561 - F1_score: 0.9634 - 6s/epoch - 72ms/step
+
